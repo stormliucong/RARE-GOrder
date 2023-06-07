@@ -19,9 +19,20 @@ Under development, DO NOT USE.
 Include instructions on how to set up the project environment and any specific dependencies required.
 
 ## Usage
+To use `utils.py`, you have to create a local credential file `db.conf`. Keep it in a screte place with proper access management. Remember to fill in details in the {}.
+```
+[ELILEX]
+server = {server_name}
+ohdsi = {database_name}
+preepicnotes = PreEpicNotes
+username = {ohdsi_username}
+password = {ohdsi_password}
 
-Provide instructions on how to use the project, including how to run experiments or perform relevant tasks.
-
+[SOLR]
+solrhost = {solr_url}
+username = {solr_username}
+password = {solr_password}
+```
 ## Data
 
 The original data is collected by the Clinical Genetic Division at Department of Pediatrics at Columbia Universtiy Irving Medical Center. 
