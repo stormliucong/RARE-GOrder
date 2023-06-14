@@ -163,7 +163,7 @@ class OhdsiManager():
             # return all visits.
             where_clause = ''
         else:
-            condition_concept_id = '''
+            where_clause = '''
                 WHERE condition_occurrence.condition_concept_id IN ({condition_concept_id_list})
             '''.format(condition_concept_id_list=','.join(condition_concept_id))
         if not source:
