@@ -13,7 +13,7 @@ import time
 class SqlConnector():
     def __init__(self,configFile='/projects/phi/cl3720/db.conf',database='ohdsi_cumc_2022q4r1'):
         self.config = configparser.ConfigParser()
-        self.config.read('/projects/phi/cl3720/db.conf')
+        self.config.read(configFile)
         # self.config.sections()
         self.server = self.config['ELILEX']['server']
         self.database = database
