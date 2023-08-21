@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 from tqdm.notebook import tqdm_notebook
+## CL: new_utils not available. You can just make changes on the original utils.py since changes are tracked by git.
 from new_utils import SolrManager
 from new_utils import OhdsiManager
 from new_utils import IdManager

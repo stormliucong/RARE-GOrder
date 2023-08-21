@@ -27,7 +27,7 @@ def label_adjustment(df):
             new_label.append(df_whole["label"].iloc[i])
             continue
         if df["Primary indication"].iloc[i].lower() in diseases_list:
-            new_label.append("WES")
+            new_label.append("WES") ## CL: I don't understand this step. I thought we used this disease_list as a feature for prediction not for adjusting labels. We need to double check this with Priyanka. 
         else:
             new_label.append(df["label"].iloc[i])
     return new_label

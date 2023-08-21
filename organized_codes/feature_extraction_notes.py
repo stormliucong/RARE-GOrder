@@ -89,8 +89,11 @@ df_notes_final_clean.dropna(subset=["note_text"], inplace=True)
 
 
 # -------- Extraction of Phenotypes from notes with titles containing word 'note' ---------
+### CL: I will add "visit" to the list of words to filter out.
 # Rationales: 1) Speed up the process, 2) Focused on some common note types: progress notes, nursing notes, observation notes, etc.
 #  
+
+### This step can be optimized in the Solr query stage
 def filter_notes(df):
     filtered_notes = df.copy()
     idx_removed = []
@@ -142,7 +145,7 @@ def negation_detector(df):
     return exported_df
 
 conditions_present = negation_detector(extracted_ptunique_conditions)
-removed_conditions = ["Genetic Test", "Family History"] 
+removed_conditions = ["Genetic Test", "Family History"] ### CL: do we have this two phecode_strs? we may also have to exclude their descandants then.
 # Remove "genetic test" due to potential data leckage
 # Remove "family history" due to some notes (assessment notes) have such common structure field "family history" but a lot of thme showing empty, na
 for r_c  in removed_conditions:

@@ -1,12 +1,18 @@
 import pandas as pd
 import numpy as np
 from tqdm.notebook import tqdm_notebook
+## CL: new_utils not available. You can just make changes on the original utils.py since changes are tracked by git.
 from new_utils import SolrManager
 from new_utils import OhdsiManager
 from new_utils import IdManager
 import re
 import datetime
+import logging
 
+logging.basicConfig(level=logging.INFO,
+                    filename='feature_extraction_structure.log',
+                    format='%(asctime)s %(levelname)s %(message)s',
+                    datefmt='%Y-%m-%d %H:%M:%S')
 
 class preliminary_analysis():
     def __init__(self, df):
@@ -14,17 +20,17 @@ class preliminary_analysis():
     
     def get_info_raw(self):
         '''Get the shape, number of unique patients, patient types, etc'''
-        print(f"The shape of the data is {self.df.shape}")
+        logging.info(f"The shape of the data is {self.df.shape}")
 
-        print("--------------------")
+        logging.info("--------------------")
 
-        print(f"The number of patients in total: {self.df['Epic MRN'].nunique()}")
+        logging.info(f"The number of patients in total: {self.df['Epic MRN'].nunique()}")
 
-        print("--------------------")
+        logging.info("--------------------")
         
-        print(self.df['label'].value_counts())
-        print("--------------------")
-        print(self.df["Type of patient"].value_counts())
+        logging.info(self.df['label'].value_counts())
+        logging.info("--------------------")
+        logging.info(self.df["Type of patient"].value_counts())
 
 
 class preprocessing():
@@ -36,6 +42,7 @@ class preprocessing():
         df_notes = pd.DataFrame()
         df_exceptions_dict = {"emp": []}
         MRN_list = self.df["Epic MRN"].copy()
+        ## CL: this can be optimized by sending a list of MRNs to solr once.
         for i in tqdm_notebook(range(len(MRN_list))):
             try:
                 note = solr_note.get_note_withProviders(MRN_list.iloc[i])
@@ -66,9 +73,9 @@ class get_structure():
         id_mapping.addIdList(list_epic)
         id_mapping.getAllIds()
         id_mapping.IdMappingDf["EMPI"] = pd.to_numeric(id_mapping.IdMappingDf["EMPI"])
-        print("Number of patients linked to EHR")
-        print(id_mapping.IdMappingDf["person_id"].nunique())
-        print(id_mapping.IdMappingDf.dtypes)
+        logging.info("Number of patients linked to EHR")
+        logging.info(id_mapping.IdMappingDf["person_id"].nunique())
+        logging.info(id_mapping.IdMappingDf.dtypes)
         id_mapping.IdMappingDf["LOCAL_PT_ID"] = pd.to_numeric(id_mapping.IdMappingDf["LOCAL_PT_ID"])
         self.df = self.df.merge(id_mapping.IdMappingDf, left_on="Epic MRN", right_on = "LOCAL_PT_ID")
         
@@ -113,6 +120,7 @@ class get_structure():
         return visit_df
     
     def snomed_icd10_mapping(self,condition_df):
+        ## CL: can those cannot be mapped to ICD10, should we consider to map them to closet ICD10 codes?
         concept_code = tuple(set(condition_df["concept_code"]))
         Where_clause = f'''
         WHERE
@@ -176,8 +184,7 @@ analyzer.get_info_raw()
 # Remove invalid Epic MRN & Irrelevant
 list_mrns_removed = [] ## please find the list of MRN document saved in One-drive
 remove_MRNs(list_mrns_removed)
-print(" ")
-print('After cleaning:')
+logging.info('After removing invalid MRNs...')
 analyzer = preliminary_analysis(df_whole_timestamp)
 analyzer.get_info_raw()
 ## Raw df_whole_timestamp: 1051
@@ -185,6 +192,7 @@ analyzer.get_info_raw()
 ## Remove invalid Epic MRN & Irrelevant (n=4): 1046
 
 # Dealing with error entering time (e.g 2033), such times were corrected as follow
+## CL: I don't understand this part. What is the error? What is the correction?
 df_whole_timestamp.loc[458, "final_timestamp"] = df_whole_timestamp.iloc[458]["Date of appointment: "]
 
 
@@ -200,9 +208,9 @@ df_demographics["age"] = df_demographics["first_visit"] - df_demographics["birth
 df_demographics["age"] = df_demographics["age"] / np.timedelta64(365, 'D')
 
 # Rmove patients age above 19 including 19
-df_cohort = df_demographics[df_demographics["age"] <19].copy() # shape: 1005
+df_cohort = df_demographics[df_demographics["age"] <19].copy() # shape: 1005 
 df_cohort.reset_index(drop=True,inplace=True)
-print(f"The number of unique patients is {df_cohort['person_id'].nunique()}")
+logging.info(f"The number of unique patients is {df_cohort['person_id'].nunique()}")
 # 1005 unique patients
 
 ## Acquire cohort conditions (SNOMED conditions), and mapped to phecode
@@ -220,18 +228,18 @@ def remove_conditions(df_timestamp, df_con):
     return df_conditions_clean
 
 df_conditions_omop_clean = remove_conditions(df_timestamp=df_whole_timestamp, df_con=df_conditions)
-print("Before removing conditions after appointment date")
-print(df_conditions["person_id"].nunique())
-print("------------------------------------------------")
-print("After removing conditions after appointment date")
-print(df_conditions_omop_clean["person_id"].nunique())
+logging.info("Before removing conditions after appointment date")
+logging.info(df_conditions["person_id"].nunique())
+logging.info("------------------------------------------------")
+logging.info("After removing conditions after appointment date")
+logging.info(df_conditions_omop_clean["person_id"].nunique())
 
 df_conditions_phe_clean = remove_conditions(df_timestamp=df_whole_timestamp, df_con=df_conditions_phe)
-print("Before removing conditions after appointment date")
-print(df_conditions_phe_clean["person_id"].nunique())
-print("------------------------------------------------")
-print("After removing conditions after appointment date")
-print(df_conditions_phe_clean["person_id"].nunique())
+logging.info("Before removing conditions after appointment date")
+logging.info(df_conditions_phe_clean["person_id"].nunique())
+logging.info("------------------------------------------------")
+logging.info("After removing conditions after appointment date")
+logging.info(df_conditions_phe_clean["person_id"].nunique())
 
 
 # Export dataframes:
