@@ -8,14 +8,16 @@ This is the project aims to provide an automated system for genetic testing orde
 
 - [Installation](#installation)
 - [Data](#data)
-- 
+- [Usage](#useage)
 
 ## Installation
-
-Use the command below to install all required packages. 
+1. Git clone this responsitory
+2. Use the command below to install all required packages. 
 ```
 pip install -r requirements.txt
+
         OR
+
 pip3 install -r requirements.txt
 ```
 
