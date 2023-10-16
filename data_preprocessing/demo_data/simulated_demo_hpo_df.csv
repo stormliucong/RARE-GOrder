@@ -1,0 +1,1425 @@
+person_id,condition_start_date,hpo_name
+0,1974-03-14,Abnormal cellular phenotype
+0,1979-06-08,Abnormality of the endocrine system
+0,1995-12-02,Abnormality of the integument
+0,2022-09-23,Abnormality of the respiratory system
+0,2022-04-22,Abnormality of prenatal development or birth
+0,2000-10-05,Abnormality of the breast
+0,2001-07-29,Abnormality of the respiratory system
+0,2015-02-09,Abnormality of blood and blood-forming tissues
+0,2004-05-12,Abnormality of the musculoskeletal system
+0,2004-04-30,Abnormality of metabolism/homeostasis
+0,2010-03-03,Abnormality of the thoracic cavity
+0,1980-11-06,Abnormality of the digestive system
+0,1972-05-14,Abnormality of prenatal development or birth
+0,1978-06-17,Abnormality of the respiratory system
+0,2017-04-08,Abnormality of the ear
+1,1998-12-04,Abnormality of metabolism/homeostasis
+2,1985-03-16,Abnormality of the musculoskeletal system
+2,1983-03-08,Abnormality of the voice
+2,2002-10-15,Abnormality of the breast
+2,1992-11-24,Abnormality of the cardiovascular system
+2,1991-06-29,Abnormality of the thoracic cavity
+2,2016-07-01,Abnormality of the eye
+2,2006-01-22,Abnormality of the digestive system
+2,1973-08-04,Abnormality of metabolism/homeostasis
+2,2023-07-02,Abnormality of head or neck
+2,1989-03-26,Abnormality of the respiratory system
+2,1977-09-07,Abnormality of the eye
+2,1985-09-24,Abnormality of metabolism/homeostasis
+2,2023-01-26,Abnormality of prenatal development or birth
+2,1977-11-22,Abnormality of the thoracic cavity
+2,2004-11-16,Abnormality of the voice
+2,1976-08-23,Abnormality of the endocrine system
+2,2016-10-04,Abnormal cellular phenotype
+2,1984-11-01,Abnormality of the ear
+2,2011-08-24,Abnormality of the respiratory system
+2,1989-11-11,Abnormality of the musculoskeletal system
+2,1979-09-04,Abnormality of the voice
+2,1980-12-10,Constitutional symptom
+2,1997-09-06,Abnormality of the eye
+2,1996-10-29,Abnormality of the musculoskeletal system
+2,1990-08-27,Abnormality of the eye
+3,2015-01-20,Constitutional symptom
+3,2021-07-15,Abnormality of the genitourinary system
+4,2005-12-29,Abnormality of limbs
+4,1999-06-12,Abnormality of the cardiovascular system
+4,2001-12-16,Abnormality of the cardiovascular system
+4,1985-02-23,Abnormality of blood and blood-forming tissues
+4,2017-06-22,Abnormality of the integument
+4,2021-05-13,Abnormality of the nervous system
+4,1990-06-13,Abnormality of the voice
+4,2019-04-03,Abnormality of the immune system
+4,1992-07-27,Abnormality of the genitourinary system
+4,2021-12-15,Abnormality of the eye
+4,2007-04-13,Abnormality of limbs
+4,2008-04-23,Abnormality of the ear
+4,1970-08-15,Abnormality of the genitourinary system
+4,1982-04-11,Abnormality of the genitourinary system
+4,1992-01-09,Abnormality of the genitourinary system
+5,2020-02-04,Abnormality of the thoracic cavity
+5,2018-08-26,Abnormality of the nervous system
+5,2013-04-20,Abnormal cellular phenotype
+5,2013-11-25,Abnormality of the integument
+5,1988-05-08,Abnormality of the breast
+5,2005-12-10,Abnormality of the voice
+5,2003-01-29,Abnormality of the thoracic cavity
+5,1999-09-24,Abnormal cellular phenotype
+5,2022-12-07,Abnormality of the integument
+5,2018-06-24,Abnormality of the respiratory system
+5,2005-12-28,Abnormality of the breast
+5,1998-11-28,Abnormality of limbs
+5,1984-04-22,Abnormality of the immune system
+5,2009-03-21,Abnormality of blood and blood-forming tissues
+5,2020-01-02,Abnormality of the nervous system
+5,2015-01-10,Abnormality of head or neck
+5,1982-07-05,Abnormality of blood and blood-forming tissues
+5,2010-03-04,Constitutional symptom
+5,1998-06-19,Abnormality of the thoracic cavity
+5,2023-08-17,Constitutional symptom
+5,2005-07-24,Abnormality of blood and blood-forming tissues
+5,2013-07-04,Abnormality of the nervous system
+5,2018-12-23,Abnormality of the thoracic cavity
+6,1977-12-24,Abnormality of prenatal development or birth
+6,2000-09-03,Abnormality of prenatal development or birth
+6,1979-11-09,Abnormal cellular phenotype
+6,2014-11-01,Abnormality of the immune system
+6,2001-03-11,Abnormality of the respiratory system
+6,1989-06-28,Neoplasm
+6,2005-12-23,Abnormality of the respiratory system
+6,1997-07-19,Abnormality of the immune system
+6,2016-05-19,Neoplasm
+6,2002-11-28,Abnormality of the respiratory system
+6,1985-04-28,Abnormality of the immune system
+6,1970-05-18,Abnormality of the thoracic cavity
+6,1996-07-15,Abnormality of the thoracic cavity
+6,1994-12-26,Growth abnormality
+6,2016-08-07,Abnormal cellular phenotype
+6,2013-02-01,Constitutional symptom
+6,1974-01-11,Abnormality of the nervous system
+6,2009-06-22,Abnormality of head or neck
+6,2001-09-16,Abnormality of the immune system
+6,1987-09-22,Abnormality of limbs
+6,2013-06-22,Abnormality of metabolism/homeostasis
+6,2010-10-02,Abnormality of the ear
+6,1993-12-13,Abnormality of the integument
+6,2013-08-04,Abnormality of metabolism/homeostasis
+6,1994-05-21,Abnormality of the musculoskeletal system
+7,2000-08-19,Neoplasm
+7,2002-10-04,Abnormality of blood and blood-forming tissues
+7,2022-08-10,Abnormality of the musculoskeletal system
+7,1980-09-29,Abnormality of the ear
+7,1988-06-23,Abnormality of the ear
+7,1999-11-27,Abnormality of the respiratory system
+7,2014-11-24,Abnormality of the thoracic cavity
+7,1981-11-28,Abnormality of the immune system
+7,1976-02-28,Constitutional symptom
+7,1985-12-25,Neoplasm
+7,1981-07-31,Abnormality of blood and blood-forming tissues
+7,1976-11-21,Abnormality of the thoracic cavity
+7,1984-05-24,Abnormality of blood and blood-forming tissues
+8,2019-02-23,Neoplasm
+8,1993-07-02,Abnormality of the eye
+9,2003-11-01,Abnormality of prenatal development or birth
+9,2011-07-26,Abnormality of the eye
+9,2004-01-15,Abnormality of the immune system
+9,1997-05-26,Abnormality of head or neck
+9,1999-05-15,Neoplasm
+10,1995-01-18,Abnormality of metabolism/homeostasis
+10,1997-12-08,Abnormality of the breast
+10,1998-11-08,Neoplasm
+10,2012-07-22,Abnormality of the musculoskeletal system
+10,1976-03-04,Abnormality of limbs
+10,2019-02-11,Abnormality of the cardiovascular system
+10,2014-11-05,Abnormality of the integument
+10,2000-12-09,Neoplasm
+10,1976-10-05,Abnormality of the voice
+10,2010-01-15,Abnormality of the immune system
+10,2004-07-02,Abnormality of the endocrine system
+10,1989-01-14,Abnormality of head or neck
+10,1985-10-20,Abnormality of the breast
+10,1984-05-08,Abnormality of the nervous system
+10,2021-06-23,Abnormality of the voice
+10,2010-06-13,Abnormality of the musculoskeletal system
+10,2002-05-04,Abnormality of prenatal development or birth
+10,1989-09-10,Abnormality of the nervous system
+10,1986-07-31,Abnormality of blood and blood-forming tissues
+10,2006-09-07,Abnormality of metabolism/homeostasis
+10,2001-12-22,Abnormality of head or neck
+11,1989-02-15,Abnormality of the ear
+11,2008-10-18,Abnormality of the genitourinary system
+11,1981-07-10,Abnormal cellular phenotype
+11,2023-01-15,Neoplasm
+11,1994-04-28,Abnormality of the breast
+12,2003-05-18,Abnormality of the cardiovascular system
+12,1999-11-24,Abnormality of head or neck
+12,1983-07-22,Abnormality of the thoracic cavity
+12,1990-05-26,Abnormality of the eye
+12,1979-12-30,Abnormality of the endocrine system
+12,1973-06-08,Abnormality of the thoracic cavity
+12,1977-05-26,Constitutional symptom
+12,2007-09-22,Abnormality of the musculoskeletal system
+12,1994-02-19,Abnormality of the respiratory system
+13,2001-07-09,Abnormality of the musculoskeletal system
+13,1970-05-01,Abnormality of the respiratory system
+13,1982-08-13,Abnormality of head or neck
+13,1979-11-15,Abnormality of the breast
+13,2003-08-29,Abnormality of the immune system
+13,2003-02-14,Abnormality of the ear
+13,2013-11-02,Abnormality of limbs
+13,1988-01-14,Abnormality of head or neck
+13,1983-06-16,Neoplasm
+13,2006-02-24,Constitutional symptom
+13,1998-08-06,Abnormality of the respiratory system
+13,2011-07-04,Abnormality of the voice
+14,1970-09-09,Abnormality of the eye
+14,1992-11-24,Abnormality of the integument
+14,2022-06-20,Abnormality of the digestive system
+14,1996-03-12,Constitutional symptom
+14,1987-07-17,Abnormality of the thoracic cavity
+14,1977-11-06,Abnormality of the digestive system
+14,1974-09-01,Neoplasm
+14,1999-08-10,Abnormality of the endocrine system
+14,1992-05-29,Abnormality of head or neck
+14,2004-07-28,Abnormality of the genitourinary system
+14,2001-06-27,Abnormality of head or neck
+14,2009-01-01,Abnormality of the genitourinary system
+14,2013-08-28,Abnormality of the ear
+14,1985-01-21,Abnormality of the integument
+14,1984-10-05,Abnormality of the thoracic cavity
+14,1998-07-16,Abnormality of metabolism/homeostasis
+14,1982-03-09,Abnormality of the breast
+14,1991-03-11,Abnormality of limbs
+14,1985-04-28,Abnormality of the respiratory system
+14,2016-02-16,Abnormality of limbs
+14,1993-05-17,Abnormality of the immune system
+14,2004-09-07,Neoplasm
+15,1982-10-07,Abnormality of blood and blood-forming tissues
+15,1996-06-24,Abnormality of the thoracic cavity
+15,1987-07-02,Abnormality of the musculoskeletal system
+15,1983-05-31,Abnormality of the digestive system
+15,2008-03-08,Abnormality of the ear
+15,1979-10-18,Abnormality of prenatal development or birth
+15,1975-06-27,Abnormality of head or neck
+15,1990-09-02,Abnormality of the cardiovascular system
+15,2016-08-17,Abnormality of the thoracic cavity
+15,2023-05-20,Abnormality of the genitourinary system
+15,1988-11-03,Neoplasm
+15,2023-06-02,Abnormality of the eye
+16,1983-08-08,Abnormality of the thoracic cavity
+16,2012-08-10,Abnormality of the immune system
+17,2001-05-22,Abnormal cellular phenotype
+17,1986-08-13,Abnormality of prenatal development or birth
+17,2020-03-05,Abnormal cellular phenotype
+18,2020-10-24,Growth abnormality
+18,1990-02-21,Abnormality of limbs
+18,1978-08-27,Abnormality of the voice
+18,1991-04-21,Constitutional symptom
+18,1993-03-27,Neoplasm
+18,1991-08-07,Abnormal cellular phenotype
+18,2017-07-13,Abnormality of the voice
+18,1986-02-03,Abnormality of the genitourinary system
+18,2001-09-12,Abnormality of the voice
+18,2007-03-23,Constitutional symptom
+18,1979-07-15,Abnormality of head or neck
+18,2020-08-26,Neoplasm
+18,1987-09-14,Abnormality of prenatal development or birth
+18,2014-02-21,Abnormality of the cardiovascular system
+18,1997-02-04,Constitutional symptom
+18,2008-12-16,Abnormality of the integument
+18,1997-08-05,Growth abnormality
+18,1996-04-02,Abnormality of limbs
+18,2003-11-17,Abnormality of head or neck
+18,2016-09-03,Abnormality of metabolism/homeostasis
+18,1997-11-17,Abnormality of the thoracic cavity
+18,1971-04-07,Abnormality of the cardiovascular system
+18,1981-05-23,Abnormality of the thoracic cavity
+18,2012-09-01,Abnormality of blood and blood-forming tissues
+18,1981-09-05,Abnormality of the nervous system
+18,1997-12-21,Abnormality of the nervous system
+18,2016-05-07,Abnormality of the immune system
+18,2009-02-06,Neoplasm
+18,1997-12-18,Abnormality of the cardiovascular system
+18,2017-07-09,Growth abnormality
+19,1974-11-14,Abnormality of blood and blood-forming tissues
+19,1970-09-14,Abnormality of the genitourinary system
+19,2015-04-25,Abnormal cellular phenotype
+19,1995-12-06,Abnormality of the endocrine system
+19,2019-03-29,Abnormality of the nervous system
+19,2012-02-04,Abnormality of the digestive system
+19,1970-11-05,Neoplasm
+19,1975-03-04,Abnormality of limbs
+19,2016-03-04,Abnormality of the breast
+19,2021-03-15,Abnormality of the voice
+19,1980-06-09,Abnormality of the eye
+19,1989-04-15,Abnormality of the musculoskeletal system
+19,2006-05-18,Abnormality of the musculoskeletal system
+19,2017-12-05,Neoplasm
+19,2010-07-11,Abnormality of prenatal development or birth
+19,1988-04-30,Abnormality of the musculoskeletal system
+19,2021-04-30,Abnormality of the cardiovascular system
+19,1985-01-16,Growth abnormality
+19,2017-03-09,Abnormality of the respiratory system
+19,1985-11-21,Abnormality of the thoracic cavity
+19,1996-08-10,Abnormality of the endocrine system
+19,1985-12-05,Abnormality of the nervous system
+19,2006-03-30,Abnormality of the breast
+20,1980-08-02,Abnormality of the immune system
+20,1975-08-25,Growth abnormality
+20,1987-03-30,Abnormality of the voice
+20,1994-05-26,Neoplasm
+20,2018-05-16,Constitutional symptom
+20,1991-04-14,Abnormality of the integument
+20,2019-01-04,Abnormality of the immune system
+20,2007-09-14,Abnormality of the eye
+20,2007-08-28,Abnormality of the eye
+20,1987-02-03,Abnormality of blood and blood-forming tissues
+20,1995-01-12,Abnormality of the musculoskeletal system
+20,1973-11-20,Abnormality of the breast
+20,2008-10-13,Abnormality of prenatal development or birth
+20,1989-02-28,Abnormality of the musculoskeletal system
+20,1993-08-04,Abnormality of the eye
+20,2022-02-17,Growth abnormality
+20,1995-12-21,Abnormality of the integument
+20,1993-01-13,Abnormality of the integument
+20,2020-06-23,Abnormality of the eye
+21,1988-08-07,Abnormality of the thoracic cavity
+21,1982-06-23,Abnormality of the endocrine system
+21,1994-08-23,Abnormality of the nervous system
+21,1998-07-24,Abnormality of the musculoskeletal system
+21,2019-05-16,Abnormality of the breast
+21,1987-07-10,Abnormality of limbs
+21,1972-05-10,Abnormality of the musculoskeletal system
+21,1982-04-08,Constitutional symptom
+21,1986-11-21,Abnormality of the eye
+21,2003-09-28,Abnormality of blood and blood-forming tissues
+21,1993-01-27,Abnormality of prenatal development or birth
+21,1993-01-29,Abnormal cellular phenotype
+21,1973-07-25,Constitutional symptom
+21,1978-03-08,Abnormality of the breast
+21,2008-07-02,Abnormality of the nervous system
+21,2013-02-08,Abnormality of the breast
+21,2022-01-14,Abnormality of the ear
+21,1982-11-25,Abnormality of the musculoskeletal system
+21,2001-09-07,Abnormality of the musculoskeletal system
+21,1976-10-16,Abnormality of the thoracic cavity
+21,2005-04-11,Abnormality of prenatal development or birth
+21,1972-04-03,Abnormality of the thoracic cavity
+21,2001-11-24,Abnormality of the voice
+21,2000-10-11,Abnormality of metabolism/homeostasis
+21,2023-07-24,Abnormality of the musculoskeletal system
+21,1983-12-18,Abnormality of the genitourinary system
+21,2009-12-16,Constitutional symptom
+21,2022-04-29,Abnormality of the digestive system
+21,2000-01-16,Abnormal cellular phenotype
+22,1979-02-17,Abnormality of head or neck
+22,2020-03-18,Abnormality of the thoracic cavity
+22,1993-02-06,Abnormality of the integument
+22,1997-08-05,Abnormality of prenatal development or birth
+22,2010-06-08,Abnormality of head or neck
+22,2010-04-29,Abnormality of the thoracic cavity
+22,1992-09-06,Abnormality of the integument
+23,2011-04-18,Abnormality of the thoracic cavity
+23,2014-01-10,Abnormality of the eye
+23,1975-11-02,Abnormality of the nervous system
+23,2000-06-14,Abnormality of the integument
+23,1983-07-21,Abnormality of the ear
+23,1972-09-26,Abnormality of the integument
+23,2010-05-12,Abnormality of the immune system
+23,1984-10-08,Abnormality of the ear
+23,1988-05-07,Abnormality of the endocrine system
+23,1972-01-12,Abnormality of limbs
+23,2016-01-18,Abnormality of the breast
+23,2021-06-12,Abnormality of the musculoskeletal system
+23,2011-12-15,Abnormality of the nervous system
+23,2001-03-17,Abnormality of the cardiovascular system
+23,1974-05-03,Abnormality of the eye
+23,2020-11-17,Abnormality of the genitourinary system
+23,2017-08-20,Abnormality of the nervous system
+23,1999-04-02,Abnormality of head or neck
+23,2000-11-10,Abnormality of the digestive system
+24,2004-01-14,Abnormality of the genitourinary system
+24,2000-12-25,Constitutional symptom
+24,1997-09-14,Abnormality of the musculoskeletal system
+24,1981-01-10,Abnormality of the digestive system
+24,1991-06-28,Abnormality of the voice
+24,2006-02-19,Abnormality of the voice
+24,1994-12-02,Abnormal cellular phenotype
+24,2021-12-30,Abnormality of the digestive system
+24,2005-07-29,Abnormality of the immune system
+24,1986-09-30,Abnormal cellular phenotype
+24,1981-05-09,Abnormality of the endocrine system
+24,2008-03-20,Abnormality of blood and blood-forming tissues
+24,2001-02-20,Abnormality of the eye
+24,2004-11-19,Growth abnormality
+24,2007-09-11,Abnormality of the musculoskeletal system
+24,2015-10-24,Growth abnormality
+24,2013-06-05,Abnormality of the respiratory system
+24,2005-11-09,Abnormality of the voice
+24,1997-09-19,Constitutional symptom
+24,1981-11-29,Abnormality of the immune system
+24,2003-12-14,Abnormality of the ear
+24,1987-12-09,Abnormality of the musculoskeletal system
+24,1998-10-10,Abnormality of the breast
+24,1983-07-28,Abnormality of the nervous system
+24,2003-03-21,Abnormality of the respiratory system
+24,1975-06-17,Abnormality of the genitourinary system
+24,2000-02-05,Abnormality of the ear
+24,1974-09-09,Abnormality of the integument
+24,2001-08-28,Growth abnormality
+24,1990-04-14,Abnormality of the voice
+25,1990-12-10,Abnormality of blood and blood-forming tissues
+25,2005-01-01,Abnormality of the eye
+25,1976-02-18,Abnormality of the respiratory system
+25,2002-12-15,Abnormality of the eye
+25,1973-09-06,Abnormality of the thoracic cavity
+25,1984-09-20,Abnormality of limbs
+25,1998-05-26,Abnormality of blood and blood-forming tissues
+25,1983-02-26,Abnormality of limbs
+25,2022-02-09,Abnormality of the cardiovascular system
+25,1992-06-24,Abnormality of the breast
+25,2018-12-24,Abnormality of blood and blood-forming tissues
+25,1993-01-08,Abnormality of the nervous system
+25,1983-02-28,Abnormality of limbs
+25,1986-06-18,Abnormality of prenatal development or birth
+25,2005-04-15,Abnormality of the genitourinary system
+26,1980-10-01,Abnormality of the voice
+26,2011-08-18,Abnormality of the breast
+26,1973-10-18,Abnormality of the integument
+26,2003-07-19,Abnormality of the integument
+26,1984-02-11,Abnormal cellular phenotype
+26,1976-11-05,Abnormality of the integument
+26,2005-05-01,Abnormality of the endocrine system
+26,1998-01-31,Abnormality of the breast
+26,2000-05-26,Abnormality of limbs
+26,2007-11-22,Abnormality of the endocrine system
+26,1990-06-01,Abnormality of the eye
+26,1982-08-31,Abnormality of the immune system
+26,2005-03-23,Abnormality of the genitourinary system
+26,1989-06-15,Abnormality of the digestive system
+26,2003-03-31,Abnormality of the immune system
+26,2023-03-24,Abnormality of blood and blood-forming tissues
+26,1982-10-13,Constitutional symptom
+26,2003-08-12,Abnormality of the musculoskeletal system
+26,2010-07-11,Constitutional symptom
+26,1978-05-16,Growth abnormality
+26,1985-11-26,Abnormality of the genitourinary system
+26,2010-07-15,Abnormality of limbs
+26,1977-03-19,Abnormality of the integument
+27,1995-06-16,Abnormality of prenatal development or birth
+27,1977-06-09,Abnormality of the genitourinary system
+27,1978-03-25,Abnormality of the musculoskeletal system
+27,1997-05-22,Growth abnormality
+27,1988-01-14,Growth abnormality
+27,2015-06-13,Abnormality of metabolism/homeostasis
+27,2001-10-20,Abnormality of the integument
+27,1971-06-19,Abnormality of the digestive system
+27,1998-09-03,Abnormality of blood and blood-forming tissues
+27,1983-11-24,Abnormality of the respiratory system
+27,1973-05-09,Abnormality of the breast
+27,2022-01-02,Abnormality of the integument
+27,1999-12-02,Abnormality of the respiratory system
+27,1981-04-08,Abnormality of the digestive system
+27,2017-04-12,Abnormality of blood and blood-forming tissues
+27,1992-12-16,Abnormality of prenatal development or birth
+27,1973-04-09,Abnormality of the digestive system
+27,1970-03-10,Abnormality of the breast
+27,2019-10-02,Abnormality of blood and blood-forming tissues
+27,2014-08-05,Abnormality of the endocrine system
+28,1990-09-09,Abnormality of the thoracic cavity
+28,2004-08-01,Abnormality of prenatal development or birth
+28,1971-10-05,Abnormality of the immune system
+28,2008-04-29,Abnormality of the eye
+28,2004-03-20,Abnormality of head or neck
+28,2010-09-29,Abnormality of the digestive system
+28,2008-12-10,Abnormality of head or neck
+28,2013-05-26,Abnormality of the nervous system
+28,2010-07-11,Abnormality of prenatal development or birth
+28,1986-06-28,Abnormality of prenatal development or birth
+28,1995-05-11,Abnormality of the genitourinary system
+28,2001-05-26,Abnormality of the immune system
+28,1996-04-15,Abnormality of head or neck
+28,2006-06-30,Abnormality of the ear
+28,1975-06-03,Abnormality of limbs
+28,1974-07-06,Abnormality of metabolism/homeostasis
+28,1978-05-16,Abnormality of the ear
+28,2012-09-17,Abnormality of the voice
+28,1987-10-27,Abnormality of the thoracic cavity
+29,1982-08-19,Abnormality of limbs
+29,2016-06-12,Abnormality of the ear
+29,1970-07-28,Abnormality of the respiratory system
+29,2006-05-05,Abnormality of the ear
+29,1983-06-17,Abnormal cellular phenotype
+30,1996-04-10,Abnormality of the breast
+30,2012-03-14,Abnormality of the respiratory system
+30,1972-08-29,Abnormality of the thoracic cavity
+30,1973-11-10,Growth abnormality
+30,2001-11-04,Neoplasm
+30,2014-09-09,Abnormality of the immune system
+30,2022-07-20,Abnormality of limbs
+30,2021-01-28,Abnormality of head or neck
+30,1991-05-09,Abnormality of the immune system
+31,1993-04-04,Abnormality of the breast
+31,2002-10-26,Constitutional symptom
+31,1998-05-06,Neoplasm
+31,2002-03-12,Abnormality of head or neck
+31,1996-07-27,Abnormality of the respiratory system
+31,2015-01-05,Abnormality of the cardiovascular system
+31,1983-01-15,Abnormality of the integument
+31,2023-07-29,Abnormality of the immune system
+31,2012-04-05,Abnormality of prenatal development or birth
+31,2022-08-27,Abnormality of the genitourinary system
+31,2008-09-17,Abnormality of the voice
+31,1972-12-22,Abnormality of the cardiovascular system
+31,1986-06-10,Constitutional symptom
+31,1981-02-16,Abnormality of the endocrine system
+31,2016-05-21,Abnormality of the genitourinary system
+31,1970-10-14,Abnormality of the genitourinary system
+31,2007-05-12,Abnormality of the nervous system
+31,1982-07-14,Abnormality of the respiratory system
+31,1997-07-22,Abnormality of prenatal development or birth
+31,2003-11-12,Abnormality of metabolism/homeostasis
+31,1980-11-27,Abnormality of the digestive system
+31,1977-08-07,Abnormality of the voice
+31,2011-07-13,Abnormality of the voice
+31,1994-06-02,Constitutional symptom
+31,1999-11-06,Abnormality of limbs
+31,1998-07-14,Abnormality of the immune system
+32,1998-12-12,Abnormality of the endocrine system
+32,1980-07-21,Abnormal cellular phenotype
+32,1980-08-19,Abnormality of the musculoskeletal system
+32,1991-11-13,Abnormality of the eye
+32,1989-12-06,Abnormality of the integument
+32,1972-11-30,Abnormality of the nervous system
+32,1979-05-24,Abnormality of the voice
+32,2018-07-26,Abnormality of the eye
+32,2000-03-10,Growth abnormality
+32,2000-03-03,Abnormality of blood and blood-forming tissues
+32,1994-05-15,Abnormality of blood and blood-forming tissues
+32,2006-09-05,Abnormality of the breast
+32,2014-03-20,Abnormal cellular phenotype
+32,1994-10-17,Abnormality of the genitourinary system
+32,1991-08-26,Abnormality of the digestive system
+32,1988-09-15,Abnormality of the digestive system
+32,1981-12-10,Abnormal cellular phenotype
+32,2006-03-09,Abnormality of head or neck
+32,2012-04-21,Abnormality of the eye
+33,1974-08-15,Abnormality of the immune system
+33,2001-02-13,Constitutional symptom
+33,2005-02-15,Abnormality of the immune system
+33,1997-10-05,Abnormality of the respiratory system
+33,1980-11-03,Abnormality of the nervous system
+33,1989-08-16,Neoplasm
+33,2018-07-18,Neoplasm
+33,2020-04-23,Abnormal cellular phenotype
+34,1987-07-31,Abnormality of the endocrine system
+34,1991-09-26,Abnormality of the endocrine system
+34,2005-05-22,Abnormality of the musculoskeletal system
+34,2019-07-11,Abnormality of the respiratory system
+34,1981-10-02,Abnormality of the thoracic cavity
+34,1992-12-13,Abnormality of the respiratory system
+34,1973-11-24,Abnormality of the eye
+34,1986-10-30,Neoplasm
+34,2022-12-05,Abnormality of the breast
+34,2018-05-30,Abnormality of the thoracic cavity
+34,2006-03-20,Abnormality of the voice
+34,1998-05-26,Abnormal cellular phenotype
+34,2000-03-25,Abnormality of the thoracic cavity
+34,1977-03-21,Abnormality of the breast
+34,1981-07-31,Neoplasm
+34,1991-08-13,Neoplasm
+34,2016-01-19,Growth abnormality
+34,1974-03-24,Abnormality of the endocrine system
+34,1988-08-15,Abnormality of metabolism/homeostasis
+34,1998-12-09,Constitutional symptom
+34,1981-09-29,Abnormality of head or neck
+34,2005-09-09,Abnormality of the eye
+34,1984-06-02,Abnormality of head or neck
+34,1987-07-28,Abnormality of the digestive system
+34,1994-11-10,Abnormality of blood and blood-forming tissues
+34,1977-09-01,Abnormality of the genitourinary system
+35,2010-12-04,Abnormality of the musculoskeletal system
+35,1982-06-01,Neoplasm
+35,1986-04-17,Abnormality of the thoracic cavity
+35,1977-12-12,Abnormality of the ear
+35,1996-04-23,Abnormality of prenatal development or birth
+35,1995-03-05,Abnormality of the nervous system
+35,1990-10-06,Abnormality of the endocrine system
+35,1972-11-12,Abnormality of the breast
+35,1990-01-28,Abnormality of prenatal development or birth
+35,1995-05-03,Abnormality of the digestive system
+35,1976-04-09,Constitutional symptom
+35,2003-12-09,Abnormality of the genitourinary system
+35,1972-11-13,Abnormality of the nervous system
+35,1977-10-15,Abnormal cellular phenotype
+36,2006-05-25,Abnormality of the endocrine system
+36,2009-04-10,Growth abnormality
+36,1974-06-05,Abnormality of the breast
+36,1985-08-03,Abnormality of the respiratory system
+36,1971-05-02,Abnormality of limbs
+36,2002-09-06,Abnormality of the immune system
+36,1996-07-27,Abnormality of the respiratory system
+36,1992-05-28,Abnormality of the eye
+36,2005-05-29,Abnormality of the ear
+36,2021-03-22,Abnormality of the thoracic cavity
+36,2006-04-16,Abnormality of the musculoskeletal system
+36,1998-10-27,Abnormality of the endocrine system
+36,2012-10-16,Abnormality of the digestive system
+36,2006-12-25,Growth abnormality
+36,1984-08-27,Abnormality of the ear
+36,2007-11-18,Abnormality of prenatal development or birth
+36,2000-08-06,Abnormality of the digestive system
+36,2009-10-21,Abnormality of metabolism/homeostasis
+36,1979-01-09,Abnormality of the endocrine system
+36,2008-05-14,Abnormality of the digestive system
+36,2021-09-02,Abnormality of the genitourinary system
+36,1979-07-20,Abnormality of the genitourinary system
+36,2017-10-04,Abnormality of the voice
+36,2012-02-24,Abnormality of the cardiovascular system
+36,1979-04-03,Abnormality of the musculoskeletal system
+37,2015-07-12,Abnormality of the endocrine system
+37,2004-11-05,Neoplasm
+37,2001-02-25,Abnormality of the genitourinary system
+37,1983-11-16,Abnormality of head or neck
+37,2023-02-06,Abnormality of blood and blood-forming tissues
+37,2002-01-12,Abnormality of blood and blood-forming tissues
+37,2022-10-08,Abnormality of the endocrine system
+37,2006-08-15,Abnormal cellular phenotype
+38,1990-02-23,Abnormality of the integument
+39,2009-02-12,Abnormality of the immune system
+39,1999-08-24,Abnormality of the cardiovascular system
+39,1990-08-12,Abnormality of the immune system
+39,1988-11-13,Abnormality of the eye
+39,1979-10-02,Abnormality of the genitourinary system
+39,2007-03-17,Growth abnormality
+39,2010-06-11,Abnormality of the integument
+39,1979-06-12,Abnormality of the ear
+39,1998-12-14,Abnormality of the immune system
+39,1994-07-20,Abnormality of the thoracic cavity
+39,1979-05-10,Abnormality of blood and blood-forming tissues
+39,1983-04-27,Abnormality of the immune system
+39,2015-07-17,Constitutional symptom
+39,2018-08-22,Abnormality of the immune system
+39,2014-12-11,Abnormality of the thoracic cavity
+39,2016-07-05,Abnormality of the integument
+39,2016-06-05,Abnormality of prenatal development or birth
+39,1996-03-14,Abnormality of head or neck
+39,2015-01-29,Abnormal cellular phenotype
+39,2013-08-09,Constitutional symptom
+39,1993-08-04,Abnormality of the cardiovascular system
+39,2010-05-23,Neoplasm
+39,1986-10-16,Abnormality of the musculoskeletal system
+39,2009-02-05,Abnormality of the ear
+39,1979-09-09,Abnormality of the endocrine system
+39,2002-06-17,Abnormality of blood and blood-forming tissues
+39,1975-11-08,Abnormality of the voice
+39,1986-09-07,Abnormality of the voice
+39,1979-09-21,Abnormality of the respiratory system
+39,1994-08-14,Abnormality of the cardiovascular system
+40,1993-11-19,Abnormality of the respiratory system
+40,1988-09-09,Abnormality of blood and blood-forming tissues
+40,1995-03-22,Abnormality of the musculoskeletal system
+40,1981-06-28,Abnormality of the digestive system
+40,2002-10-30,Constitutional symptom
+40,1973-09-17,Abnormality of head or neck
+40,2015-06-06,Abnormal cellular phenotype
+40,2007-09-14,Abnormality of the thoracic cavity
+40,1971-12-01,Abnormality of the eye
+40,1970-04-21,Abnormality of the thoracic cavity
+40,2016-02-09,Abnormality of the thoracic cavity
+40,2013-07-03,Abnormality of the ear
+40,1995-09-26,Neoplasm
+40,2000-10-27,Abnormality of blood and blood-forming tissues
+40,2010-03-05,Abnormality of prenatal development or birth
+40,1971-01-15,Abnormal cellular phenotype
+41,1979-07-05,Abnormal cellular phenotype
+41,2015-02-15,Neoplasm
+41,1980-09-11,Growth abnormality
+42,2018-08-05,Abnormality of the musculoskeletal system
+42,1976-08-18,Abnormality of the immune system
+42,2006-12-11,Abnormality of the endocrine system
+42,1992-05-28,Abnormality of blood and blood-forming tissues
+42,1980-05-03,Abnormality of the voice
+42,2004-01-11,Abnormality of prenatal development or birth
+42,1985-01-22,Abnormality of the musculoskeletal system
+42,2022-05-28,Abnormal cellular phenotype
+42,1999-09-28,Abnormal cellular phenotype
+42,1972-07-29,Abnormality of limbs
+42,2004-07-13,Abnormality of prenatal development or birth
+42,1992-06-05,Abnormality of the digestive system
+42,2019-12-19,Abnormality of prenatal development or birth
+42,2001-08-30,Abnormality of the voice
+42,2001-03-14,Constitutional symptom
+42,1989-04-20,Abnormality of the respiratory system
+42,1984-01-05,Abnormality of the eye
+42,1987-06-07,Abnormality of the breast
+42,2013-10-16,Abnormality of metabolism/homeostasis
+43,1994-06-01,Neoplasm
+44,1985-04-03,Abnormality of the digestive system
+44,2010-01-18,Abnormality of the thoracic cavity
+44,1985-01-06,Abnormality of the voice
+44,1977-10-05,Neoplasm
+44,1970-09-17,Abnormality of limbs
+44,2020-10-29,Abnormality of the integument
+44,2002-06-03,Abnormality of the respiratory system
+44,1988-03-30,Abnormality of head or neck
+44,1977-05-03,Abnormality of the integument
+44,1981-05-11,Abnormality of the endocrine system
+44,2017-04-06,Abnormality of the respiratory system
+45,2006-02-09,Abnormality of the cardiovascular system
+45,1985-04-26,Abnormality of prenatal development or birth
+45,1988-03-18,Abnormality of the digestive system
+45,1975-11-17,Abnormality of the musculoskeletal system
+45,2002-04-16,Abnormality of the thoracic cavity
+45,2016-11-12,Neoplasm
+46,1977-12-13,Abnormality of the digestive system
+46,1991-10-30,Abnormality of the breast
+46,1977-11-17,Abnormality of the voice
+46,1990-06-20,Abnormality of the ear
+46,1975-10-15,Abnormality of the musculoskeletal system
+46,2022-06-01,Abnormality of the breast
+46,1982-04-26,Abnormality of the voice
+46,1986-12-22,Abnormality of the endocrine system
+46,1987-05-08,Abnormality of blood and blood-forming tissues
+46,2019-05-22,Constitutional symptom
+46,1986-01-25,Abnormality of the thoracic cavity
+46,1989-07-14,Abnormality of the genitourinary system
+46,1993-05-02,Abnormality of head or neck
+46,2018-07-09,Abnormality of the digestive system
+46,1990-01-12,Abnormality of limbs
+46,2019-01-22,Abnormality of the respiratory system
+46,2018-07-16,Abnormality of the breast
+46,1994-04-04,Abnormality of the eye
+46,1989-10-10,Abnormality of the immune system
+46,2013-07-24,Abnormal cellular phenotype
+46,2006-08-09,Abnormality of the cardiovascular system
+46,1971-09-15,Abnormality of the immune system
+47,1991-11-25,Abnormality of limbs
+47,1987-10-06,Abnormality of the respiratory system
+47,2014-09-06,Abnormality of the cardiovascular system
+47,1978-10-04,Abnormality of the endocrine system
+48,2017-10-28,Abnormality of the breast
+48,1975-06-02,Abnormality of metabolism/homeostasis
+49,1991-08-28,Abnormality of the cardiovascular system
+49,1995-11-01,Abnormality of prenatal development or birth
+49,1988-08-20,Abnormality of the digestive system
+49,1982-03-16,Abnormal cellular phenotype
+49,2002-10-27,Constitutional symptom
+49,1978-07-28,Growth abnormality
+49,1973-10-25,Abnormality of the musculoskeletal system
+49,1981-05-18,Abnormality of the endocrine system
+49,2009-06-09,Constitutional symptom
+49,2009-03-25,Neoplasm
+49,1996-03-27,Neoplasm
+49,2009-05-10,Abnormality of the immune system
+49,2008-09-25,Abnormality of the voice
+49,1980-12-02,Constitutional symptom
+49,1991-12-23,Abnormality of the respiratory system
+49,2003-01-15,Abnormality of the nervous system
+49,2001-03-18,Abnormality of the musculoskeletal system
+49,1998-01-20,Abnormality of the thoracic cavity
+49,1988-04-26,Abnormality of prenatal development or birth
+49,1997-06-03,Abnormality of the voice
+49,2004-05-31,Abnormality of the breast
+49,2008-01-26,Abnormality of the respiratory system
+49,1971-02-25,Abnormality of the ear
+49,1998-08-11,Abnormality of the breast
+49,1987-01-15,Neoplasm
+49,1989-05-27,Abnormal cellular phenotype
+49,2011-05-01,Abnormality of blood and blood-forming tissues
+50,1979-07-30,Abnormality of the thoracic cavity
+50,1996-11-12,Abnormality of the musculoskeletal system
+50,2001-01-19,Abnormality of the immune system
+50,1985-07-17,Abnormality of the ear
+50,1998-08-20,Abnormality of the digestive system
+50,1979-05-18,Abnormality of the immune system
+50,1987-04-20,Abnormality of the endocrine system
+50,1977-05-11,Abnormality of the endocrine system
+50,1991-02-09,Abnormality of prenatal development or birth
+50,2007-01-14,Growth abnormality
+50,1976-08-12,Abnormality of the nervous system
+50,2001-09-02,Abnormality of limbs
+50,1985-01-23,Abnormality of the integument
+50,2007-03-27,Abnormality of the immune system
+50,1978-12-26,Neoplasm
+50,1974-09-27,Abnormality of the voice
+50,1991-01-16,Abnormality of the ear
+50,1975-02-11,Abnormality of the musculoskeletal system
+50,1990-04-09,Abnormality of the ear
+50,2015-04-03,Abnormality of blood and blood-forming tissues
+50,2003-09-08,Abnormality of the musculoskeletal system
+50,1980-04-03,Abnormal cellular phenotype
+50,2015-11-27,Abnormality of metabolism/homeostasis
+50,2018-10-30,Abnormality of limbs
+50,2002-12-07,Abnormality of blood and blood-forming tissues
+50,2010-10-21,Abnormality of the voice
+51,2021-01-28,Abnormality of blood and blood-forming tissues
+51,2008-07-11,Neoplasm
+51,1986-01-18,Abnormality of the breast
+51,1995-06-19,Abnormality of the eye
+51,1986-08-31,Abnormality of the nervous system
+51,2013-01-08,Constitutional symptom
+51,1987-08-28,Abnormality of the ear
+51,2008-12-30,Abnormality of the voice
+51,2023-07-26,Abnormality of the cardiovascular system
+51,1982-10-08,Abnormality of limbs
+51,2019-06-01,Abnormality of the digestive system
+51,1981-01-18,Abnormality of the breast
+51,1999-05-18,Abnormality of the musculoskeletal system
+51,2003-11-14,Abnormality of the respiratory system
+51,2007-08-16,Abnormality of limbs
+51,1974-07-25,Neoplasm
+52,2017-03-07,Abnormality of the voice
+52,2021-10-18,Abnormality of the musculoskeletal system
+52,2013-01-26,Abnormality of limbs
+52,2003-11-23,Abnormality of blood and blood-forming tissues
+52,1995-04-16,Abnormality of limbs
+52,2019-11-24,Abnormality of metabolism/homeostasis
+52,2002-07-12,Abnormality of the voice
+52,1999-11-12,Abnormality of the nervous system
+52,1977-07-16,Abnormality of the digestive system
+53,1999-01-09,Abnormal cellular phenotype
+53,2011-05-31,Abnormal cellular phenotype
+54,1982-05-27,Abnormality of the respiratory system
+54,1999-08-22,Abnormality of the digestive system
+55,2003-12-17,Abnormality of the voice
+55,1983-05-06,Abnormality of blood and blood-forming tissues
+55,1987-12-17,Abnormality of head or neck
+55,2015-01-08,Abnormality of the ear
+55,2012-12-23,Abnormality of the genitourinary system
+55,2005-07-26,Abnormality of the genitourinary system
+55,1975-09-11,Abnormality of limbs
+55,2007-11-30,Abnormality of the digestive system
+55,1970-09-13,Abnormality of the immune system
+55,2014-10-28,Abnormality of the musculoskeletal system
+55,1974-09-03,Abnormality of the immune system
+55,1991-02-15,Abnormality of the musculoskeletal system
+55,1991-11-29,Abnormality of prenatal development or birth
+55,1999-04-13,Abnormality of the nervous system
+55,2006-07-19,Abnormality of the breast
+55,1998-09-16,Abnormality of the eye
+55,2006-05-14,Abnormality of metabolism/homeostasis
+55,1983-03-04,Growth abnormality
+55,1980-12-03,Abnormality of blood and blood-forming tissues
+55,2009-02-08,Abnormality of head or neck
+55,1976-06-24,Growth abnormality
+55,2006-01-17,Abnormality of prenatal development or birth
+55,2007-11-22,Abnormality of blood and blood-forming tissues
+55,1980-04-01,Abnormality of the nervous system
+55,1976-10-05,Abnormality of the voice
+56,2021-09-16,Abnormality of the voice
+56,1974-04-17,Abnormality of blood and blood-forming tissues
+56,2021-04-27,Abnormality of prenatal development or birth
+56,1988-03-19,Abnormality of head or neck
+56,1999-09-27,Abnormality of prenatal development or birth
+56,2010-10-06,Abnormality of limbs
+56,1991-06-29,Abnormality of the breast
+56,2002-10-09,Growth abnormality
+56,2003-05-25,Neoplasm
+56,1975-05-24,Abnormality of the endocrine system
+56,1970-02-08,Abnormality of metabolism/homeostasis
+56,2017-06-18,Abnormality of the cardiovascular system
+56,2003-03-14,Abnormality of the integument
+56,2007-02-21,Abnormality of the endocrine system
+56,2005-03-18,Abnormality of the musculoskeletal system
+56,1990-08-15,Abnormality of the respiratory system
+56,1973-04-15,Abnormality of the ear
+56,1986-07-01,Abnormality of the genitourinary system
+56,1972-06-15,Growth abnormality
+56,1985-07-08,Neoplasm
+56,2016-01-26,Abnormality of prenatal development or birth
+56,1981-04-07,Abnormality of the genitourinary system
+56,1982-09-27,Growth abnormality
+56,1979-09-11,Abnormality of the musculoskeletal system
+56,1997-01-15,Abnormality of the voice
+56,2008-11-14,Abnormality of blood and blood-forming tissues
+56,2011-11-14,Abnormality of the cardiovascular system
+56,2011-11-03,Abnormality of the immune system
+56,1999-09-12,Neoplasm
+56,2017-01-28,Abnormality of blood and blood-forming tissues
+57,2015-06-22,Abnormality of the eye
+57,1976-11-11,Abnormality of the integument
+57,2006-10-15,Abnormality of the integument
+57,2010-10-29,Abnormality of the ear
+57,1977-03-10,Abnormality of the musculoskeletal system
+57,1973-11-28,Abnormality of the ear
+57,2006-12-26,Abnormality of the nervous system
+57,2014-06-20,Abnormality of the integument
+57,1975-06-08,Abnormality of limbs
+57,2015-06-16,Abnormality of blood and blood-forming tissues
+57,1989-09-28,Abnormality of the cardiovascular system
+58,1991-04-29,Abnormality of prenatal development or birth
+58,2017-06-05,Abnormality of the nervous system
+58,2008-10-13,Growth abnormality
+58,1995-09-06,Abnormality of blood and blood-forming tissues
+58,1982-01-11,Abnormality of the thoracic cavity
+58,2003-10-16,Abnormality of the musculoskeletal system
+58,1972-09-21,Abnormality of the respiratory system
+58,2020-01-06,Abnormality of limbs
+58,2010-01-31,Growth abnormality
+58,2012-02-27,Abnormality of the musculoskeletal system
+58,2003-09-14,Abnormality of the nervous system
+58,1982-01-26,Constitutional symptom
+58,2008-04-16,Abnormality of prenatal development or birth
+58,1970-08-29,Abnormality of the endocrine system
+58,2013-01-10,Abnormality of blood and blood-forming tissues
+59,1972-10-21,Abnormality of limbs
+59,1970-09-10,Abnormality of the eye
+59,1971-01-11,Constitutional symptom
+60,1988-09-29,Abnormality of the integument
+60,1986-10-22,Abnormality of the integument
+60,2001-07-30,Abnormality of the nervous system
+60,1985-03-29,Abnormality of the cardiovascular system
+60,1971-07-27,Abnormality of prenatal development or birth
+60,1993-01-08,Abnormality of the eye
+60,1995-05-02,Abnormality of the cardiovascular system
+60,2019-10-23,Abnormality of blood and blood-forming tissues
+60,1982-09-07,Abnormality of the nervous system
+60,1986-04-27,Abnormality of metabolism/homeostasis
+60,2010-01-16,Abnormality of the breast
+60,1975-10-10,Growth abnormality
+60,1999-03-25,Abnormality of the voice
+60,2023-01-30,Abnormality of the musculoskeletal system
+60,2003-10-09,Abnormality of the digestive system
+60,2000-07-14,Abnormality of head or neck
+61,1990-03-04,Abnormality of the genitourinary system
+61,2005-04-21,Abnormality of the endocrine system
+61,1972-01-11,Abnormality of the integument
+61,1984-01-25,Abnormality of the musculoskeletal system
+61,1978-06-15,Abnormality of the digestive system
+61,1990-04-10,Abnormality of the genitourinary system
+61,1979-02-08,Abnormal cellular phenotype
+61,1972-06-12,Abnormality of the breast
+61,2022-04-17,Abnormality of blood and blood-forming tissues
+61,1971-10-06,Neoplasm
+61,2009-09-24,Abnormality of the immune system
+61,1979-05-04,Abnormality of metabolism/homeostasis
+61,2020-02-06,Abnormality of prenatal development or birth
+61,1995-01-24,Abnormality of metabolism/homeostasis
+61,1974-10-15,Abnormality of the eye
+61,1996-12-27,Abnormality of the thoracic cavity
+61,2021-01-02,Abnormality of the breast
+61,2022-05-19,Neoplasm
+61,1982-04-05,Abnormality of the thoracic cavity
+61,1995-03-05,Abnormality of blood and blood-forming tissues
+61,1971-03-31,Abnormality of the cardiovascular system
+61,1990-03-10,Abnormality of metabolism/homeostasis
+61,1991-08-30,Constitutional symptom
+61,1975-11-13,Abnormality of limbs
+61,2000-08-03,Abnormality of the integument
+61,1985-07-21,Growth abnormality
+61,1987-03-06,Abnormality of the cardiovascular system
+61,1978-12-29,Abnormality of the nervous system
+61,2016-04-14,Abnormality of the integument
+62,2010-03-06,Abnormality of the nervous system
+62,1971-09-01,Abnormality of the endocrine system
+62,2019-02-16,Abnormality of head or neck
+62,1995-09-29,Constitutional symptom
+62,1974-02-23,Constitutional symptom
+62,1974-09-21,Abnormality of the ear
+62,1987-03-02,Abnormality of limbs
+62,1995-02-20,Abnormality of head or neck
+62,1998-09-06,Abnormality of the nervous system
+62,1981-04-25,Abnormality of head or neck
+62,1986-02-01,Abnormality of blood and blood-forming tissues
+62,2002-03-11,Abnormality of the eye
+62,1985-11-06,Abnormality of the voice
+63,2004-09-30,Abnormality of the digestive system
+63,1982-10-16,Abnormality of the genitourinary system
+63,2001-04-06,Constitutional symptom
+63,2009-08-24,Abnormality of the cardiovascular system
+63,1999-02-25,Abnormality of blood and blood-forming tissues
+63,1978-09-20,Abnormality of blood and blood-forming tissues
+63,1974-04-25,Abnormality of the ear
+63,2023-03-03,Abnormality of the respiratory system
+63,1983-03-12,Abnormality of the respiratory system
+63,2004-04-26,Abnormality of the cardiovascular system
+63,1990-12-21,Abnormality of the eye
+63,1973-06-16,Abnormality of the thoracic cavity
+63,2006-08-17,Neoplasm
+64,2019-12-03,Abnormality of limbs
+64,1970-02-15,Abnormality of the immune system
+64,1988-09-08,Abnormality of the eye
+64,1973-10-31,Abnormality of the immune system
+64,1982-06-22,Abnormality of head or neck
+64,1990-11-26,Abnormal cellular phenotype
+64,2002-08-17,Abnormality of the cardiovascular system
+64,1970-10-04,Neoplasm
+64,2004-10-29,Abnormality of limbs
+64,1988-04-25,Abnormality of the voice
+65,2010-09-26,Abnormality of the integument
+65,1998-12-12,Neoplasm
+65,2020-07-22,Abnormality of the respiratory system
+65,1983-02-16,Constitutional symptom
+65,2011-08-05,Abnormality of prenatal development or birth
+65,2005-02-06,Growth abnormality
+65,1984-12-31,Abnormality of the voice
+65,2018-08-30,Abnormality of the breast
+65,1976-09-10,Abnormality of the digestive system
+65,1991-06-27,Abnormality of the respiratory system
+65,1997-05-26,Abnormality of the digestive system
+65,2007-07-19,Abnormality of the ear
+66,2014-01-09,Abnormal cellular phenotype
+66,1990-03-17,Constitutional symptom
+66,2001-07-26,Abnormality of the ear
+66,2022-10-16,Abnormality of the immune system
+66,2015-04-09,Abnormality of the genitourinary system
+66,2018-08-22,Abnormality of the nervous system
+66,2013-09-15,Abnormality of the breast
+66,1997-10-21,Abnormality of the respiratory system
+66,2017-08-09,Abnormality of head or neck
+66,2010-08-09,Abnormality of the integument
+66,1975-05-27,Abnormality of the nervous system
+66,2015-04-01,Abnormality of the ear
+66,2022-06-21,Neoplasm
+66,2017-08-29,Abnormality of the immune system
+66,2006-10-11,Abnormality of limbs
+66,1989-07-15,Growth abnormality
+67,1984-12-24,Abnormality of the immune system
+67,1975-05-30,Constitutional symptom
+67,2003-06-10,Abnormality of the ear
+67,1990-12-26,Abnormality of head or neck
+67,1973-09-04,Abnormality of the genitourinary system
+67,1973-06-25,Abnormality of the musculoskeletal system
+67,1990-05-04,Abnormality of the musculoskeletal system
+67,1988-02-25,Abnormality of the integument
+67,1974-06-26,Constitutional symptom
+68,1983-07-20,Abnormality of the digestive system
+68,1988-12-22,Abnormal cellular phenotype
+68,1984-04-01,Abnormality of the cardiovascular system
+69,1998-09-08,Abnormal cellular phenotype
+69,1993-05-19,Abnormality of the nervous system
+69,1997-01-15,Growth abnormality
+69,2007-10-02,Growth abnormality
+69,1972-01-26,Abnormality of the immune system
+69,2015-02-26,Abnormality of blood and blood-forming tissues
+69,1977-10-25,Abnormality of prenatal development or birth
+69,1972-11-21,Neoplasm
+69,1973-12-18,Abnormality of limbs
+69,1980-12-15,Abnormality of the endocrine system
+69,1990-07-11,Abnormality of limbs
+69,2001-07-16,Abnormality of the ear
+69,2020-06-08,Abnormality of the cardiovascular system
+69,1984-10-22,Abnormality of limbs
+69,1977-05-16,Abnormality of the respiratory system
+69,2018-08-05,Abnormality of the thoracic cavity
+69,1975-01-03,Abnormality of the immune system
+69,1971-12-24,Neoplasm
+70,2009-12-21,Abnormality of the nervous system
+70,1998-10-21,Abnormality of the integument
+70,1985-03-21,Abnormality of blood and blood-forming tissues
+70,1996-03-20,Abnormality of the voice
+70,2017-11-09,Abnormality of the digestive system
+70,1990-06-24,Abnormality of prenatal development or birth
+70,1973-05-13,Abnormality of the breast
+70,1975-09-16,Abnormality of the integument
+70,1974-04-14,Abnormal cellular phenotype
+70,1981-01-20,Abnormality of the genitourinary system
+70,2020-05-31,Abnormality of the breast
+70,2002-04-01,Growth abnormality
+70,1984-05-28,Abnormality of the nervous system
+71,1974-09-13,Abnormality of the musculoskeletal system
+71,1987-11-28,Abnormality of head or neck
+72,1991-09-25,Abnormality of the musculoskeletal system
+72,1998-03-19,Abnormality of the eye
+72,2008-07-06,Abnormal cellular phenotype
+72,2015-07-16,Abnormality of the digestive system
+72,1980-03-02,Constitutional symptom
+72,1982-12-06,Abnormality of the genitourinary system
+72,1986-06-19,Abnormality of the nervous system
+72,2002-01-28,Abnormality of the eye
+72,1997-08-31,Abnormality of the genitourinary system
+72,1971-02-27,Constitutional symptom
+72,2020-02-28,Abnormality of the voice
+73,1978-02-06,Abnormality of the cardiovascular system
+73,1971-08-10,Abnormal cellular phenotype
+73,1992-12-04,Abnormality of the digestive system
+73,2001-08-07,Abnormality of limbs
+73,2004-03-29,Abnormality of blood and blood-forming tissues
+73,2020-11-09,Abnormality of the ear
+73,1991-04-22,Abnormality of head or neck
+73,1989-02-21,Abnormality of the voice
+73,1997-08-27,Abnormality of the musculoskeletal system
+73,1975-05-27,Abnormality of the musculoskeletal system
+73,2011-07-18,Abnormality of the genitourinary system
+73,1996-10-13,Abnormality of prenatal development or birth
+73,1981-07-14,Abnormality of metabolism/homeostasis
+73,2013-05-24,Abnormality of the breast
+73,1972-07-23,Abnormality of the endocrine system
+73,1982-08-06,Neoplasm
+73,2019-07-14,Abnormality of the nervous system
+73,1971-12-14,Abnormal cellular phenotype
+73,1980-10-13,Abnormal cellular phenotype
+73,2011-11-30,Neoplasm
+73,1978-05-28,Abnormal cellular phenotype
+73,1973-03-02,Constitutional symptom
+74,1975-04-28,Abnormality of the voice
+74,2017-10-24,Abnormality of the endocrine system
+74,1990-06-29,Abnormality of the voice
+74,1977-08-28,Abnormality of the immune system
+75,2021-12-08,Abnormality of the eye
+75,2016-10-06,Constitutional symptom
+75,2008-05-15,Abnormality of metabolism/homeostasis
+75,2000-08-15,Abnormality of the digestive system
+75,1972-05-19,Abnormality of the cardiovascular system
+75,2010-02-27,Abnormality of metabolism/homeostasis
+75,1974-11-08,Abnormality of the immune system
+75,2022-10-30,Abnormality of the integument
+75,1979-07-08,Abnormal cellular phenotype
+75,1984-08-15,Abnormality of prenatal development or birth
+75,1993-02-04,Abnormality of the integument
+75,2001-12-21,Neoplasm
+75,1973-04-12,Abnormality of the breast
+75,2021-10-29,Abnormality of the nervous system
+75,2012-04-10,Abnormal cellular phenotype
+75,1995-07-19,Constitutional symptom
+75,2000-06-28,Abnormality of metabolism/homeostasis
+75,1993-03-15,Abnormality of the breast
+75,1976-07-21,Abnormality of the digestive system
+75,2009-01-29,Abnormality of the ear
+75,1973-11-28,Abnormality of limbs
+75,2007-05-19,Abnormality of blood and blood-forming tissues
+75,1993-06-15,Abnormality of the cardiovascular system
+75,1976-05-23,Neoplasm
+75,2015-01-14,Abnormality of the endocrine system
+75,2002-10-08,Abnormality of the immune system
+75,2001-07-21,Abnormal cellular phenotype
+75,2014-08-17,Abnormality of the endocrine system
+75,1982-07-30,Abnormality of the thoracic cavity
+76,2000-04-22,Abnormality of prenatal development or birth
+76,1997-11-07,Abnormality of head or neck
+76,2020-02-13,Abnormality of the cardiovascular system
+76,1980-11-14,Neoplasm
+77,1997-09-21,Constitutional symptom
+77,1982-09-10,Abnormality of the respiratory system
+77,2018-08-06,Abnormality of prenatal development or birth
+77,1992-06-18,Abnormality of the breast
+77,1987-11-13,Abnormality of the nervous system
+77,1973-01-01,Abnormality of the eye
+77,1980-07-31,Abnormality of the immune system
+77,2009-09-20,Abnormality of the integument
+77,2012-02-08,Growth abnormality
+77,2008-02-27,Abnormality of head or neck
+77,1973-06-14,Abnormality of blood and blood-forming tissues
+78,1996-07-18,Abnormality of the cardiovascular system
+78,1997-05-25,Abnormality of the cardiovascular system
+78,2000-12-18,Abnormality of the breast
+78,2014-07-10,Neoplasm
+78,2001-06-14,Abnormality of the respiratory system
+78,1991-10-01,Abnormality of the voice
+78,2017-12-30,Abnormality of the respiratory system
+78,1973-04-24,Constitutional symptom
+78,1980-06-08,Abnormality of the respiratory system
+78,1992-02-10,Abnormality of metabolism/homeostasis
+78,2003-03-30,Abnormality of the breast
+78,2015-12-16,Abnormality of blood and blood-forming tissues
+78,2019-07-26,Abnormality of the eye
+79,2013-05-26,Constitutional symptom
+79,2004-08-18,Abnormality of the nervous system
+79,2015-09-20,Abnormal cellular phenotype
+79,2017-06-12,Abnormality of the voice
+79,2001-01-21,Abnormality of the respiratory system
+80,2018-07-11,Abnormality of limbs
+80,1971-12-30,Abnormality of limbs
+80,1986-01-07,Abnormality of prenatal development or birth
+80,1970-06-11,Abnormality of the voice
+80,1983-07-15,Abnormality of the ear
+80,2008-09-24,Abnormality of prenatal development or birth
+80,1970-02-20,Abnormality of the cardiovascular system
+80,2000-10-08,Abnormality of the cardiovascular system
+80,1989-02-21,Abnormality of the endocrine system
+80,1991-04-19,Abnormality of the immune system
+80,1975-07-19,Abnormality of metabolism/homeostasis
+80,1989-10-22,Abnormality of the musculoskeletal system
+80,1992-06-21,Abnormality of the nervous system
+80,2012-04-02,Abnormality of the musculoskeletal system
+80,1992-07-01,Abnormality of limbs
+80,2016-08-20,Neoplasm
+81,1977-02-12,Abnormality of the digestive system
+81,1975-01-27,Neoplasm
+81,1979-10-04,Abnormality of metabolism/homeostasis
+81,2006-07-04,Abnormality of the cardiovascular system
+81,1982-11-28,Abnormality of the musculoskeletal system
+81,1993-04-26,Abnormality of blood and blood-forming tissues
+81,1999-03-16,Abnormality of the eye
+81,1999-01-14,Abnormal cellular phenotype
+81,1971-02-27,Abnormality of the eye
+81,2006-10-08,Neoplasm
+81,2000-08-02,Abnormality of the genitourinary system
+81,1999-09-13,Abnormality of the immune system
+82,1978-01-18,Abnormality of the integument
+82,1978-09-17,Abnormality of blood and blood-forming tissues
+82,1996-06-01,Abnormality of the endocrine system
+82,2020-07-15,Abnormality of limbs
+82,1974-02-25,Abnormality of the cardiovascular system
+82,1987-03-20,Constitutional symptom
+82,1983-03-18,Abnormality of the breast
+82,1974-05-17,Abnormality of metabolism/homeostasis
+83,1975-12-30,Abnormality of the endocrine system
+83,1979-10-03,Abnormality of the digestive system
+83,2012-12-04,Abnormality of prenatal development or birth
+83,1999-04-26,Abnormality of the endocrine system
+83,1970-07-07,Abnormality of the eye
+83,2007-10-14,Abnormality of the cardiovascular system
+83,1972-04-10,Abnormality of the digestive system
+83,2017-10-27,Abnormality of the digestive system
+83,1995-12-22,Neoplasm
+83,2003-08-06,Abnormality of the musculoskeletal system
+83,2003-10-20,Abnormality of the respiratory system
+83,1991-07-18,Abnormality of the integument
+83,1992-09-15,Abnormality of blood and blood-forming tissues
+84,1990-07-05,Abnormality of the eye
+84,2001-05-14,Abnormality of the thoracic cavity
+84,1991-09-14,Abnormality of the respiratory system
+85,2020-04-05,Neoplasm
+85,1975-09-16,Abnormality of prenatal development or birth
+85,1978-05-27,Abnormality of the voice
+85,2015-05-15,Abnormality of blood and blood-forming tissues
+85,2007-12-14,Abnormality of the ear
+85,1993-09-06,Abnormality of head or neck
+85,1982-11-21,Abnormality of limbs
+85,2013-06-30,Abnormality of the ear
+85,2023-07-24,Abnormality of the immune system
+85,1983-09-30,Abnormality of limbs
+85,1997-04-27,Abnormality of head or neck
+85,1983-11-18,Abnormality of the respiratory system
+85,1979-07-13,Abnormality of metabolism/homeostasis
+85,2007-06-25,Abnormality of metabolism/homeostasis
+85,1994-09-06,Abnormal cellular phenotype
+85,2019-04-21,Constitutional symptom
+85,2002-07-18,Abnormality of the ear
+85,1984-12-05,Abnormality of the thoracic cavity
+85,1993-09-28,Abnormality of head or neck
+85,1990-05-19,Abnormality of the thoracic cavity
+85,1983-05-15,Abnormality of the genitourinary system
+85,1991-02-12,Abnormality of metabolism/homeostasis
+85,2008-09-07,Abnormality of the nervous system
+85,2023-09-25,Abnormality of the ear
+85,1988-07-04,Constitutional symptom
+85,1979-09-25,Abnormality of the integument
+85,1974-04-26,Constitutional symptom
+85,2016-08-14,Abnormality of the thoracic cavity
+85,2009-10-10,Neoplasm
+85,1985-09-27,Abnormality of the cardiovascular system
+86,2004-12-15,Abnormality of blood and blood-forming tissues
+86,2011-08-05,Abnormality of the cardiovascular system
+86,1981-02-20,Growth abnormality
+86,1994-09-30,Constitutional symptom
+86,1973-01-13,Abnormality of limbs
+86,2010-01-14,Abnormality of the musculoskeletal system
+86,2016-06-14,Abnormality of the genitourinary system
+86,1970-08-09,Abnormality of the breast
+86,1970-07-30,Abnormality of the eye
+86,2008-08-28,Abnormality of the musculoskeletal system
+86,1987-06-23,Abnormality of the digestive system
+86,2013-06-30,Abnormality of the endocrine system
+86,1984-05-11,Abnormality of metabolism/homeostasis
+86,1989-04-12,Abnormality of the nervous system
+86,2019-06-20,Abnormality of the musculoskeletal system
+86,2005-05-28,Abnormality of metabolism/homeostasis
+87,2016-12-12,Abnormality of head or neck
+87,2004-12-19,Growth abnormality
+87,1986-09-16,Abnormality of metabolism/homeostasis
+87,2009-01-21,Abnormality of the immune system
+87,2005-07-19,Abnormality of limbs
+87,2003-11-08,Constitutional symptom
+87,1975-04-27,Abnormality of the musculoskeletal system
+87,1992-02-05,Abnormal cellular phenotype
+87,1992-08-07,Abnormality of metabolism/homeostasis
+87,1985-02-05,Abnormality of the ear
+87,2001-06-28,Abnormality of the respiratory system
+87,2000-11-07,Abnormality of the digestive system
+87,2017-10-02,Abnormality of the breast
+87,1975-04-24,Abnormality of the musculoskeletal system
+87,1993-08-29,Abnormality of the cardiovascular system
+87,1983-03-27,Abnormality of the genitourinary system
+87,1980-07-13,Abnormality of blood and blood-forming tissues
+87,2021-01-15,Abnormality of the integument
+87,1994-11-19,Abnormality of metabolism/homeostasis
+87,2022-01-27,Abnormality of prenatal development or birth
+87,2018-02-20,Abnormality of the musculoskeletal system
+87,2011-12-22,Abnormality of the thoracic cavity
+87,1972-04-26,Abnormality of the endocrine system
+87,1982-10-16,Growth abnormality
+88,2018-01-26,Abnormal cellular phenotype
+88,2001-02-10,Abnormality of the musculoskeletal system
+88,1999-08-14,Abnormality of the cardiovascular system
+88,2012-03-12,Abnormality of prenatal development or birth
+88,2010-03-19,Abnormal cellular phenotype
+88,1987-02-16,Abnormality of the breast
+88,2000-11-29,Abnormality of the eye
+88,1995-08-16,Abnormality of the nervous system
+88,1997-10-15,Abnormality of metabolism/homeostasis
+88,1977-06-09,Growth abnormality
+88,1977-01-12,Abnormality of the endocrine system
+88,2012-08-04,Abnormality of the genitourinary system
+88,1976-03-15,Abnormality of the breast
+88,1970-04-16,Abnormality of the ear
+88,2001-08-24,Abnormality of the nervous system
+88,2006-04-12,Abnormality of the thoracic cavity
+89,2015-11-24,Abnormality of blood and blood-forming tissues
+89,1986-09-02,Abnormality of the voice
+89,1972-05-18,Abnormality of the immune system
+89,1999-10-29,Abnormality of the immune system
+89,1982-11-11,Abnormality of the integument
+89,2022-02-22,Abnormality of limbs
+89,1983-07-02,Abnormality of the digestive system
+89,1979-09-25,Abnormality of the integument
+89,1999-10-10,Abnormality of the cardiovascular system
+89,2018-05-05,Abnormality of the thoracic cavity
+89,1992-11-17,Growth abnormality
+90,1989-05-27,Abnormality of the cardiovascular system
+90,2007-01-21,Constitutional symptom
+90,1982-09-09,Abnormal cellular phenotype
+90,2015-04-03,Abnormality of blood and blood-forming tissues
+90,1993-06-26,Abnormal cellular phenotype
+90,2017-07-01,Abnormality of the thoracic cavity
+90,1991-09-23,Abnormality of limbs
+90,1974-07-22,Abnormality of head or neck
+90,1993-06-17,Abnormality of the musculoskeletal system
+90,1999-08-12,Abnormality of the breast
+90,2007-05-31,Abnormality of the musculoskeletal system
+90,1972-05-14,Abnormality of the cardiovascular system
+90,1999-06-21,Constitutional symptom
+90,2018-12-16,Abnormality of the immune system
+90,2000-09-26,Abnormality of metabolism/homeostasis
+90,1995-09-15,Neoplasm
+90,1989-06-18,Abnormality of the musculoskeletal system
+90,2012-11-11,Abnormality of the nervous system
+90,2007-02-01,Abnormality of the immune system
+91,1985-11-03,Abnormality of metabolism/homeostasis
+91,1985-04-24,Abnormality of the breast
+91,1996-05-03,Abnormality of the integument
+91,1986-01-03,Abnormality of the eye
+91,1971-07-18,Abnormality of the thoracic cavity
+91,1984-03-29,Abnormality of head or neck
+91,2008-03-17,Constitutional symptom
+91,1971-06-17,Abnormality of the digestive system
+91,1995-12-22,Abnormality of the nervous system
+91,2020-10-18,Abnormality of the breast
+91,2016-04-25,Abnormality of the immune system
+91,1979-02-05,Abnormality of limbs
+91,1980-05-20,Abnormality of the thoracic cavity
+92,2014-04-03,Abnormality of prenatal development or birth
+92,2016-12-30,Abnormality of the cardiovascular system
+92,1990-10-02,Abnormality of metabolism/homeostasis
+92,1971-03-07,Abnormality of the ear
+92,2002-05-26,Abnormality of the digestive system
+92,1979-07-05,Constitutional symptom
+92,2006-03-17,Abnormality of the thoracic cavity
+92,1982-03-15,Abnormality of the nervous system
+92,1996-12-23,Abnormality of the immune system
+92,2006-11-21,Abnormality of the genitourinary system
+92,2015-12-14,Abnormality of head or neck
+92,2012-04-12,Abnormal cellular phenotype
+92,2007-05-23,Abnormal cellular phenotype
+92,1986-02-11,Abnormality of the ear
+92,1991-04-12,Abnormality of prenatal development or birth
+92,2019-02-16,Abnormality of limbs
+92,1978-02-11,Constitutional symptom
+92,2003-04-06,Abnormality of the integument
+92,2004-05-11,Abnormality of the breast
+92,1970-11-19,Abnormality of the breast
+92,1985-02-27,Abnormality of the musculoskeletal system
+92,2010-10-12,Neoplasm
+92,1992-04-15,Abnormality of the respiratory system
+92,1987-02-26,Abnormality of the ear
+92,1972-06-01,Abnormality of the voice
+92,2021-01-02,Abnormality of the genitourinary system
+92,1989-07-13,Abnormality of the cardiovascular system
+92,2018-02-05,Abnormality of the digestive system
+92,1984-01-20,Abnormality of head or neck
+93,2010-09-21,Neoplasm
+93,2014-04-20,Abnormality of prenatal development or birth
+93,1980-05-23,Abnormal cellular phenotype
+93,1990-06-29,Growth abnormality
+93,1995-12-18,Constitutional symptom
+94,2008-03-19,Neoplasm
+94,1982-11-29,Constitutional symptom
+94,2002-10-16,Abnormality of the endocrine system
+94,2015-08-01,Abnormality of the nervous system
+94,1983-07-14,Abnormality of the breast
+94,1981-04-22,Abnormality of the ear
+94,2014-09-24,Neoplasm
+94,2020-07-11,Abnormal cellular phenotype
+94,1986-05-23,Abnormality of the respiratory system
+94,1982-08-30,Abnormality of the digestive system
+94,2005-09-23,Abnormality of the breast
+94,1981-12-07,Abnormality of the nervous system
+94,1970-04-03,Abnormality of the integument
+94,1979-07-29,Abnormality of metabolism/homeostasis
+95,2020-04-24,Abnormality of blood and blood-forming tissues
+95,2004-12-05,Abnormality of the musculoskeletal system
+95,2008-11-10,Abnormality of prenatal development or birth
+95,2018-12-20,Abnormality of the nervous system
+95,2022-03-09,Abnormality of the voice
+95,1981-07-01,Abnormal cellular phenotype
+95,1973-11-06,Abnormality of the breast
+95,1999-08-27,Abnormality of the digestive system
+95,1995-07-16,Abnormality of the eye
+95,1995-08-17,Abnormality of the genitourinary system
+96,1985-12-09,Abnormality of limbs
+96,2002-06-12,Abnormality of the thoracic cavity
+96,2020-07-31,Abnormality of the digestive system
+96,2017-06-05,Abnormality of the musculoskeletal system
+97,1997-06-07,Abnormality of limbs
+97,1973-08-19,Abnormality of the musculoskeletal system
+97,1973-03-26,Abnormality of limbs
+97,1973-10-26,Abnormality of the integument
+97,1989-06-06,Abnormality of the breast
+97,1986-06-17,Abnormality of the respiratory system
+97,1984-01-09,Abnormality of the cardiovascular system
+97,1991-11-30,Abnormality of the digestive system
+97,1988-02-12,Abnormality of the musculoskeletal system
+97,1979-03-12,Abnormality of the respiratory system
+97,2016-08-26,Abnormality of the immune system
+97,2021-01-09,Abnormality of the ear
+97,2018-04-30,Abnormality of the immune system
+97,2019-05-12,Abnormality of the immune system
+97,2000-09-19,Abnormality of limbs
+97,1974-07-12,Abnormality of the voice
+97,1972-12-17,Growth abnormality
+97,1975-08-05,Abnormality of the ear
+98,2007-05-08,Abnormality of the breast
+98,2000-10-04,Growth abnormality
+98,2002-08-09,Abnormality of the genitourinary system
+98,1986-07-14,Constitutional symptom
+98,2012-08-15,Abnormality of metabolism/homeostasis
+98,1976-11-10,Abnormality of the digestive system
+98,1974-11-10,Abnormality of the cardiovascular system
+98,1983-02-06,Abnormality of head or neck
+98,2013-06-12,Abnormality of the ear
+98,1990-11-01,Abnormality of the breast
+98,1974-10-02,Growth abnormality
+98,1973-06-03,Abnormality of the integument
+98,1991-05-16,Abnormality of the voice
+98,1998-08-13,Abnormality of head or neck
+98,2002-08-16,Neoplasm
+98,2005-08-16,Abnormality of the breast
+98,2008-06-03,Abnormality of the musculoskeletal system
+98,1990-11-08,Abnormality of the digestive system
+98,2007-07-10,Abnormality of the voice
+98,2004-07-12,Constitutional symptom
+98,2015-03-09,Abnormality of the eye
+99,1988-07-22,Abnormality of the ear
+99,2013-09-06,Abnormality of limbs
+99,1990-09-23,Abnormality of the voice
+99,2007-04-27,Abnormality of blood and blood-forming tissues
+99,1990-07-09,Abnormality of the musculoskeletal system
+99,1998-06-20,Abnormality of prenatal development or birth
+99,1974-08-18,Abnormality of the genitourinary system
+99,1989-11-13,Abnormality of the eye
+99,2015-12-20,Abnormality of prenatal development or birth
+99,2015-03-06,Abnormality of the immune system
+99,2003-09-18,Abnormality of the respiratory system
+99,2010-10-11,Neoplasm
+99,1979-07-10,Abnormality of the nervous system
+99,2013-11-02,Abnormality of the respiratory system
+99,2006-01-09,Abnormality of the thoracic cavity
+99,2007-04-21,Abnormality of the genitourinary system
+99,2002-08-25,Abnormality of the musculoskeletal system
+99,2021-01-13,Abnormality of metabolism/homeostasis
+99,1997-09-26,Abnormality of prenatal development or birth
+99,2019-10-24,Abnormality of the integument
+99,1970-11-05,Abnormality of the ear
+99,2011-09-08,Abnormality of the endocrine system
