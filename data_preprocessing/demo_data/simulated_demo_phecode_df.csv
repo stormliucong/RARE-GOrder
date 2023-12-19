@@ -1,0 +1,1498 @@
+person_id,condition_start_date,phecode_str
+0,2003-04-15,Toxic effect of noxious substances eaten as food
+0,2013-03-15,Fracture of ribs
+0,2020-09-21,"Toxic effect of corrosive aromatics, acids, and caustic alkalis"
+0,1986-07-17,Juvenile rheumatoid arthritis
+0,1972-02-09,"Cerebral artery occlusion, with cerebral infarction"
+0,1990-03-07,Complications of transplants and reattached limbs
+0,1979-10-17,Known or suspected fetal abnormality affecting management of mother
+0,1982-11-29,Fracture of tibia and fibula
+0,1990-08-17,"Benign neoplasm of lip, oral cavity, and pharynx"
+0,1990-09-22,Type 1 diabetes with ophthalmic manifestations
+0,2018-09-07,"Toxic effect of other substances, chiefly nonmedicinal as to source"
+0,1995-06-01,Acute vascular insufficiency of intestine
+0,2015-03-06,Open wounds of head; neck; and trunk
+0,2005-01-18,Suicide or self-inflicted injury
+0,1988-08-20,Other derangement of joint
+0,2005-11-03,Disorders of the globe
+0,1988-11-13,Fracture of vertebral column without mention of spinal cord injury
+0,2013-11-22,Ptosis of eyelid
+0,2015-09-30,Congenital anomalies of face and neck
+1,2017-07-14,"Malignant neoplasm of liver, primary"
+1,1990-06-20,Fracture of neck of femur
+1,1991-04-16,Decubitus ulcer
+1,1985-03-01,Asthma
+1,1974-09-19,Personality disorders
+1,1998-02-17,Suicide or self-inflicted injury
+1,1986-03-13,Arthropathy associated with infections
+1,2000-09-29,Other tests
+1,1996-03-01,Corneal opacity and other disorders of cornea
+1,1980-09-05,Malunion and nonunion of fracture
+1,1982-05-17,Pathologic fracture
+1,1986-11-23,Superficial injury without mention of infection
+1,1991-04-25,Fracture of hand or wrist
+1,1990-09-17,Inflammation of eyelids
+1,1981-02-01,Labyrinthitis
+1,2000-01-11,Open wound of finger(s)
+1,1997-02-09,Malunion and nonunion of fracture
+1,1999-05-08,Fracture of radius and ulna
+1,1983-11-09,Gouty arthropathy
+1,2017-07-11,Postoperative shock
+1,1979-12-25,"Complications of cardiac/vascular device, implant, and graft"
+1,2013-06-01,Traumatic amputation
+1,2002-01-19,Fracture of pelvis
+1,2002-03-07,Complication of internal orthopedic device
+1,2004-10-17,Malunion and nonunion of fracture
+2,1977-12-27,"Effects of heat, cold and air pressure"
+2,2003-09-01,Keratitis
+2,1971-08-31,Burns
+2,2009-07-01,Fracture of radius and ulna
+2,2007-10-23,Pathologic fracture
+2,1974-04-04,Open wound of ear
+2,2001-07-17,Fracture of lower limb
+2,1992-10-10,Burns
+2,1988-09-06,Injury to blood vessels
+2,1979-10-27,Fracture of tibia and fibula
+2,2009-03-06,Burns
+2,1991-07-27,Malunion and nonunion of fracture
+2,2018-07-13,Sprains and strains
+2,1977-10-20,Open wound of ear
+2,1971-10-22,Fracture of radius and ulna
+2,2000-10-02,Stress fracture
+2,2014-02-25,Joint/ligament sprain
+2,1994-05-10,Gouty arthropathy
+2,1986-05-18,Dislocation
+2,2012-08-21,Dislocation
+2,1981-05-12,Malunion and nonunion of fracture
+2,2012-03-01,Blister
+2,1971-08-28,Superficial injury without mention of infection
+2,2003-11-11,Open wound of neck
+3,1980-02-09,Cancer of other female genital organs (excluding uterus and ovary)
+3,1996-05-06,Burns
+3,1989-08-28,Crushing or internal injury to organs
+3,2005-05-20,Sprains and strains
+3,1994-11-15,Mycoses
+3,1997-12-05,"Noninflammatory disorders of ovary, fallopian tube, and broad ligament"
+3,2007-11-13,Cholesteatoma
+3,1973-01-09,Fracture of hand or wrist
+3,2012-04-29,Poisoning by psychotropic agents
+3,2015-01-29,Adverse effects of sedatives or other central nervous system depressants and anesthetics
+3,1989-06-14,Malunion and nonunion of fracture
+3,1977-12-10,Malunion and nonunion of fracture
+3,2005-12-07,Burns
+3,2021-10-15,Malunion and nonunion of fracture
+4,1978-03-19,Superficial injury without mention of infection
+4,1990-05-28,Burns
+4,2000-12-11,Asphyxia and hypoxemia
+4,1976-04-23,Cerebral laceration and contusion
+4,1981-07-28,Other upper respiratory disease
+4,1994-10-31,Fracture of radius and ulna
+4,2015-06-20,Fracture of ankle and foot
+4,2015-11-03,Malunion and nonunion of fracture
+4,1974-02-26,Fracture of tibia and fibula
+4,1986-02-26,Pathologic fracture
+4,1998-09-12,Carbuncle and furuncle
+4,2015-01-11,Fracture of ankle and foot
+4,2012-08-02,Burns
+4,1982-06-02,Spondylosis with myelopathy
+4,1971-11-07,Blister
+4,2021-07-30,Systemic lupus erythematosus
+4,2007-08-05,Suicide or self-inflicted injury
+4,1998-12-31,Secondary malignant neoplasm
+4,1996-12-19,Fracture of foot
+4,2000-05-28,Fracture of radius and ulna
+4,2013-11-03,Fracture of hand or wrist
+4,2021-09-22,Atherosclerosis of the extremities
+4,2010-11-10,Fracture of radius and ulna
+4,1970-02-03,Poisoning by hormones and synthetic substitutes
+4,1974-04-16,"Injury, NOS"
+4,1972-11-17,Joint/ligament sprain
+5,2017-07-12,"Cerebral artery occlusion, with cerebral infarction"
+5,2004-01-22,Leprosy
+5,1985-09-21,Fracture of radius and ulna
+5,1988-04-13,Poisoning by psychotropic agents
+5,1996-04-06,"Complications of cardiac/vascular device, implant, and graft"
+5,1974-02-10,Malunion and nonunion of fracture
+5,2000-09-01,Malignant neoplasm of bladder
+5,1997-04-04,Fracture of hand or wrist
+5,1977-03-02,Suicide or self-inflicted injury
+5,1992-07-31,Internal derangement of knee
+5,1984-07-16,Burns
+5,2022-08-11,Acute (transverse) myelitis
+5,1975-12-13,Insect bite
+5,1989-03-24,Type 1 diabetes with ophthalmic manifestations
+5,1978-11-25,Fracture of unspecified part of femur
+5,1972-12-10,Spinal cord injury without evidence of spinal bone injury
+5,1970-06-30,Fracture of radius and ulna
+5,2007-01-17,Suicidal ideation or attempt
+5,1980-07-27,Burns
+5,2012-12-25,Fracture of humerus
+5,1995-04-06,Superficial injury without mention of infection
+5,1982-05-16,Adverse drug events and drug allergies
+5,1974-03-30,Coma
+5,1970-06-15,screening for malignant neoplasms
+5,1973-11-16,Traumatic amputation
+5,1996-09-03,Diabetic retinopathy
+5,1996-07-20,Diabetic retinopathy
+5,1989-06-09,Injury to blood vessels
+5,1979-01-01,Fracture of tibia and fibula
+6,2007-03-05,Juvenile rheumatoid arthritis
+6,2016-11-25,Glaucoma
+6,1997-11-01,Fracture of ankle and foot
+6,1974-10-31,Internal derangement of knee
+6,2023-04-10,Open wounds of head; neck; and trunk
+6,2003-03-25,Fracture of radius and ulna
+6,1971-04-13,"Injury, NOS"
+6,1998-07-07,Miscarriage; stillbirth
+6,1976-11-05,Fracture of radius and ulna
+6,2002-02-17,Bursitis disorders
+6,2012-06-15,Pathologic fracture
+6,1998-12-25,Traumatic amputation
+6,2005-05-31,Poisoning by hormones and synthetic substitutes
+6,2016-08-18,Secondary diabetes mellitus
+7,1987-01-07,Open wounds of head; neck; and trunk
+7,2011-07-04,Otitis externa
+7,1971-05-11,Cancer of other female genital organs
+7,1976-01-26,Hereditary disturbances in tooth structure
+7,2000-10-14,Malunion and nonunion of fracture
+7,2001-07-04,Fracture of radius and ulna
+7,2002-06-01,Dislocation
+7,2014-11-01,"Persons with potential health hazards related to socioeconomic, psychosocial, and other circumstances"
+7,1974-10-03,Osteitis deformans [Paget's disease of bone]
+7,2023-03-03,Arthropathy associated with neurological disorders
+7,1979-06-08,Fracture of vertebral column without mention of spinal cord injury
+7,2010-12-01,Toxic effect of venom
+7,1999-03-24,Colon cancer
+7,2008-04-04,Malignant neoplasm of unspecified male genital organ
+7,1992-11-12,"Injury, NOS"
+7,1978-08-27,Tympanosclerosis and middle ear disease related to otitis media
+7,1978-03-19,Non-Hodgkins lymphoma
+8,1988-10-27,Open wound of finger(s)
+8,2001-03-09,Intestinal disaccharidase deficiencies and disaccharide malabsorption
+8,2009-08-13,Sprains and strains
+8,2000-04-19,Fracture of tibia and fibula
+8,2005-11-26,Poisoning by drugs primarily affecting the autonomic nervous system
+8,1986-07-06,Dislocation
+8,2012-01-16,Fracture of humerus
+8,2006-03-08,Pathologic fracture
+8,2019-08-13,Ulcerative colitis (chronic)
+8,1973-10-29,Pulmonary congestion and hypostasis
+8,1996-04-05,Fracture of vertebral column without mention of spinal cord injury
+8,2009-06-06,Suicide or self-inflicted injury
+8,1986-06-04,Infectious and parasitic complications affecting pregnancy
+8,1987-09-23,Open wounds of head; neck; and trunk
+8,1970-05-19,Fracture of radius and ulna
+8,1983-04-15,Blister
+8,2001-07-20,Malunion and nonunion of fracture
+8,2004-04-11,Femoral hernia
+8,2000-01-21,Sexually transmitted infections (not HIV or hepatitis)
+8,1987-11-11,Fracture of tibia and fibula
+8,1993-11-25,Injury to blood vessels
+8,2017-06-13,Chronic ulcer of leg or foot
+8,2003-12-06,Alopecia
+8,2020-02-23,Other hypertrophic and atrophic conditions of skin
+8,1979-03-10,Burns
+9,1971-07-25,Lipoprotein disorders
+9,2001-09-06,Injuries to the nervous system
+9,1971-07-17,Pathologic fracture
+9,1983-07-21,Contusion
+9,2022-09-23,Fracture of tibia and fibula
+9,1981-06-09,Malunion and nonunion of fracture
+9,2019-12-23,Gouty arthropathy
+9,1984-01-27,Dislocation
+9,1998-03-25,Superficial injury without mention of infection
+9,2003-02-08,Impacted cerumen
+9,2021-04-02,Skull and face fracture and other intercranial injury
+9,1977-03-31,Fracture of unspecified part of femur
+9,1995-02-10,Fracture of unspecified part of femur
+9,1990-05-23,Fracture of ankle and foot
+9,1999-11-15,Early onset of delivery
+9,1988-07-31,Burns
+9,1978-01-31,Malunion and nonunion of fracture
+9,1998-09-26,"Injury, NOS"
+9,1992-09-16,Secondary diabetes mellitus
+9,1973-08-31,Traumatic amputation
+9,1981-08-23,Gastrointestinal complications
+9,1991-07-30,Other disorders of metabolism
+9,2008-09-04,Laxity of ligament or hypermobility syndrome
+9,1984-04-24,Fracture of radius and ulna
+9,2001-10-27,Fracture of humerus
+9,1986-09-20,Laxity of ligament or hypermobility syndrome
+9,1992-08-10,"Persons with potential health hazards related to socioeconomic, psychosocial, and other circumstances"
+9,2001-09-28,Burns
+9,1985-03-25,Diabetic retinopathy
+10,2019-11-04,Malunion and nonunion of fracture
+10,1980-02-05,Fracture of neck of femur
+10,2009-12-08,Disorders of lacrimal system
+10,2009-02-13,"Injury, NOS"
+10,1987-10-22,Unspecified monoarthritis
+10,1993-03-24,Fracture of ankle and foot
+10,1976-10-18,Burns
+10,1977-06-30,Malunion and nonunion of fracture
+10,1983-05-15,Fracture of patella
+10,1984-01-03,Juvenile rheumatoid arthritis
+10,1992-06-17,Traumatic amputation
+10,2015-09-28,Sprains and strains
+10,1982-05-29,Crushing or internal injury to organs
+10,2023-09-10,Fracture of radius and ulna
+10,1993-07-22,Substance addiction and disorders
+10,1984-02-21,Persons encountering health services in circumstances related to reproduction
+11,2020-05-24,Joint/ligament sprain
+11,1980-04-01,Acute and chronic tonsillitis
+11,1972-10-04,Sprains and strains
+11,2013-05-23,Infections of genitourinary tract during pregnancy
+11,1999-02-03,Congenital deformities of feet
+11,1988-05-17,Optic neuritis/neuropathy
+11,2013-06-16,Open wounds of head; neck; and trunk
+11,1988-05-27,Dislocation
+11,2022-04-26,Fracture of ankle and foot
+11,1979-01-12,Deep vein thrombosis [DVT]
+11,1975-10-09,Internal derangement of knee
+11,2009-08-25,Fracture of vertebral column without mention of spinal cord injury
+11,2006-08-25,"Injury, NOS"
+11,2020-09-08,Open wound of finger(s)
+11,2010-07-20,"Poisoning by analgesics, antipyretics, and antirheumatics"
+11,1976-05-22,Other specified peripheral vascular diseases
+11,2011-05-07,Pathologic fracture
+11,2010-08-31,"Other disorders of synovium, tendon, and bursa"
+11,1989-05-01,Contusion
+11,2006-10-18,Internal derangement of knee
+11,2013-03-12,Acquired deformities of forearm
+11,1990-12-30,Varicella infection
+11,2010-02-25,Spina bifida
+11,2014-03-28,Acquired spondylolisthesis
+12,2018-08-26,Other diseases of the teeth and supporting structures
+12,2020-02-05,Adverse drug events and drug allergies
+12,2014-02-23,Poisoning by agents primarily acting on the smooth and skeletal muscles and respiratory system
+12,1986-06-20,"Injury, NOS"
+12,1971-02-06,Fracture of ankle and foot
+12,2020-03-12,Gangrene
+12,1991-05-07,Superficial injury without mention of infection
+12,2009-01-30,Multiple gestation
+12,1998-08-21,Injury to blood vessels
+12,1993-07-26,Burns
+12,1994-11-25,Injury to blood vessels
+12,1995-04-09,Internal derangement of knee
+12,2011-06-14,"Cellulitis and abscess of foot, toe"
+12,1979-10-03,Contusion
+12,1970-12-22,Short gestation; low birth weight; and fetal growth retardation
+12,1981-06-07,Sleep related movement disorders
+12,1987-05-22,Open wound of finger(s)
+12,1980-10-19,Congenital anomalies of great vessels
+12,1987-12-19,Open wound of toe(s)
+12,1979-11-23,Burns
+12,1975-03-11,Gouty arthropathy
+12,1985-10-10,"Persons with potential health hazards related to socioeconomic, psychosocial, and other circumstances"
+13,2021-03-29,Arthropathy associated with other disorders classified elsewhere
+13,2013-08-27,Joint/ligament sprain
+13,1980-11-20,Sprains and strains
+13,2011-03-17,Complication of internal orthopedic device
+13,1996-08-25,Fracture of unspecified part of femur
+13,1992-02-28,Fracture of vertebral column without mention of spinal cord injury
+13,1991-01-17,Disorders of conjunctiva
+13,1982-07-17,Poisoning by drugs primarily affecting the autonomic nervous system
+13,1991-08-24,Malunion and nonunion of fracture
+13,1971-04-25,Malunion and nonunion of fracture
+14,2005-01-29,Fracture of vertebral column without mention of spinal cord injury
+14,1993-04-19,Progressive myopia
+14,1983-07-23,Toxic effect of venom
+14,1976-10-11,Stress fracture
+14,1995-08-15,"Effects of heat, cold and air pressure"
+14,2008-10-25,Fracture of hand or wrist
+14,2005-01-05,Fracture of ankle and foot
+15,1978-07-20,Fracture of vertebral column without mention of spinal cord injury
+15,2005-09-05,Superficial injury without mention of infection
+15,1984-03-23,Malunion and nonunion of fracture
+15,1979-02-23,Osteitis deformans [Paget's disease of bone]
+15,2018-01-24,Fracture of hand or wrist
+15,2016-09-26,"Effects of heat, cold and air pressure"
+15,1976-06-20,Internal derangement of knee
+15,2011-04-25,Chronic ulcer of leg or foot
+15,1981-06-08,Poisoning by agents primarily acting on the smooth and skeletal muscles and respiratory system
+16,1986-05-23,Malunion and nonunion of fracture
+16,2012-10-27,Burns
+16,2007-11-24,Injury to blood vessels
+16,2016-04-14,Fracture of tibia and fibula
+16,2002-06-24,Fracture of clavicle or scapula
+16,1984-07-30,Burns
+16,1987-08-15,Fracture of unspecified part of femur
+16,1986-06-10,Complication of internal orthopedic device
+16,2003-04-22,Non-Hodgkins lymphoma
+16,2017-08-16,Cancer of nasopharynx
+16,1999-04-17,Labyrinthitis
+16,2014-07-28,Burns
+16,1981-05-11,Fracture of radius and ulna
+17,2011-06-22,Toxic effect of (non-ethyl) alcohol and petroleum and other solvents
+17,1984-02-05,Morbid obesity
+17,1993-12-01,Salicylates causing adverse effects in therapeutic use
+17,2009-12-05,Acquired absence of limb
+17,2023-03-10,Sprains and strains
+17,2019-03-10,Open wound of finger(s)
+18,1975-07-03,Dislocation
+18,2012-04-25,Nodular lymphoma
+18,2000-12-15,Fracture of lower limb
+18,2005-08-27,Burns
+18,1979-06-27,Intestinal disaccharidase deficiencies and disaccharide malabsorption
+18,1999-07-06,Dislocation
+18,2008-09-09,Spinal cord injury without evidence of spinal bone injury
+18,1972-07-21,Enthesopathy
+18,2014-02-25,Pathologic fracture
+18,1976-06-26,Dislocation
+18,2019-04-10,Postphlebitic syndrome
+19,2002-01-09,Adverse drug events and drug allergies
+19,1976-12-17,Sexually transmitted infections (not HIV or hepatitis)
+19,2002-04-15,Ectropion or entropion
+19,2018-06-17,Burns
+19,2017-05-27,"Mechanical complication of unspecified genitourinary device, implant, and graft"
+19,2020-01-26,Deep vein thrombosis [DVT]
+19,2019-01-29,Injury to blood vessels
+19,2013-12-21,Leukemia
+19,1997-12-21,Chromosomal anomalies
+19,1975-08-23,Blindness and low vision
+19,1988-07-01,Superficial injury without mention of infection
+19,1994-10-04,Crushing or internal injury to organs
+19,1975-06-17,Open wounds of extremities
+19,2001-10-31,Sprains and strains
+19,1987-05-05,Cancer of brain and nervous system
+19,2010-08-03,Arthropathy associated with infections
+19,2022-02-10,Fracture of hand or wrist
+19,1997-07-07,Injury to blood vessels
+19,2014-03-29,Toxic effect of other metals
+19,2002-11-01,Spasm of muscle
+19,2005-03-25,"Osteoarthrosis, generalized"
+19,1999-06-30,Fracture of unspecified part of femur
+19,1997-11-19,"Injury, NOS"
+19,2003-04-04,Complications of surgical and medical procedures
+19,1989-06-16,Poisoning by hormones and synthetic substitutes
+19,1992-10-10,Other disorders of bone and cartilage
+20,1997-01-24,"Injury, NOS"
+20,1976-10-29,Retinopathy of prematurity
+20,2002-10-28,Otitis media
+20,2016-09-08,Crushing or internal injury to organs
+20,2004-10-28,Acute periodontitis
+20,1987-02-13,Other complications of pregnancy NEC
+20,2015-06-17,Inflammatory diseases of female pelvic organs
+20,1982-10-09,Malunion and nonunion of fracture
+20,1994-01-16,Complication of internal orthopedic device
+21,1991-11-14,Pathologic fracture
+21,2023-07-23,Other disorders of eyelids
+21,1998-05-18,Pathologic fracture
+21,1991-12-22,Muscular calcification and ossification
+21,2020-05-02,Fracture of vertebral column without mention of spinal cord injury
+21,2018-09-04,Complication of colostomy or enterostomy
+21,1981-04-23,Cancer of esophagus
+21,2011-07-07,Lung disease due to external agents
+22,2008-11-18,Diabetic retinopathy
+22,2003-11-13,"Injury, NOS"
+22,1975-10-02,Malunion and nonunion of fracture
+22,1984-08-23,Toxic effect of (non-ethyl) alcohol and petroleum and other solvents
+22,1985-11-10,Fracture of neck of femur
+22,1993-03-22,Blindness and low vision
+22,2008-08-03,Fracture of unspecified part of femur
+22,2023-09-21,Joint/ligament sprain
+22,1992-10-18,Hemorrhage in early pregnancy
+22,1974-08-23,Fracture of hand or wrist
+22,2023-01-04,Cancer of eye
+22,1997-06-24,"Uveitis, noninfectious or NOS"
+22,1975-06-13,Fracture of hand or wrist
+22,2013-07-27,Other and unspecified disorders of the nervous system
+22,1994-12-10,Insect bite
+22,1978-12-21,Fracture of radius and ulna
+22,2008-09-01,Other disorders of soft tissues
+22,2020-05-02,Hemiplegia
+22,2018-09-26,Complications following abortion or ectopic and molar pregnancies
+22,2022-04-13,Sprains and strains
+23,2023-01-17,Folate-deficiency anemia
+23,1997-12-03,Fracture of radius and ulna
+23,1985-10-13,Fracture of tibia and fibula
+23,1975-09-06,Spinal cord injury without evidence of spinal bone injury
+23,2007-02-17,Fracture of unspecified part of femur
+23,1978-01-27,Cervical radiculitis
+23,2003-05-15,Secondary diabetes mellitus
+23,2012-02-13,Superficial injury without mention of infection
+23,2015-09-17,Viral infection
+23,2011-03-27,Atherosclerosis of the extremities
+24,2012-01-13,Rheumatoid arthritis
+24,2004-03-18,Superficial injury without mention of infection
+24,2017-10-15,Fracture of neck of femur
+24,1991-02-10,"Toxic effect of other substances, chiefly nonmedicinal as to source"
+24,2012-05-24,Infection of the eye
+24,1996-05-20,Toxic effect of (non-ethyl) alcohol and petroleum and other solvents
+24,1998-10-18,Burns
+24,1993-05-14,screening for other diseases and disorders
+25,1992-01-08,Burns
+25,2021-12-22,Problems associated with amniotic cavity and membranes
+25,2007-02-05,Strabismus and other disorders of binocular eye movements
+25,1992-10-16,Contusion
+25,2001-07-06,Fracture of unspecified part of femur
+25,2016-01-04,Spinal cord injury without evidence of spinal bone injury
+25,2020-12-26,Other unspecified back disorders
+25,2019-11-29,Umbilical cord complications during labor and delivery
+25,1994-05-04,Open wounds of head; neck; and trunk
+25,2012-10-14,Fracture of tibia and fibula
+25,2001-03-12,Secondary malignant neoplasm of digestive systems
+25,2009-09-09,"Injury, NOS"
+25,1977-12-15,Fracture of radius and ulna
+25,1988-02-06,"Effects of heat, cold and air pressure"
+25,1994-04-23,Fracture of radius and ulna
+26,1985-03-31,Burns
+27,2000-06-04,Superficial injury without mention of infection
+27,2001-07-26,"Toxic effect of other gases, fumes, or vapors"
+27,1983-10-24,"Toxic effect of other substances, chiefly nonmedicinal as to source"
+27,1978-04-09,Pathologic fracture
+27,1987-01-03,"Injury, NOS"
+27,1990-05-20,Other derangement of joint
+27,1973-05-08,"Effects of heat, cold and air pressure"
+27,2015-04-05,Injury to blood vessels
+27,2006-12-18,Injury to blood vessels
+27,2004-01-19,Bacterial infection NOS
+27,2001-09-19,Pathologic fracture
+27,1999-01-09,Fracture of vertebral column without mention of spinal cord injury
+27,2011-03-19,Complication of internal orthopedic device
+27,1977-06-09,Sprains and strains
+27,2017-04-19,Poisoning by drugs primarily affecting the autonomic nervous system
+27,2007-10-31,Burns
+27,1986-02-10,Burns
+28,2000-04-06,Other perinatal conditions of fetus or newborn
+28,1985-01-03,Pathologic fracture
+28,1981-05-31,Malunion and nonunion of fracture
+28,2018-09-20,Burns
+28,1979-02-14,Arthropathy associated with other disorders classified elsewhere
+28,2015-04-20,Fracture of patella
+28,1972-08-05,"Injury, NOS"
+28,1996-07-26,Symptoms and disorders of the joints
+28,1980-11-24,Fracture of tibia and fibula
+28,2020-09-11,Fracture of vertebral column without mention of spinal cord injury
+28,2013-03-13,Poisoning by agents primarily affecting the cardiovascular system
+28,1990-02-17,Complication due to other implant and internal device
+28,1990-01-15,Known or suspected fetal abnormality affecting management of mother
+28,1971-11-21,Toxic effect of other metals
+28,1995-02-13,Aseptic necrosis of bone
+28,1986-10-16,Late effects of cerebrovascular disease
+28,2015-03-09,Fracture of vertebral column without mention of spinal cord injury
+28,1973-01-27,Fracture of vertebral column without mention of spinal cord injury
+28,2000-03-06,Cellulitis and abscess of trunk
+28,1978-05-23,Fracture of foot
+28,2019-01-16,Diabetic retinopathy
+29,1994-12-06,Fracture of neck of femur
+29,1985-10-04,Malunion and nonunion of fracture
+29,1973-10-11,Fracture of tibia and fibula
+29,1974-11-02,Pain in limb
+29,1985-11-25,Insect bite
+29,1984-06-25,Injury to blood vessels
+29,1977-08-06,Malunion and nonunion of fracture
+29,2021-08-07,Injury to blood vessels
+29,2001-04-19,Burns
+29,1973-03-05,Complication due to other implant and internal device
+29,2004-09-19,Open wounds of extremities
+29,2009-11-20,Fracture of neck of femur
+29,2019-06-24,"Uveitis, noninfectious or NOS"
+29,1974-01-12,Umbilical cord complications during labor and delivery
+29,2006-09-16,Fracture of hand or wrist
+29,1985-06-09,Malunion and nonunion of fracture
+29,1983-08-24,Anorexia nervosa
+29,2004-04-19,Adverse drug events and drug allergies
+29,1979-11-09,Fracture of humerus
+29,1983-04-09,Malunion and nonunion of fracture
+29,1979-09-08,Disorders of iris and ciliary body
+29,2004-10-30,"Injury, NOS"
+29,2000-06-09,Aseptic necrosis of bone
+29,1971-06-16,Open wound or laceration of eye or eyelid
+30,1988-11-28,Fracture of tibia and fibula
+30,1989-10-30,Fracture of tibia and fibula
+30,1989-08-08,Gouty arthropathy
+30,1976-09-06,Poisoning by agents primarily affecting the gastrointestinal system
+30,2000-09-03,Suicide or self-inflicted injury
+30,2004-07-14,Muscular calcification and ossification
+30,1981-12-22,Acute sinusitis
+30,1997-05-05,Burns
+30,1975-12-10,Burns
+30,2003-07-04,Acquired deformities of forearm
+30,1997-05-07,Poisoning by antibiotics
+30,1991-06-27,Open wounds of extremities
+30,2021-02-03,Other disorders of lipoid metabolism
+30,2010-12-05,Stress fracture
+31,2018-02-07,Obstetrical/birth trauma
+31,1973-06-18,Musculoskeletal symptoms referable to limbs
+31,2018-12-24,Other hereditary hemolytic anemias
+31,1971-09-23,"HIV infection, symptomatic"
+31,1979-05-15,"Other disorders of synovium, tendon, and bursa"
+31,1996-04-07,Umbilical cord complications during labor and delivery
+31,1995-01-27,Crushing or internal injury to organs
+31,1975-10-10,Injury to blood vessels
+31,1992-02-29,Insect bite
+31,2000-01-28,Fracture of radius and ulna
+31,2006-06-07,Open wounds of head; neck; and trunk
+31,1998-10-09,Poisoning by primarily systemic agents
+31,1972-02-27,Retinal vascular changes and abnomalities
+31,2009-09-15,Burns
+31,2023-04-24,Malunion and nonunion of fracture
+31,1982-07-17,Decubitus ulcer
+31,2016-12-24,Injury to blood vessels
+32,1999-01-02,Crushing or internal injury to organs
+32,1982-05-14,Fracture of unspecified part of femur
+32,2004-07-15,Insect bite
+33,1976-06-05,Neoplasm of uncertain behavior
+33,1994-09-02,Disorders of conjunctiva
+33,1976-05-29,Gram positive septicemia
+33,2005-03-14,Complication of internal orthopedic device
+33,1976-01-18,Burns
+33,1984-07-13,Superficial injury without mention of infection
+34,2021-02-06,Complication of internal orthopedic device
+34,1998-12-01,Fracture of patella
+34,1987-11-26,"Poisoning by agents primarily affecting skin & mucous membrane, ophthalmological, otorhinolaryngological, & dental drugs"
+34,2005-08-22,Suicide or self-inflicted injury
+34,1989-07-22,Dislocation
+34,2002-08-22,Poisoning by primarily systemic agents
+34,2010-02-24,Stress fracture
+34,2003-02-10,Internal derangement of knee
+34,2006-07-21,Gout
+34,2011-03-07,Pyogenic arthritis
+34,2012-07-28,Muscular calcification and ossification
+34,1987-06-02,"Disorders secondary to childbirth, surgery, trauma"
+34,2014-05-15,Fracture of radius and ulna
+34,1975-07-09,Fracture of patella
+35,2012-05-07,Bacterial infection NOS
+35,2011-06-20,Memory loss
+35,1978-08-26,Multiple gestation
+35,2001-10-15,"Acute glomerulonephritis, NOS"
+35,2017-06-05,Spinal cord injury without evidence of spinal bone injury
+35,1980-09-07,Malunion and nonunion of fracture
+35,1972-09-03,Fracture of pelvis
+35,1991-03-04,Fracture of neck of femur
+35,1988-07-03,"Effects of heat, cold and air pressure"
+35,2003-12-27,Open-angle glaucoma
+35,2011-03-11,Fracture of vertebral column without mention of spinal cord injury
+35,2007-01-04,Dislocation
+35,2006-05-17,Superficial injury without mention of infection
+35,2020-01-18,Malunion and nonunion of fracture
+35,1970-11-22,Substance addiction and disorders
+35,2016-09-01,Crushing or internal injury to organs
+35,1970-04-28,Known or suspected fetal abnormality affecting management of mother
+35,1998-03-23,Mental disorders durring/after pregnancy
+35,1992-04-07,Poisoning by drugs primarily affecting the autonomic nervous system
+35,1985-06-25,Traumatic amputation
+35,1995-01-13,Acute pancreatitis
+35,2017-03-17,Secondary malignancy of bone
+36,1999-09-14,Burns
+36,2005-01-17,Joint/ligament sprain
+36,1994-06-05,"Injury, NOS"
+36,2013-09-22,Problems associated with amniotic cavity and membranes
+36,1997-10-04,Malunion and nonunion of fracture
+37,1974-04-11,Fracture of lower limb
+37,2020-01-07,Major depressive disorder
+37,1973-06-05,Fracture of radius and ulna
+38,1996-08-01,Gouty arthropathy
+38,1984-02-14,Fracture of vertebral column without mention of spinal cord injury
+38,1980-08-07,"Injury, NOS"
+38,2019-08-25,Malunion and nonunion of fracture
+38,2001-08-28,Multiple gestation
+38,2011-12-12,Poisoning by other anti-infectives
+38,1993-05-11,Complications of surgical and medical procedures
+38,1993-04-21,Fracture of hand or wrist
+38,1980-10-31,Burns
+38,1985-09-04,Obesity
+38,2003-01-15,Fracture of ankle and foot
+38,2001-12-05,Dislocation
+38,2019-01-26,Poisoning by psychotropic agents
+38,2010-12-07,Injuries to the nervous system
+38,1976-09-20,Blister
+38,1993-10-15,Fracture of humerus
+38,1975-06-24,Certain early complications of trauma or procedure
+38,1971-12-04,Open wounds of extremities
+39,2004-01-30,Osteopathy resulting from poliomyelitis
+40,1973-03-13,Sprains and strains
+40,2016-07-11,Multiple gestation
+40,1974-05-14,Bone cancer
+40,1980-06-27,"Varicose veins of lower extremity, symptomtic"
+40,2009-12-20,Joint/ligament sprain
+40,1981-04-04,Fracture of tibia and fibula
+40,1997-06-20,"Persons with potential health hazards related to socioeconomic, psychosocial, and other circumstances"
+40,1993-08-22,Malunion and nonunion of fracture
+40,2009-09-15,"Injury, NOS"
+40,1989-04-13,Major puerperal infection
+40,2019-05-16,Traumatic amputation
+40,1971-11-14,Fracture of neck of femur
+40,1983-05-28,Skull and face fracture and other intercranial injury
+41,1970-06-11,Infective connective tissue disorders
+41,2019-08-13,Acquired deformities of hip
+41,2007-05-22,Complication due to other implant and internal device
+41,1988-06-08,Fracture of patella
+41,1977-01-30,Suicide or self-inflicted injury
+41,1996-04-26,Fracture of ankle and foot
+41,1981-09-26,Fracture of radius and ulna
+41,1979-06-17,Sprains and strains
+41,2004-10-25,Fracture of hand or wrist
+41,2010-02-01,"Injury, NOS"
+41,2007-01-02,Adverse drug events and drug allergies
+41,2009-04-02,Other tests
+42,1973-03-08,Fracture of hand or wrist
+42,2010-12-22,Other disorders of metabolism
+42,1999-04-25,Fracture of hand or wrist
+42,2001-04-22,Cataract
+42,1981-07-03,Spinal cord injury without evidence of spinal bone injury
+42,1998-01-21,Suicide or self-inflicted injury
+42,1988-12-24,Malignant neoplasm of testis
+42,2003-06-21,Poisoning by anticonvulsants and anti-Parkinsonism drugs
+42,1988-06-24,Fracture of radius and ulna
+42,1978-08-08,Dislocation
+42,1971-11-24,Open wounds of head; neck; and trunk
+42,1994-06-09,Lupus (localized and systemic)
+42,1975-05-30,Contusion
+42,2002-12-10,Problems associated with amniotic cavity and membranes
+42,1986-01-08,Fracture of hand or wrist
+42,1973-06-23,Injury to blood vessels
+42,1988-12-31,Joint/ligament sprain
+42,2002-12-19,Complications of surgical and medical procedures
+42,2007-04-25,Injury to blood vessels
+42,2015-11-05,Complication of internal orthopedic device
+42,2010-11-04,"Toxic effect of other substances, chiefly nonmedicinal as to source"
+43,1974-02-01,Benign neoplasm of colon
+43,1981-03-06,Crushing injury
+43,2022-09-24,Rheumatoid arthritis
+43,1990-11-20,Known or suspected fetal abnormality affecting management of mother
+43,1971-10-23,Glaucoma
+43,1985-02-20,Infection/inflammation of internal prosthetic device; implant; and graft
+43,1995-03-26,Suicide or self-inflicted injury
+43,2001-10-04,Bipolar
+43,1973-08-03,Fracture of unspecified part of femur
+43,1976-01-05,Fracture of unspecified part of femur
+43,1975-08-20,Atherosclerosis of the extremities
+43,2003-03-13,"Injury, NOS"
+43,1980-04-09,Complications of surgical and medical procedures
+43,1983-10-07,"Benign neoplasm of spinal cord, meninges"
+44,2020-01-04,Cholesteatoma
+44,1979-05-12,Disorders of lacrimal system
+44,1980-11-24,Injuries to the nervous system
+44,1974-04-29,Infectious and parasitic complications affecting pregnancy
+44,1988-03-16,Malunion and nonunion of fracture
+44,2006-02-12,Poisoning by agents primarily affecting blood constituents
+44,2010-10-26,Open wounds of head; neck; and trunk
+44,1972-04-05,"Injury, NOS"
+44,2003-02-07,Retinal vascular changes and abnomalities
+44,2004-09-13,Dislocation
+44,1989-06-05,Pathologic fracture
+44,1992-01-18,Fracture of lower limb
+45,2008-02-29,Chromosomal anomalies
+45,2002-07-28,Mammographic microcalcification
+45,1970-12-17,"Persons with potential health hazards related to socioeconomic, psychosocial, and other circumstances"
+45,1983-01-03,Crushing or internal injury to organs
+45,2009-11-25,Cholelithiasis with other cholecystitis
+45,1970-01-29,Superficial injury without mention of infection
+45,2012-06-20,Fracture of vertebral column without mention of spinal cord injury
+45,2013-03-09,"Occlusion of cerebral arteries, with cerebral infarction"
+45,1995-01-12,Problems associated with amniotic cavity and membranes
+45,1973-10-16,Complications of surgical and medical procedures
+45,2012-08-14,Fracture of tibia and fibula
+45,1989-12-30,Fracture of hand or wrist
+45,2015-04-17,Skull and face fracture and other intercranial injury
+45,1983-08-06,"Injury, NOS"
+45,2015-11-01,Muscular calcification and ossification
+45,2000-07-07,"Injury, NOS"
+46,2009-01-18,Malunion and nonunion of fracture
+46,2010-04-18,Contusion
+46,1999-06-17,Corneal opacity and other disorders of cornea
+46,1988-08-16,Malunion and nonunion of fracture
+46,1999-04-11,Other symptoms involving urinary system
+46,1991-10-05,Fracture of hand or wrist
+46,1972-03-08,Tobacco use disorder
+46,1988-02-06,Dislocation
+46,1985-08-18,Sprains and strains
+47,2018-05-08,Fracture of ankle and foot
+47,2005-02-07,Fracture of lower limb
+47,2013-04-26,Malunion and nonunion of fracture
+47,2006-03-28,"Injury, NOS"
+47,1979-02-19,Poisoning by psychotropic agents
+47,1994-02-06,Open wounds of extremities
+47,1976-07-06,Burns
+48,2011-12-03,Malunion and nonunion of fracture
+48,2022-12-16,Injury to blood vessels
+48,1970-10-14,Osteitis deformans [Paget's disease of bone]
+48,1985-06-20,Secondary diabetes mellitus
+48,1999-02-05,"Toxic effect of other substances, chiefly nonmedicinal as to source"
+48,1984-08-21,Cystic kidney disease
+49,2022-08-21,Dislocation
+49,2002-10-06,Fracture of ankle and foot
+49,2016-06-12,Chronic ulcer of leg or foot
+49,1993-09-08,Toxic effect of (non-ethyl) alcohol and petroleum and other solvents
+49,2000-05-14,Toxic effect of (non-ethyl) alcohol and petroleum and other solvents
+49,1986-01-10,Malunion and nonunion of fracture
+49,2003-06-12,Malunion and nonunion of fracture
+49,2016-11-30,Insect bite
+49,1991-02-13,Burns
+49,2004-06-14,Open wound of nose and sinus
+49,2009-12-25,"Injury, NOS"
+49,1979-01-31,Fracture of hand or wrist
+49,2009-12-30,Fracture of radius and ulna
+49,2001-07-06,Superficial injury without mention of infection
+49,2007-09-26,Burns
+49,2015-09-19,Fracture of vertebral column without mention of spinal cord injury
+49,1985-03-03,Fracture of vertebral column without mention of spinal cord injury
+49,2003-07-19,Fracture of patella
+49,1989-03-18,Poisoning by agents primarily affecting the gastrointestinal system
+49,2003-11-28,Hepatitis NOS
+50,1991-09-25,Secondary malignancy of lymph nodes
+50,2022-03-17,Preeclampsia and eclampsia
+50,1993-05-01,Disorders of external ear
+50,2002-03-20,"Mechanical complication of unspecified genitourinary device, implant, and graft"
+50,2007-04-20,Separation of retinal layers
+50,2001-09-20,Fracture of ankle and foot
+50,2014-10-21,"Injury, NOS"
+51,1993-04-14,Fracture of hand or wrist
+51,2020-12-26,Fracture of radius and ulna
+51,1981-12-01,Arthropathy associated with infections
+51,1995-10-04,Fracture of tibia and fibula
+51,1983-06-12,Pain in limb
+51,2011-03-28,Burns
+51,1992-12-02,Senile cataract
+51,1979-10-18,Intracranial hemorrhage (injury)
+51,1993-12-13,Joint/ligament sprain
+51,1979-10-26,"Congenital anomalies of upper limb, including shoulder girdle"
+51,2021-12-14,Fracture of tibia and fibula
+52,1997-05-08,Skull and face fracture and other intercranial injury
+52,2005-03-11,"Injury, NOS"
+52,1975-02-17,Malunion and nonunion of fracture
+53,2020-07-20,Malunion and nonunion of fracture
+53,1976-03-11,Infection of the eye
+53,1980-03-21,Phlebitis and thrombophlebitis of lower extremities
+53,2003-07-28,Toxic effect of venom
+53,1996-04-20,"Injury, NOS"
+53,2015-02-07,Injury to blood vessels
+53,2010-01-12,Congenital anomalies of face and neck
+53,2002-06-15,Dislocation
+53,2016-12-07,Fracture of hand or wrist
+53,1978-10-25,Skull and face fracture and other intercranial injury
+53,1983-04-30,Effects of other external causes
+53,1970-01-28,Atherosclerosis of the extremities
+53,2020-11-25,Superficial injury without mention of infection
+53,1985-07-19,Myeloid leukemia
+53,1992-01-22,Sprains and strains
+53,1981-05-06,Dry eyes
+53,1976-04-16,Fracture of pelvis
+53,2012-01-03,Fracture of ankle and foot
+53,2023-01-02,Injury to blood vessels
+54,1998-08-02,Scleritis and episcleritis
+54,2007-04-14,Spinal cord injury without evidence of spinal bone injury
+54,2004-03-08,"Complications of cardiac/vascular device, implant, and graft"
+54,1972-03-22,Malunion and nonunion of fracture
+54,1977-07-08,Fracture of vertebral column without mention of spinal cord injury
+54,2012-08-25,Fracture of humerus
+54,2011-09-25,Skull and face fracture and other intercranial injury
+54,1985-09-05,Open wound or laceration of eye or eyelid
+54,2000-01-17,Cyst of bone
+54,1974-09-18,Open wounds of head; neck; and trunk
+54,2003-07-11,Pathologic fracture
+54,1985-07-16,Effects of other external causes
+54,1973-11-21,Dislocation
+54,2017-09-21,Fracture of unspecified part of femur
+54,2018-09-08,Burns
+54,1994-04-25,Corneal opacity
+54,1977-01-11,Fracture of neck of femur
+54,1972-07-14,Known or suspected fetal abnormality affecting management of mother
+54,2012-09-10,Fracture of radius and ulna
+54,1983-04-19,Problems associated with amniotic cavity and membranes
+54,1992-03-15,Decubitus ulcer
+54,2004-08-02,Malunion and nonunion of fracture
+54,1976-02-25,"Injury, NOS"
+54,2014-06-25,Superficial injury without mention of infection
+54,2006-10-22,Open wound of finger(s)
+54,2007-12-06,Fracture of radius and ulna
+55,1995-06-06,Fracture of foot
+55,2022-09-11,Fracture of pelvis
+55,2020-03-14,Fracture of ankle and foot
+55,2009-03-04,Chronic osteomyelitis
+55,2015-04-07,Injury to blood vessels
+55,2005-10-31,Hepatitis NOS
+55,1970-01-28,Malunion and nonunion of fracture
+55,1971-12-21,Acquired spondylolisthesis
+55,2019-07-20,Complications of surgical and medical procedures
+55,2006-08-11,Malunion and nonunion of fracture
+55,1972-10-30,Late effects of cerebrovascular disease
+55,2013-10-20,Palindromic rheumatism
+55,2010-08-02,Injury to blood vessels
+56,2004-08-09,Sprains and strains
+56,1990-09-21,"Injury, NOS"
+56,2003-07-03,Open wounds of extremities
+56,1978-06-25,"Occlusion of cerebral arteries, with cerebral infarction"
+56,1981-03-12,Toxic effect of (non-ethyl) alcohol and petroleum and other solvents
+56,1981-12-16,Dislocation
+56,2011-03-25,Injury to blood vessels
+56,1982-01-09,Fracture of patella
+56,2006-03-12,Injury to blood vessels
+56,2004-10-01,Fracture of humerus
+56,1996-04-20,Fracture of unspecified part of femur
+56,2005-06-11,Poisoning by agents primarily affecting blood constituents
+56,2020-07-04,Dislocation
+56,1971-09-13,Suicide or self-inflicted injury
+56,1972-05-03,Impacted cerumen
+56,2017-01-05,Osteitis deformans and osteopathies associated with other disorders classified elsewhere
+56,2013-12-21,Spontaneous ecchymoses
+56,1993-06-17,Fracture of humerus
+56,2023-06-12,Fracture of humerus
+56,2021-09-15,Fracture of lower limb
+56,2000-10-31,Fracture of hand or wrist
+56,1997-10-20,Superficial injury without mention of infection
+56,2008-08-21,"Toxic effect of other gases, fumes, or vapors"
+56,2020-12-17,Injury to blood vessels
+57,2001-04-30,Open wounds of extremities
+57,2007-07-16,Fracture of ankle and foot
+57,2006-09-01,Fracture of radius and ulna
+57,2010-03-14,Family history
+57,1976-12-03,"Other congenital anomalies of lower limb, including pelvic girdle"
+57,1970-02-28,Foreign body injury
+57,2014-12-28,Benign neoplasm of other female genital organs
+57,1974-07-10,Injury to blood vessels
+57,1981-12-05,Malunion and nonunion of fracture
+57,1975-06-24,Fracture of radius and ulna
+57,1984-02-24,Fracture of radius and ulna
+57,2000-08-08,Anaphylactic shock NOS
+57,1997-09-12,Malunion and nonunion of fracture
+57,2022-10-04,Fracture of unspecified part of femur
+57,1997-10-08,Complications of surgical and medical procedures
+57,1986-07-28,Complications of surgical and medical procedures
+57,1991-03-15,Fracture of vertebral column without mention of spinal cord injury
+57,1970-06-11,Malunion and nonunion of fracture
+57,2001-09-15,Dislocation
+57,2002-10-16,"Injury, NOS"
+58,2011-09-28,Other intestinal obstruction
+58,1989-08-08,Skull and face fracture and other intercranial injury
+58,1985-10-31,Acute pain
+58,1973-03-14,Aseptic necrosis of bone
+58,1991-05-31,Inflammatory and toxic neuropathy
+58,2007-01-01,"Injury, NOS"
+58,1980-12-28,Known or suspected fetal abnormality affecting management of mother
+58,2000-02-08,Infective connective tissue disorders
+58,2019-03-06,Aphakia and other disorders of lens
+58,2019-12-30,"Injury, NOS"
+58,2002-07-17,Open wounds of head; neck; and trunk
+58,1993-04-20,Malunion and nonunion of fracture
+58,2019-11-03,Poisoning by agents primarily acting on the smooth and skeletal muscles and respiratory system
+58,2018-10-15,Acquired hypothyroidism
+58,1988-04-26,Burns
+58,2022-08-25,Other disorders of the kidney and ureters
+58,2014-12-14,Other CNS infection and poliomyelitis
+58,2001-02-07,Myocardial infarction
+58,1997-04-15,Sprains and strains
+58,2014-06-04,Contusion
+58,2023-10-12,"Toxic effect of other substances, chiefly nonmedicinal as to source"
+58,2012-11-06,Arthropathy NOS
+58,2008-05-16,Traumatic amputation
+58,1980-01-17,"Injury, NOS"
+58,2014-08-21,Suicide or self-inflicted injury
+58,2018-04-21,Fracture of radius and ulna
+58,1979-05-26,Fracture of hand or wrist
+59,2016-05-01,Hemorrhage or hematoma complicating a procedure
+59,2000-07-19,Infection of the eye
+59,2000-09-22,Cervical radiculitis
+59,1988-12-03,"Uveitis, noninfectious or NOS"
+59,1981-06-05,Burns
+59,1995-01-04,Sprains and strains
+59,1979-10-02,Fracture of radius and ulna
+59,1996-10-01,Family history
+60,2009-07-25,Atherosclerosis of the extremities
+60,2003-02-01,Tuberculosis
+60,2003-11-28,Adverse drug events and drug allergies
+60,1999-02-04,Superficial injury without mention of infection
+60,1988-06-16,"Injury, NOS"
+60,1979-09-12,Burns
+60,1983-01-18,Fracture of hand or wrist
+60,1996-05-11,Fracture of hand or wrist
+60,2000-05-11,Vaginitis and vulvovaginitis
+60,2008-02-25,Fracture of tibia and fibula
+60,1998-12-30,Malunion and nonunion of fracture
+60,2001-06-09,Contact dermatitis and other eczema due to plants [except food]
+60,1987-02-08,"Injury, NOS"
+60,1979-08-16,Fracture of lower limb
+60,1999-04-28,Crushing or internal injury to organs
+60,1973-05-17,Fracture of vertebral column without mention of spinal cord injury
+60,2003-02-04,Superficial injury without mention of infection
+61,2013-06-02,Fracture of unspecified part of femur
+61,1983-01-05,Hepatitis NOS
+61,1982-07-29,Complication of internal orthopedic device
+61,1976-12-01,Open wounds of head; neck; and trunk
+61,2001-02-20,Malunion and nonunion of fracture
+61,1989-01-19,Atherosclerosis of the extremities
+61,1982-03-05,Loose body in joint
+61,1988-01-07,"Injury, NOS"
+61,2007-11-30,Other non-epithelial cancer of skin
+61,2008-10-09,Glaucoma
+61,1996-02-22,Fracture of vertebral column without mention of spinal cord injury
+61,2014-07-14,Complications of surgical and medical procedures
+61,2001-07-14,Pathologic fracture
+61,1990-09-22,screening for other diseases and disorders
+61,1981-02-24,Open wound of genital organs
+61,1972-08-23,Burns
+61,1992-03-01,"Toxic effect of other gases, fumes, or vapors"
+61,1991-10-27,Burns
+61,1994-03-14,"Complications of cardiac/vascular device, implant, and graft"
+61,1990-08-22,Burns
+61,2015-03-25,"Toxic effect of other substances, chiefly nonmedicinal as to source"
+62,1976-12-02,Traumatic amputation
+63,1985-08-28,Myalgia and myositis unspecified
+63,2007-06-15,Fracture of ankle and foot
+63,1991-09-07,Nephrotic syndrome without mention of glomerulonephritis
+63,2011-02-11,Fracture of ankle and foot
+63,2005-10-10,Malunion and nonunion of fracture
+63,1970-05-01,Superficial injury without mention of infection
+63,1977-08-16,Chronic osteomyelitis
+63,2002-05-07,Deficiency of humoral immunity
+63,2017-10-14,Aseptic necrosis of bone
+63,2011-09-03,"Injury, NOS"
+64,1972-11-02,Fracture of humerus
+64,2004-03-20,Symptomatic menopause
+64,1984-07-03,Fracture of hand or wrist
+64,2003-03-10,Anal and rectal conditions
+64,1971-08-25,Fracture of radius and ulna
+64,1991-12-22,Malunion and nonunion of fracture
+64,1972-02-09,Burns
+64,2010-11-16,Fracture of clavicle or scapula
+64,2007-06-18,Viral infection
+64,2022-04-12,Fracture of lower limb
+64,2017-06-14,Juvenile rheumatoid arthritis
+64,1977-06-23,Ovarian cyst
+64,1987-11-04,Malunion and nonunion of fracture
+64,1975-07-22,Burns
+64,1996-03-12,Other disorders of bone and cartilage
+64,2003-05-28,Fracture of lower limb
+64,2019-03-02,Fracture of foot
+64,1995-02-27,Fracture of vertebral column without mention of spinal cord injury
+64,2004-05-13,Open wound of toe(s)
+64,2008-11-25,Dislocation
+64,1979-11-13,Problems associated with amniotic cavity and membranes
+64,1988-03-06,Malunion and nonunion of fracture
+64,1978-12-20,Fracture of unspecified part of femur
+64,2011-04-22,Retinal detachment with retinal defect
+64,1976-03-30,Injury to blood vessels
+64,2022-04-30,Late effects of cerebrovascular disease
+64,1974-02-25,Fracture of tibia and fibula
+64,1977-11-05,Other symptoms referable to back
+64,2007-04-01,Malunion and nonunion of fracture
+64,2003-03-18,Fracture of hand or wrist
+65,2011-12-09,"Other disorders of synovium, tendon, and bursa"
+65,1997-04-27,Fracture of vertebral column without mention of spinal cord injury
+65,2001-07-11,Injuries to the nervous system
+65,1984-10-01,Fracture of radius and ulna
+65,1974-11-13,Poisoning by agents primarily affecting the cardiovascular system
+65,2011-09-28,Complication of internal orthopedic device
+65,1993-11-07,Carcinoma in situ of skin
+65,1971-11-04,Crushing or internal injury to organs
+65,1985-03-12,Traumatic amputation
+65,2014-07-16,Injury to blood vessels
+65,1974-10-01,Skull and face fracture and other intercranial injury
+65,1976-02-01,"Rupture of tendon, nontraumatic"
+65,2009-10-31,Injury to blood vessels
+65,1989-10-15,"Effects of heat, cold and air pressure"
+65,2009-04-23,Fracture of radius and ulna
+65,2005-09-24,Other cerebral degenerations
+65,1999-08-31,Malunion and nonunion of fracture
+65,1993-02-15,Certain early complications of trauma or procedure
+66,2015-06-02,Fracture of vertebral column without mention of spinal cord injury
+66,2009-05-25,Malunion and nonunion of fracture
+66,1970-07-18,Persons encountering health services in circumstances related to reproduction
+66,1983-02-28,Dislocation
+66,1974-02-05,Rosacea
+66,1992-05-26,Injuries to the nervous system
+66,1972-05-21,Burns
+66,2001-09-11,Burns
+66,1972-08-02,Arthropathy associated with infections
+66,1985-01-27,Dermatitis due to solar radiation
+66,1978-06-23,Malunion and nonunion of fracture
+67,2016-03-23,Inguinal hernia
+68,1995-02-06,Insect bite
+68,1978-05-10,Other open wound of head and face
+68,2012-01-07,Open wounds of head; neck; and trunk
+68,1971-02-21,"Injury, NOS"
+68,2009-08-20,Chronic venous hypertension
+68,2006-08-25,Pathologic fracture
+68,1997-04-26,Other acquired deformities of limbs
+68,2000-09-26,Injuries to the nervous system
+68,1999-07-22,Dementia with cerebral degenerations
+68,2015-09-12,Toxic effect of venom
+68,1972-02-23,Other chronic nonalcoholic liver disease
+68,2011-08-10,Diabetic retinopathy
+68,1986-05-29,Rheumatoid arthritis
+68,2015-01-09,Fracture of hand or wrist
+68,1981-09-22,Spasm of muscle
+68,1975-02-22,Malunion and nonunion of fracture
+68,1992-05-11,Arterial embolism and thrombosis of lower extremity artery
+68,2010-05-18,"Rupture of tendon, nontraumatic"
+68,2003-03-19,Fracture of radius and ulna
+68,1977-06-08,"Injury, NOS"
+68,1992-06-17,"Injury, NOS"
+68,1993-05-11,Complication due to other implant and internal device
+68,2004-12-04,Disorders of external ear
+68,1976-03-24,Injury to blood vessels
+68,1973-10-28,Diabetic retinopathy
+69,2005-12-06,Tuberculosis
+69,2010-10-21,Open wound of finger(s)
+69,2014-06-29,Fracture of vertebral column without mention of spinal cord injury
+69,2009-12-30,"Toxic effect of other substances, chiefly nonmedicinal as to source"
+69,1982-12-30,Fracture of radius and ulna
+69,2015-03-10,Fracture of hand or wrist
+69,1974-12-03,Superficial injury without mention of infection
+69,1974-08-24,Psychosis
+69,2014-06-24,Substance addiction and disorders
+69,1974-08-22,Spinal cord injury without evidence of spinal bone injury
+69,1979-05-28,"Rupture of tendon, nontraumatic"
+69,1979-09-21,Superficial injury without mention of infection
+69,2012-11-23,Spinal cord injury without evidence of spinal bone injury
+69,1971-04-30,Superficial injury without mention of infection
+69,1978-10-09,Traumatic amputation
+69,2017-08-08,Fracture of ankle and foot
+69,1973-11-15,Fracture of patella
+69,1994-12-27,Fracture of vertebral column without mention of spinal cord injury
+69,2023-04-14,Enthesopathy
+69,1973-03-07,Fracture of radius and ulna
+69,2011-11-08,Symptoms and disorders of the joints
+70,2009-12-02,Venous/cerebrovascular complications embolism in pregnancy and the puerperium
+70,1981-09-09,Malunion and nonunion of fracture
+70,1988-02-26,Rheumatoid arthritis
+70,1974-07-19,Insect bite
+70,1973-09-08,Cerebral laceration and contusion
+70,2002-11-19,Known or suspected fetal abnormality affecting management of mother
+70,2017-07-08,"Effects of heat, cold and air pressure"
+70,1987-07-08,Superficial injury without mention of infection
+70,1984-06-29,"Mechanical complication of unspecified genitourinary device, implant, and graft"
+70,1992-07-04,Fracture of hand or wrist
+70,2000-11-19,Regional enteritis
+70,2015-04-16,Anomalies of jaw size/symmetry
+70,2021-07-26,Fracture of radius and ulna
+70,1974-07-04,Congenital anomalies of peripheral vascular system
+70,2019-06-25,Complications of surgical and medical procedures
+70,1977-03-23,Superficial injury without mention of infection
+70,1979-07-19,Rheumatoid arthritis
+70,1992-12-30,Suicidal ideation or attempt
+70,1984-08-16,Fracture of neck of femur
+70,1976-12-05,Skull and face fracture and other intercranial injury
+70,2001-12-04,Malunion and nonunion of fracture
+70,1972-11-20,Malunion and nonunion of fracture
+70,2000-06-13,Burns
+70,1971-10-26,Cerebrovascular disease
+70,2010-06-18,Fracture of hand or wrist
+70,1994-09-29,Spasm of muscle
+70,1974-03-01,Postablative ovarian failure
+70,1999-10-03,Cholesteatoma
+71,1982-09-29,Dislocation
+71,1987-04-04,Contusion
+71,2016-10-13,Burns
+71,2011-04-04,Fracture of radius and ulna
+71,2001-05-19,Fracture of radius and ulna
+71,2020-03-06,Sprains and strains
+71,1988-01-29,Effects radiation NOS
+71,2017-06-17,Burns
+71,2005-07-08,Injury to blood vessels
+71,2014-11-28,Sprains and strains
+71,1979-01-06,Gouty arthropathy
+71,2005-01-06,"Toxic effect of other substances, chiefly nonmedicinal as to source"
+71,2016-11-02,Other complications of pregnancy NEC
+72,1997-08-31,Fracture of neck of femur
+72,1991-02-25,Skull and face fracture and other intercranial injury
+72,2009-02-14,Fracture of radius and ulna
+72,1984-11-13,Fracture of unspecified part of femur
+72,2001-03-27,Open wounds of extremities
+72,1987-12-01,"Toxic effect of corrosive aromatics, acids, and caustic alkalis"
+72,2003-03-06,Fracture of hand or wrist
+72,2011-08-10,"Mechanical complication of unspecified genitourinary device, implant, and graft"
+72,1986-10-11,Diabetic retinopathy
+72,1985-11-15,Fracture of tibia and fibula
+72,1970-06-30,Fracture of hand or wrist
+72,1978-05-08,"Poisoning by analgesics, antipyretics, and antirheumatics"
+72,2008-11-16,Crushing or internal injury to organs
+72,2006-03-07,Fracture of pelvis
+72,1998-07-25,Foreign body injury
+72,1996-09-28,Fracture of humerus
+72,2005-06-18,Toxic effect of carbon monoxide
+73,1997-01-12,Fracture of pelvis
+73,2003-07-18,Open wounds of extremities
+73,1979-12-05,Other disorders of bone and cartilage
+73,1980-09-14,Erectile dysfunction [ED]
+73,2017-03-24,Foreign body injury
+73,2007-08-22,Gouty arthropathy
+73,2012-11-10,Complication of internal orthopedic device
+73,1988-02-27,Burns
+74,2014-04-21,Other disorders of metabolism
+74,1996-05-13,Family history
+74,2019-12-12,Juvenile osteochondrosis
+74,2023-08-24,"Toxic effect of other substances, chiefly nonmedicinal as to source"
+74,1971-11-14,Open wound of foot except toe(s) alone
+74,1973-11-23,Disorders of penis
+74,1977-04-30,Adverse drug events and drug allergies
+74,2002-10-16,"Injury, NOS"
+74,1981-04-20,Toxic effect of noxious substances eaten as food
+74,1987-02-05,Gouty arthropathy
+74,2007-01-31,Malunion and nonunion of fracture
+75,1982-10-30,Aseptic necrosis of bone
+75,2015-11-22,Rupture of synovium
+75,1973-03-08,Fracture of tibia and fibula
+75,2013-07-04,Toxic effect of noxious substances eaten as food
+75,2022-08-05,Joint/ligament sprain
+75,1996-12-07,Disorders of iron metabolism
+75,1984-02-04,Fracture of hand or wrist
+75,1992-12-19,"Injury, NOS"
+75,2003-08-07,Muscular calcification and ossification
+75,2006-10-11,Pyelonephritis
+75,1971-02-14,"Toxic effect of other substances, chiefly nonmedicinal as to source"
+75,2008-09-12,"Antepartum hemorrhage, abruptio placentae, and placenta previa"
+75,1995-11-03,Aseptic necrosis of bone
+75,2009-01-07,Fracture of humerus
+75,1982-07-17,Acute osteomyelitis
+75,1995-05-25,Injury to blood vessels
+75,1986-04-11,Miscarriage; stillbirth
+75,2011-11-26,Aseptic necrosis of bone
+75,2015-01-02,Atrophic gastritis
+75,1997-03-22,Fracture of vertebral column without mention of spinal cord injury
+75,2006-01-13,Other complications of pregnancy NEC
+75,1999-04-05,Infection/inflammation of internal prosthetic device; implant; and graft
+75,1992-04-06,Acute and chronic tonsillitis
+75,1975-09-22,Toxic effect of venom
+75,1989-03-21,Paralytic ileus
+75,2008-04-30,Crushing or internal injury to organs
+75,1991-03-24,"Injury, NOS"
+76,2012-11-19,Cyst of bone
+76,2002-07-04,Fracture of unspecified part of femur
+76,2008-09-27,Superficial injury without mention of infection
+76,1987-02-06,Complication of internal orthopedic device
+76,1978-07-16,Rheumatoid arthritis
+76,2000-07-16,Injuries to the nervous system
+76,1982-09-11,Fracture of pelvis
+76,1971-07-10,Blister
+76,1997-10-12,Sexual and gender identity disorders
+76,1998-04-08,Dislocation
+76,2000-05-17,Poisoning by drugs primarily affecting the autonomic nervous system
+76,2014-09-11,Toxic effect of noxious substances eaten as food
+76,2020-02-20,Burns
+76,2002-06-12,Fracture of radius and ulna
+76,1978-08-26,Malunion and nonunion of fracture
+77,2003-11-01,Acquired foot deformities
+78,2008-12-18,Fracture of humerus
+78,2004-06-24,Open wound of neck
+78,2000-02-29,Fracture of neck of femur
+78,1986-05-15,"Localized superficial swelling, mass, or lump"
+78,2006-08-23,Malunion and nonunion of fracture
+78,1993-05-03,Chronic ulcer of leg or foot
+78,1982-10-09,"Toxic effect of other substances, chiefly nonmedicinal as to source"
+78,2016-12-02,Fracture of unspecified part of femur
+78,1993-06-24,Cervical cancer
+78,2023-09-20,Chronic ulcer of leg or foot
+78,2002-09-05,Injury to blood vessels
+78,2015-02-04,Pathologic fracture
+78,1999-08-09,Abnormal results of function study of kidney
+78,1973-03-05,Fracture of neck of femur
+78,1996-01-18,"Antepartum hemorrhage, abruptio placentae, and placenta previa"
+78,1984-10-21,Secondary diabetes mellitus
+78,1997-02-11,Burns
+78,2000-02-04,Fracture of unspecified part of femur
+78,2010-09-07,Superficial injury without mention of infection
+78,1983-10-28,Acute sinusitis
+78,1991-09-22,Disorders of iris and ciliary body
+78,1971-11-20,Burns
+78,1991-09-18,Suicide or self-inflicted injury
+78,1982-01-16,Malunion and nonunion of fracture
+78,1992-05-08,Foreign body injury
+79,1997-08-17,Diabetic retinopathy
+79,1972-08-22,Fracture of hand or wrist
+79,1987-11-12,"Congenital anomalies of upper limb, including shoulder girdle"
+79,2016-12-05,Fracture of tibia and fibula
+79,1983-06-29,Crushing injury
+79,1974-06-17,"Injury, NOS"
+79,1980-01-19,Burns
+79,2010-08-22,Fracture of radius and ulna
+79,2015-03-25,Suicide or self-inflicted injury
+79,2010-12-27,"Injury, NOS"
+79,2007-12-26,Acquired absence of limb
+79,1978-12-25,Blister
+79,1984-01-09,Toxic effect of venom
+79,1976-12-15,Fracture of humerus
+80,2013-08-17,Deep vein thrombosis [DVT]
+80,2002-01-14,Injury to blood vessels
+81,1993-12-03,Toxic effect of other metals
+81,1989-04-02,"Benign neoplasm of eye, uveal"
+81,1976-12-08,Fracture of tibia and fibula
+81,1989-02-04,Pathologic fracture
+81,1983-09-25,Arthropathy associated with infections
+81,2009-12-14,Tooth complications likely association with other diseases
+81,1976-04-13,Fracture of clavicle or scapula
+81,1998-02-07,Fracture of radius and ulna
+81,1970-09-21,Fracture of radius and ulna
+81,2006-06-04,Peripheral retinal degenerations
+81,2022-02-11,Injury to blood vessels
+81,1986-09-05,Malunion and nonunion of fracture
+81,1980-12-27,"Other disorders of synovium, tendon, and bursa"
+81,2010-01-17,Partial epilepsy
+81,1982-07-10,Burns
+81,1974-04-09,Fracture of radius and ulna
+81,2019-12-31,Hemiplegia
+81,1983-01-21,Unstable angina (intermediate coronary syndrome)
+81,1975-10-30,Fracture of unspecified part of femur
+81,1971-04-11,Open wound of neck
+81,2011-12-25,Pancreatic cancer
+81,2007-08-15,Fracture of pelvis
+81,2020-01-03,Suicide or self-inflicted injury
+81,2016-07-26,"Cerebral artery occlusion, with cerebral infarction"
+82,2009-04-29,Secondary diabetes mellitus
+82,1993-04-13,Substance addiction and disorders
+82,1981-06-04,Dislocation
+82,2014-04-14,Fracture of tibia and fibula
+82,2009-03-07,Fracture of hand or wrist
+82,1973-06-02,"Effects of heat, cold and air pressure"
+82,1983-08-13,Malunion and nonunion of fracture
+82,2020-02-27,Malunion and nonunion of fracture
+82,2013-09-20,Burns
+82,1993-11-28,Bacterial infection NOS
+82,1978-02-19,Crystal arthropathies
+82,2023-04-09,Gouty arthropathy
+82,1972-10-31,Open wounds of extremities
+83,1999-07-18,Venous/cerebrovascular complications embolism in pregnancy and the puerperium
+83,1975-11-18,Pathologic fracture
+83,1989-08-21,Juvenile osteochondrosis
+84,1984-03-05,Other disorders of metabolism
+84,1974-08-16,Chromosomal anomalies
+84,1986-10-14,Fracture of unspecified part of femur
+84,1981-08-18,Cyst of bone
+84,2011-08-06,Fracture of ankle and foot
+84,2012-03-29,"Other disorders of synovium, tendon, and bursa"
+84,1972-02-07,Fracture of radius and ulna
+84,1976-06-24,Toxic effect of (non-ethyl) alcohol and petroleum and other solvents
+84,2015-09-27,Malunion and nonunion of fracture
+84,1978-01-27,Fracture of tibia and fibula
+84,1984-10-23,Open wounds of extremities
+84,1997-03-28,Injury to blood vessels
+84,2001-07-13,Other high-risk pregnancy
+84,1970-07-25,Burns
+84,2002-05-16,Skull and face fracture and other intercranial injury
+84,1995-07-06,Crushing injury
+84,1978-06-05,Chronic ulcer of leg or foot
+84,1992-09-19,Lymphoid leukemia
+84,1980-07-02,Muscular calcification and ossification
+84,2002-01-07,"Hypertension complicating pregnancy, childbirth, and the puerperium"
+85,2021-07-13,Type 1 diabetes with ophthalmic manifestations
+85,1982-05-25,Juvenile osteochondrosis
+85,2000-12-22,Sprains and strains
+85,1978-05-04,Fracture of pelvis
+85,1988-07-19,Fracture of tibia and fibula
+85,1988-10-21,Chronic ulcer of leg or foot
+85,1992-06-19,Injury to blood vessels
+85,2022-10-14,Malunion and nonunion of fracture
+85,2023-02-25,Joint/ligament sprain
+86,1987-03-06,Injury to blood vessels
+86,1997-01-07,Malunion and nonunion of fracture
+86,1995-01-20,"Other disorders of synovium, tendon, and bursa"
+86,2023-04-04,Concussion
+86,2023-09-27,Fracture of vertebral column without mention of spinal cord injury
+86,2002-04-26,Malunion and nonunion of fracture
+86,1975-03-17,Toxic effect of other metals
+86,2018-11-13,Sexually transmitted infections (not HIV or hepatitis)
+86,1986-08-24,Substance addiction and disorders
+86,1978-11-05,Decubitus ulcer
+86,1998-05-12,"Complications of cardiac/vascular device, implant, and graft"
+86,2004-12-19,Fracture of pelvis
+86,1983-05-03,Fracture of radius and ulna
+86,2006-07-05,Vitamin B-complex deficiencies
+86,1982-09-19,Fracture of humerus
+86,2022-09-24,Toxic effect of (non-ethyl) alcohol and petroleum and other solvents
+86,1985-08-18,Other complications of pregnancy NEC
+86,2020-07-29,Open wound of genital organs
+86,2002-01-29,Opiates and related narcotics causing adverse effects in therapeutic use
+86,1992-05-23,Poisoning by anticonvulsants and anti-Parkinsonism drugs
+86,1991-01-12,Fracture of radius and ulna
+86,1971-03-18,Gangrene
+86,1981-02-04,Injury to blood vessels
+86,2007-08-02,Poisoning by psychotropic agents
+86,1971-11-24,Fracture of tibia and fibula
+86,1984-10-13,Nerve plexus lesions
+86,2019-07-06,Open wounds of extremities
+86,1989-02-20,Other tests
+87,2010-06-08,Juvenile osteochondrosis
+87,1984-12-03,Malunion and nonunion of fracture
+87,1971-12-15,Family history
+87,2008-10-25,Toxic effect of other metals
+87,1993-05-08,Ectropion or entropion
+87,2022-07-01,Other non-epithelial cancer of skin
+87,1980-05-10,Late effects of cerebrovascular disease
+87,2004-01-15,Malunion and nonunion of fracture
+87,2009-01-02,Insect bite
+87,2018-10-29,"Injury, NOS"
+87,2001-09-23,Gouty arthropathy
+87,1995-02-23,Synovitis and tenosynovitis
+87,1976-11-09,Complication due to other implant and internal device
+87,1991-07-07,Burns
+87,1989-01-16,Fracture of hand or wrist
+87,2000-03-06,"Macular degeneration, dry"
+87,1982-10-02,Fracture of tibia and fibula
+87,2007-01-25,Fracture of tibia and fibula
+87,1972-02-09,Dislocation
+87,2019-11-16,Pyogenic arthritis
+87,2016-11-02,Malunion and nonunion of fracture
+87,1993-02-20,Chromosomal anomalies
+87,2014-07-25,Ulceration of intestine
+87,2020-02-25,Mineral deficiency NEC
+87,1995-11-26,Malunion and nonunion of fracture
+88,1974-05-29,Other inflammatory spondylopathies
+88,2013-11-02,Intracranial hemorrhage (injury)
+88,1979-09-26,Injuries to the nervous system
+88,1973-06-22,Suicide or self-inflicted injury
+88,1976-05-10,Other disorders of stomach and duodenum
+88,2007-04-13,Suppurative and unspecified otitis media
+88,1983-12-12,Superficial injury without mention of infection
+88,2019-11-24,Unspecified osteomyelitis
+88,2017-06-23,Hepatitis NOS
+88,1978-11-01,Complications of surgical and medical procedures
+88,1991-03-14,Open wound of neck
+88,1984-06-09,Fracture of ankle and foot
+88,1974-09-27,Fracture of humerus
+89,2005-07-21,Joint/ligament sprain
+89,2000-01-21,Complications of surgical and medical procedures
+89,1970-07-29,Fracture of unspecified part of femur
+89,1998-05-02,Complications of surgical and medical procedures
+89,1988-10-10,Malunion and nonunion of fracture
+89,1972-04-11,Other benign neoplasm of uterus
+89,1977-05-30,Pathologic fracture
+89,1980-06-13,Fracture of humerus
+89,2003-11-15,Complication due to other implant and internal device
+89,2013-12-14,Malunion and nonunion of fracture
+89,1985-05-10,Contusion
+89,2004-05-16,Fracture of unspecified part of femur
+89,1991-08-19,Fracture of foot
+90,2010-06-09,Benign neoplasm of bone and articular cartilage
+90,1990-02-20,Osteitis deformans and osteopathies associated with other disorders classified elsewhere
+90,1999-12-13,Toxic effect of noxious substances eaten as food
+90,1990-11-14,Congenital anomalies of urinary system
+90,2016-02-03,Otitis externa
+90,1980-11-19,Other symptoms involving abdomen and pelvis
+90,2000-08-28,Other disorders of soft tissues
+90,1994-09-19,Joint/ligament sprain
+90,1989-12-17,Burns
+90,2003-09-15,Corneal opacity and other disorders of cornea
+90,1991-05-14,Superficial injury without mention of infection
+91,2017-02-08,Injuries to the nervous system
+91,1970-04-22,Disorders of iris and ciliary body
+91,2019-02-01,Fracture of patella
+91,1992-11-02,Fracture of vertebral column without mention of spinal cord injury
+91,2016-02-13,Osteochondropathies
+91,2018-05-07,Superficial injury without mention of infection
+91,1990-09-20,Malunion and nonunion of fracture
+91,1997-12-10,Muscular calcification and ossification
+91,1976-03-06,Mastoiditis & related conditions
+91,1981-07-14,Fracture of humerus
+91,2016-05-29,Crushing or internal injury to organs
+91,2007-12-02,Dislocation
+91,2007-10-29,Gastrojejunal ulcer
+91,2023-06-08,Fracture of radius and ulna
+91,1983-11-16,Coma
+91,1994-04-27,Superficial injury without mention of infection
+91,1980-12-19,Injuries to the nervous system
+91,2016-03-02,Malunion and nonunion of fracture
+91,2014-06-24,Fracture of unspecified part of femur
+91,2010-02-18,Fracture of radius and ulna
+91,2007-07-31,Injury to blood vessels
+91,2013-11-21,Malunion and nonunion of fracture
+91,1999-07-07,Malunion and nonunion of fracture
+91,1985-05-27,"Mechanical complication of unspecified genitourinary device, implant, and graft"
+91,1981-11-08,Malunion and nonunion of fracture
+91,2001-01-19,Superficial injury without mention of infection
+91,2008-02-28,Poisoning by agents primarily affecting the gastrointestinal system
+91,2020-10-25,Genetic Test
+92,1988-02-26,Osteitis deformans and osteopathies associated with other disorders classified elsewhere
+92,1986-03-09,Contusion
+92,1982-05-15,Complications of surgical and medical procedures
+92,2004-06-27,Congenital anomalies of the eye
+92,1981-08-25,"Complications of cardiac/vascular device, implant, and graft"
+92,1977-03-12,Other disorders of eyelids
+92,1971-01-01,Other disorders of gallbladder
+92,1995-04-21,Traumatic amputation
+92,1998-11-15,Malunion and nonunion of fracture
+92,2021-01-31,Burns
+92,1985-04-21,Obstetrical/birth trauma
+92,2018-09-08,Malunion and nonunion of fracture
+92,2003-12-01,Joint/ligament sprain
+92,2014-05-30,Burns
+92,2010-04-28,Joint/ligament sprain
+92,2009-03-24,Fracture of lower limb
+92,1973-06-24,Phobia
+92,1972-03-15,Pathologic fracture
+92,1990-05-03,Malunion and nonunion of fracture
+92,1991-03-11,Family history
+92,1981-07-03,Other open wound of head and face
+92,1996-02-24,Poisoning by psychotropic agents
+92,1981-10-14,Suicide or self-inflicted injury
+92,2007-12-27,"Effects of heat, cold and air pressure"
+92,1996-07-07,Suicide or self-inflicted injury
+92,2020-04-19,Blister
+92,1977-03-10,Toxic effect of (non-ethyl) alcohol and petroleum and other solvents
+92,2012-11-12,Fracture of unspecified part of femur
+92,1987-10-16,Open wound or laceration of eye or eyelid
+92,1984-07-21,Joint/ligament sprain
+93,2006-09-15,Other disorders of bone and cartilage
+93,2005-05-02,Injury to blood vessels
+93,2015-11-17,Malunion and nonunion of fracture
+93,2020-06-11,Malunion and nonunion of fracture
+93,2022-11-23,Sexual and gender identity disorders
+93,1990-10-03,Fracture of tibia and fibula
+93,1998-05-26,Poisoning by psychotropic agents
+93,1990-07-18,Pathologic fracture
+93,1989-03-03,Dislocation
+93,2012-12-06,Leukemia
+93,2022-11-10,Malunion and nonunion of fracture
+93,1977-08-14,Sexually transmitted infections (not HIV or hepatitis)
+93,1994-02-09,Nonsenile Cataract
+93,1999-06-04,Fracture of vertebral column without mention of spinal cord injury
+93,2018-10-03,Fracture of unspecified part of femur
+93,2007-10-15,Bursitis disorders
+93,1985-06-23,Contracture of tendon (sheath)
+93,1985-12-25,Malunion and nonunion of fracture
+93,1994-12-22,Superficial injury without mention of infection
+93,1978-11-30,Open wounds of head; neck; and trunk
+93,2014-07-25,Fracture of neck of femur
+93,2005-10-30,Fracture of neck of femur
+93,2008-12-18,Fracture of vertebral column without mention of spinal cord injury
+93,2013-07-13,Poisoning by agents primarily acting on the smooth and skeletal muscles and respiratory system
+93,1992-08-31,Burns
+94,2011-10-25,Fracture of vertebral column without mention of spinal cord injury
+95,1992-06-23,Malunion and nonunion of fracture
+95,2007-12-18,Suicide or self-inflicted injury
+95,2009-11-01,Injury to blood vessels
+95,1981-07-04,Malunion and nonunion of fracture
+95,2004-05-13,Fracture of pelvis
+95,1989-09-27,"Osteoarthrosis, localized, secondary"
+96,2013-11-30,"Injury, NOS"
+96,2017-11-15,Pathologic fracture
+96,1997-04-07,"Injury, NOS"
+96,2000-02-16,Synovitis and tenosynovitis
+96,1988-08-04,Open wounds of extremities
+96,2001-08-26,Complication of internal orthopedic device
+96,2010-12-17,Malunion and nonunion of fracture
+96,1988-10-18,Deep vein thrombosis [DVT]
+96,2021-10-10,Aseptic necrosis of bone
+96,1981-05-30,Spinal stenosis
+96,2003-07-05,Complications of surgical and medical procedures
+96,2002-11-01,Spinal cord injury without evidence of spinal bone injury
+96,2008-01-25,Atherosclerosis of native arteries of the extremities with ulceration or gangrene
+96,1999-10-29,"Injury, NOS"
+96,2014-04-20,Aseptic necrosis of bone
+97,2010-11-13,Open wound of foot except toe(s) alone
+97,1990-06-10,Fracture of radius and ulna
+97,2022-09-06,Poisoning by psychotropic agents
+98,1976-01-11,Malposition and malpresentation of fetus or obstruction
+98,1989-11-15,Other open wound of head and face
+98,2022-01-22,Sprains and strains
+98,1982-11-09,Fracture of unspecified part of femur
+98,2000-03-09,Crushing or internal injury to organs
+98,2009-10-11,Cerebral laceration and contusion
+98,2020-01-05,Acute osteomyelitis
+98,2020-06-04,Fracture of unspecified part of femur
+99,2011-12-23,Malunion and nonunion of fracture
+99,2001-02-11,Dislocation
+99,2006-12-29,Infection with drug-resistant microorganisms
+99,2023-10-07,Traumatic amputation
+99,2009-05-06,Fracture of ankle and foot
+99,1974-09-25,Fracture of clavicle or scapula
+99,1970-02-13,"Poisoning by agents primarily affecting skin & mucous membrane, ophthalmological, otorhinolaryngological, & dental drugs"
+99,1989-10-15,Malunion and nonunion of fracture
+99,2002-02-25,Fracture of hand or wrist
+99,1982-03-28,Disorders of lacrimal system
+99,2018-07-09,Superficial injury without mention of infection
+99,1982-12-02,Open wounds of head; neck; and trunk
+99,1982-11-10,Fracture of vertebral column without mention of spinal cord injury
+99,2002-10-05,Burns
+99,1980-12-05,Miscarriage; stillbirth
+99,1978-04-29,Suicide or self-inflicted injury

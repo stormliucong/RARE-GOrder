@@ -1,0 +1,2054 @@
+concept_code,omop_id,omop_name
+HP:0005240,4224926,Obstruction of esophagus
+HP:0000598,4166587,Congenital malformation of ear
+HP:0000490,436986,Enophthalmos
+HP:0031923,4095112,Retained menstruation
+HP:0032191,4035415,Tear of meniscus of knee
+HP:0012587,75004,Frank hematuria
+HP:0030169,4237824,Gastric varices
+HP:0005432,4230184,Transient hypogammaglobulinemia of infancy
+HP:0001137,381031,Alternating esotropia
+HP:0000717,439780,Autistic disorder
+HP:0008288,4035269,Non-ketotic hyperglycinemia
+HP:0031777,381871,Cyclophoria
+HP:0030043,4138156,Subluxation of hip joint
+HP:0006562,4291005,Viral hepatitis
+HP:0012531,4329041,Pain
+HP:0001671,318549,Cardiac septal defects
+HP:0001671,4245646,Congenital septal defect of heart
+HP:0002013,441408,Vomiting
+HP:0001586,4232162,Vesicovaginal fistula
+HP:0001090,4246469,Macrophthalmos
+HP:0031864,132736,Bacteremia
+HP:0100588,4028998,Paraphimosis
+HP:0100842,4328365,Septo-optic dysplasia sequence
+HP:0000787,4148260,Calculus of kidney and ureter
+HP:0033135,194417,Hepatic infarction
+HP:0001733,4192640,Pancreatitis
+HP:0100600,201954,Congenital penoscrotal transposition
+HP:0031826,378256,Abnormal reflex
+HP:0033511,440069,Drug dependence
+HP:0007302,436665,Bipolar disorder
+HP:0007302,443906,Mixed bipolar I disorder
+HP:0000011,199075,Neurogenic bladder
+HP:0001681,321318,Angina pectoris
+HP:0010739,78854,Osteopoikilosis
+HP:0001370,80809,Rheumatoid arthritis
+HP:0025497,4127089,Coronary artery spasm
+HP:0100519,4090272,Anuria
+HP:0000528,434143,Anophthalmos
+HP:0001061,141095,Acne
+HP:0001061,138826,Acne varioliformis
+HP:0000846,4035127,Hypoadrenalism
+HP:0000846,435508,Adrenal cortical hypofunction
+HP:0005973,432873,Hereditary fructosuria
+HP:0032860,381842,Petit mal status
+HP:0011713,316998,Left bundle branch block
+HP:0007651,4317982,Lower eyelid ectropion
+HP:0006685,439399,Endomyocardial fibrosis
+HP:0006685,4162674,Restrictive cardiomyopathy with endomyocardial fibrosis
+HP:0003125,434007,Hereditary factor VIII deficiency disease
+HP:0100539,4030977,Cellulitis of periorbital region
+HP:0100336,4127128,Bilateral cleft lip
+HP:0002779,4316227,Congenital tracheomalacia
+HP:0034057,4079975,Congenital malformation
+HP:0001409,192680,Portal hypertension
+HP:0009916,434374,Anisocoria
+HP:0002654,434161,Multiple epiphyseal dysplasia
+HP:0000464,25056,Congenital anomaly of neck
+HP:0002829,77074,Joint pain
+HP:0000090,197656,Medullary cystic disease of the kidney
+HP:0007957,378752,Corneal opacity
+HP:0007406,440112,Hyperpigmentation of eyelid
+HP:0001655,4070299,Patent foramen ovale
+HP:0002301,374336,Infantile hemiplegia
+HP:0002301,374022,Hemiplegia
+HP:0032072,4347174,Synovial cyst of knee
+HP:0002245,441394,Meckel's diverticulum
+HP:0000083,192359,Renal failure syndrome
+HP:0000083,36716945,Renal insufficiency
+HP:0000588,4196227,Congenital coloboma of optic disc
+HP:0012209,40482847,Juvenile myelomonocytic leukemia
+HP:0000891,79144,Cervical rib
+HP:0000592,4069806,Abnormal blue sclerae
+HP:0007354,373182,Amyotrophic lateral sclerosis
+HP:0003187,76467,Congenital hypoplasia of breast
+HP:0000518,375545,Cataract
+HP:0030072,4054513,Neoplasm of accessory sinus
+HP:0001085,4308632,Optic disc edema
+HP:0410263,40484908,Imaging of brain abnormal
+HP:0025610,4265749,Meibomian gland dysfunction
+HP:0000545,379805,Myopia
+HP:0031717,377561,Alternating exotropia
+HP:0003040,4180167,Infectious disorder of joint
+HP:0003040,76777,Arthropathy associated with infection
+HP:0003040,73553,Arthropathy
+HP:0002085,4173142,Occipital encephalocele
+HP:0011970,4045749,Cerebral amyloid angiopathy
+HP:0001737,4151134,Cyst of pancreas
+HP:0003067,434157,Madelung's deformity
+HP:0025271,134681,Diffuse spasm of esophagus
+HP:0000131,197236,Uterine leiomyoma
+HP:0004935,4031766,Congenital atresia of pulmonary artery
+HP:0000952,137977,Jaundice
+HP:0002092,4013643,Pulmonary arterial hypertension
+HP:0030004,442113,Cicatricial lagophthalmos
+HP:0003307,73012,Lordosis deformity of spine
+HP:0031950,4025168,Diffuse interstitial pulmonary fibrosis
+HP:0031950,45763750,Idiopathic pulmonary fibrosis
+HP:0004411,377910,Deviated nasal septum
+HP:0000400,442641,Macrotia
+HP:0041047,433813,Bladder neck obstruction
+HP:0030159,4280498,Polyp of cervix
+HP:0000786,40318194,Primary amenorrhea
+HP:0010522,434012,Developmental dyslexia
+HP:0010522,433759,Developmental reading disorder
+HP:0100257,77984,Congenital cleft hand
+HP:0006918,376970,Schilder's disease
+HP:0012151,4135466,Hemothorax
+HP:0010957,4113455,Congenital posterior urethral valves
+HP:0000639,378165,Nystagmus
+HP:0000552,442275,Tritan defect
+HP:0033243,4324261,Pulmonary necrosis
+HP:0012063,74737,Aneurysmal bone cyst
+HP:0003565,4013526,ESR raised
+HP:4000067,196433,Aneurysm of iliac artery
+HP:0003741,78149,Congenital hereditary muscular dystrophy
+HP:0005881,4345332,Spinal instability
+HP:0030149,198571,Cardiogenic shock
+HP:0003193,257007,Allergic rhinitis
+HP:0100746,76800,Macrodactylia of fingers
+HP:0008227,4232833,Pituitary thyroid hormone resistance
+HP:0100495,439412,Mast cell disorder
+HP:0000953,4172432,Hyperpigmentation of skin
+HP:0008011,373479,Peripheral opacity of cornea
+HP:0000958,4039266,Dry skin
+HP:0000651,373474,Diplopia
+HP:0002558,4176400,Accessory nipple
+HP:0001025,139900,Urticaria
+HP:0002617,443784,Vascular disorder
+HP:0002617,4332246,Aneurysm
+HP:0004754,4141360,Chronic atrial fibrillation
+HP:0004754,4232691,Permanent atrial fibrillation
+HP:0100668,4242694,Congenital duplication of intestine
+HP:0007803,374936,Achromatopsia
+HP:0002480,4029488,Hepatic encephalopathy
+HP:0012541,4047852,Cephalhematoma due to birth trauma
+HP:0001888,441541,Lymphocytopenia
+HP:0011079,4123726,Impacted tooth
+HP:0000871,30365,Panhypopituitarism
+HP:0001256,432612,Mild intellectual disability
+HP:0030154,196469,Perforation of gallbladder
+HP:0410005,40492466,Cleft of hard palate
+HP:0025253,4058397,Claustrophobia
+HP:0012039,438759,Descemet's membrane fold
+HP:0002143,135526,Spinal cord disease
+HP:0003250,4337688,Congenital absence of vagina
+HP:0000943,4276347,"Mucopolysaccharidosis, MPS-I-H"
+HP:0010296,436812,Tongue tie
+HP:0030752,434951,Lacrimal mucocele
+HP:0011141,381295,Senile cataract
+HP:0500001,4276354,Bromhidrosis
+HP:0000820,141253,Disorder of thyroid gland
+HP:0011611,433860,Interrupted aortic arch
+HP:0032192,439083,"Hydatidiform mole, benign"
+HP:0031009,136912,Ainhum
+HP:0000971,441655,Disorder of sweat gland
+HP:0025313,380109,Exophoria
+HP:0004415,4317288,Pulmonary artery stenosis
+HP:0007430,4155910,"Edema, generalized"
+HP:0100661,379801,Trigeminal neuralgia
+HP:0012803,375547,Anisometropia
+HP:0001948,438730,Alkalosis
+HP:0000015,195864,Diverticulum of bladder
+HP:0100774,4069318,Hypertrophy of bone
+HP:0007769,437267,Peripheral retinal degeneration
+HP:0041155,4138294,Fracture of mandible
+HP:0002093,318459,Respiratory insufficiency
+HP:0012420,441959,Amniotic fluid -meconium stain
+HP:0550005,255304,Lung disease with systemic sclerosis
+HP:0005264,4175814,Congenital anomaly of gallbladder
+HP:0025586,375275,Hypertropia
+HP:0008513,433495,"Conductive hearing loss, bilateral"
+HP:0000843,133729,Hyperparathyroidism
+HP:0006640,4128914,Fracture of multiple ribs
+HP:0012317,4208390,Inflammation of sacroiliac joint
+HP:0000410,379832,Mixed conductive AND sensorineural hearing loss
+HP:0100628,4005764,Congenital diverticulum of esophagus
+HP:0004845,135768,Acute monocytic leukemia
+HP:0002045,435371,Hypothermia
+HP:0032301,198075,Condyloma acuminatum of the anogenital region
+HP:0032301,4148102,Genital warts
+HP:0100018,373769,Nuclear cataract
+HP:0100510,439787,Ascorbic acid deficiency
+HP:0100723,4170421,Gastrointestinal stromal tumor
+HP:0000961,438555,Cyanosis
+HP:0030659,4300078,Velamentous insertion of umbilical cord
+HP:0012108,435262,Primary open angle glaucoma
+HP:0004751,437579,Paroxysmal ventricular tachycardia
+HP:0030142,197377,Abnormal bowel sounds
+HP:0032249,438071,Primary extrapulmonary coccidioidomycosis
+HP:0032249,437217,Coccidioidomycosis
+HP:0000823,440366,Delay in sexual development AND/OR puberty
+HP:0000823,4266651,Delayed puberty
+HP:0012056,139757,Malignant melanoma of skin of lower limb
+HP:0012056,438983,Malignant melanoma of skin of upper limb
+HP:0012056,141232,Malignant melanoma of skin
+HP:0007269,372605,Spinal muscular atrophy
+HP:0001763,437969,Talipes planus
+HP:0000075,4147222,Accessory kidney
+HP:0025044,257010,Abscess of lung
+HP:0003774,443611,Chronic kidney disease stage 5
+HP:0003774,193782,End-stage renal disease
+HP:0000767,141955,Pectus excavatum
+HP:0002329,4152347,Drowsy
+HP:0046505,4204199,Hand pain
+HP:0001903,439777,Anemia
+HP:0004414,435646,Congenital anomaly of pulmonary artery
+HP:0012115,194990,Inflammatory disease of liver
+HP:0012115,199867,Chronic persistent hepatitis
+HP:0000520,436700,Exophthalmos
+HP:0005912,196796,Congenital biliary atresia
+HP:0010280,138455,Stomatitis
+HP:0006682,4089462,Ventricular premature complex
+HP:0005001,4117553,Recurrent dislocation of the patellofemoral joint
+HP:0012490,432719,Panniculitis
+HP:0001022,4049014,Albinism
+HP:0020046,381027,Accommodative esotropia
+HP:0000316,4318653,Hypertelorism
+HP:0000568,442056,Simple microphthalmos
+HP:0000568,376512,Microphthalmos
+HP:0001962,315078,Palpitations
+HP:0000733,4207660,Stereotypy habit disorder
+HP:0001251,435242,Cerebellar ataxia
+HP:0041146,4053654,Fracture of coccyx
+HP:0011570,313006,Congenital stenosis of mitral valve
+HP:0002754,72410,Infection of bone
+HP:0002754,134735,Chronic osteomyelitis
+HP:0002754,141663,Osteomyelitis
+HP:0030222,4119850,Visual agnosia
+HP:0002870,442588,Obstructive sleep apnea syndrome
+HP:0002827,4306084,Dislocation of hip joint
+HP:0100687,378548,Polyotia
+HP:0030788,374375,Impacted cerumen
+HP:0003756,72618,Disorder of skeletal muscle
+HP:0001298,372887,Disorder of brain
+HP:0030155,4071874,Pain in scrotum
+HP:0032064,443406,Eosinophilic gastroenteritis
+HP:0002947,4184256,Cervical kyphosis
+HP:0002907,78472,Microscopic hematuria
+HP:0032537,40305987,Delayed union of fracture
+HP:0000037,4009631,Male pseudohermaphroditism
+HP:0000037,4219609,XY females
+HP:0012625,443597,Chronic kidney disease stage 3
+HP:0011301,4153492,Congenital absence of foot
+HP:0001343,4173577,Kernicterus of newborn
+HP:0003302,4167097,Spondylolisthesis
+HP:0003470,440377,Paralysis
+HP:0004952,441593,Arteriovenous fistula of pulmonary vessels
+HP:0032171,4048710,Bladder pain
+HP:0000667,4173943,Phthisis bulbi
+HP:0032159,432602,Fungal meningitis
+HP:0031273,201965,Shock
+HP:0030943,436741,Vulvodynia
+HP:0011099,134031,Hemiplegic cerebral palsy
+HP:0011099,375528,Spastic hemiplegia
+HP:0002381,440424,Aphasia
+HP:0010867,437584,Ataxia
+HP:0002352,4027461,Leukoencephalopathy
+HP:0008940,4165998,Generalized enlarged lymph nodes
+HP:0000818,31821,Disorder of endocrine system
+HP:0005547,4304484,Chronic myeloproliferative disorder (clinical)
+HP:0200043,140641,Verruca vulgaris
+HP:0009725,200680,Neoplasm of bladder
+HP:0032940,4049367,Psychologic conversion disorder
+HP:0032940,444079,Psychogenic fugue
+HP:0032940,434889,Dissociative disorder
+HP:0033726,4285717,SLE glomerulonephritis syndrome
+HP:0002133,4332304,Status epilepticus
+HP:0004381,4147787,Supravalvar aortic stenosis
+HP:0005561,4131124,Bone marrow disorder
+HP:0002170,439847,Intracranial hemorrhage
+HP:0006739,4111921,Squamous cell carcinoma of skin
+HP:0010475,4048434,Exstrophy of cloaca sequence
+HP:0032965,440748,Interstitial emphysema of lung
+HP:0000268,4218298,Long narrow head
+HP:0100724,4125650,Thrombophilia
+HP:0100724,4295287,Hypercoagulability state
+HP:0033120,4216188,Nummular eczema
+HP:0007917,375249,Traction detachment of retina
+HP:0032168,4307981,Clostridium difficile colitis
+HP:0000618,4023310,Blindness AND/OR vision impairment level
+HP:0011581,4251327,Double outlet left ventricle
+HP:0001663,437894,Ventricular fibrillation
+HP:0001071,4042934,Fabry's disease
+HP:0001433,4279681,Hepatosplenomegaly
+HP:0002292,4339092,Male pattern alopecia
+HP:0012475,4121284,Specific antibody deficiency
+HP:0025234,440087,Parasomnia
+HP:0005526,132853,Lymphoid leukemia
+HP:0005526,136656,Subacute lymphoid leukemia
+HP:0010562,132982,Keloid scar
+HP:0002343,432899,Normal pressure hydrocephalus
+HP:0020161,437544,Arterial retinal branch occlusion
+HP:0030878,314487,Pulmonary function studies abnormal
+HP:0007686,437295,Abnormal pupillary function
+HP:0000147,40443308,Polycystic ovary syndrome
+HP:0000147,36683296,Polycystic ovary
+HP:0002253,81611,Diverticular disease of colon
+HP:0002510,4173811,Congenital quadriplegia
+HP:0001360,4149584,Holoprosencephaly sequence
+HP:0011276,316501,Vascular disease of the skin
+HP:0011497,440098,Rubeosis iridis
+HP:0002414,4283381,Spina bifida
+HP:0031830,376124,Pinguecula
+HP:0011069,40636815,Supernumerary teeth
+HP:0000044,4144964,Hypogonadotropic hypogonadism
+HP:0001281,380534,Tetany
+HP:0002816,78241,Congenital genu recurvatum
+HP:0041237,4177025,Fracture of patella
+HP:0031459,4308811,Neoplasm of soft tissue
+HP:0004469,255841,Chronic bronchitis
+HP:0100822,40490888,Herniation of rectum into vagina
+HP:0009831,4134455,Mononeuropathy
+HP:0006528,4186898,Chronic lung disease
+HP:0031003,4296728,Polyneuritis
+HP:0002912,4173459,Methylmalonic acidemia
+HP:0010480,201338,Urethral fistula
+HP:0000010,4056621,Recurrent urinary tract infection
+HP:0005508,4098597,WaldenstrÃ¶m macroglobulinemia
+HP:0010535,313459,Sleep apnea
+HP:0002156,4012934,Homocystinuria
+HP:0002034,4314399,Congenital anomaly of rectum
+HP:0030837,4077895,Pain in finger
+HP:0032434,37018896,Delayed separation of umbilical cord
+HP:0012302,376026,Encephalitis due to Herpesviridae
+HP:0033512,40483172,Stimulant dependence
+HP:0006721,134305,Acute lymphoid leukemia
+HP:0012035,4033450,Steatocystoma multiplex
+HP:0004372,376961,Disturbance of consciousness
+HP:0002860,4300118,Squamous cell carcinoma
+HP:0000031,4150043,Epididymitis
+HP:0025421,4057432,Mediastinal emphysema
+HP:0010445,76798,Ostium primum defect
+HP:0002373,444413,Febrile convulsion
+HP:0001107,4096938,Ocular albinism
+HP:0000051,4005592,"Hypospadias, perineal"
+HP:0011024,4000610,Disorder of gastrointestinal tract
+HP:0011024,4201745,Disorder of digestive system
+HP:0001369,4291025,Arthritis
+HP:0100242,4311439,Sarcoma
+HP:0000969,433595,Edema
+HP:0000722,4053320,Compulsive behavior
+HP:0000722,440374,Obsessive-compulsive disorder
+HP:0003834,4213373,Dislocation of shoulder joint
+HP:0001894,4280071,Thrombocytosis
+HP:0000828,138713,Disorder of parathyroid gland
+HP:0007642,374353,Congenital stationary night blindness
+HP:0002582,192667,Atrophic gastritis
+HP:0002583,4272488,Colitis
+HP:0011971,132983,Dermatographic urticaria
+HP:0030207,434769,Flail chest
+HP:0001386,4154927,Joint swelling
+HP:0005521,436093,Disseminated intravascular coagulation
+HP:0000656,376132,Ectropion
+HP:0010310,4306136,Chylothorax
+HP:0025406,437113,Asthenia
+HP:0012027,22350,Edema of larynx
+HP:0002018,31967,Nausea
+HP:0002257,259848,Chronic rhinitis
+HP:0034285,4041669,Enteroviral encephalitis
+HP:0025317,77360,Acquired cubitus varus
+HP:0010882,320206,Congenital atresia of pulmonary valve
+HP:0010882,36714644,Atresia of pulmonary valve
+HP:0000670,133228,Dental caries
+HP:0000613,4260194,Photophobia
+HP:0001708,4273632,Right ventricular failure
+HP:0004330,37311944,Hyperostosis of skull
+HP:0004377,4147164,Malignant tumor of lymphoid hemopoietic and related tissue
+HP:0001718,315273,Mitral valve stenosis
+HP:0002356,375536,Organic writer's cramp
+HP:0032326,440940,Methicillin resistant Staphylococcus aureus infection
+HP:0010783,318566,Flushing
+HP:0010783,137193,Erythema
+HP:0010783,40481101,Erythema of skin
+HP:0012313,78227,Degenerative joint disease of hand
+HP:0012313,4155797,Heberden node
+HP:0001790,76533,Non-immune hydrops fetalis
+HP:0011499,4290615,Dilated pupil
+HP:0001350,4125590,Slurred speech
+HP:0000107,36716270,Cyst of kidney
+HP:0032147,134380,Erythromelalgia
+HP:0012288,4114222,Malignant tumor of head and neck
+HP:0000802,3655355,Erectile dysfunction
+HP:0010542,377568,Nystagmus associated with disorder of the vestibular system
+HP:0005359,27526,Nezelof's syndrome
+HP:0010954,4145158,Right hypoplastic heart syndrome
+HP:0100763,4140510,Disorder of lymphatic vessel
+HP:0011783,4337834,Hyperthyroidism due to ectopic thyroid nodule
+HP:0001680,321119,Coarctation of aorta
+HP:0000836,4142479,Hyperthyroidism
+HP:0030882,316427,Aneurysm of coronary vessels
+HP:0041233,4296627,Fracture of ilium
+HP:0100808,201619,Gastric diverticulum
+HP:0002937,79930,Congenital hemivertebra
+HP:0001081,4145627,Biliary calculus
+HP:0001388,141667,Laxity of ligament
+HP:0001388,4285734,Instability of joint
+HP:0001788,194702,Premature rupture of membranes
+HP:0011484,440713,Posterior synechiae
+HP:0001942,4245042,Metabolic acidosis
+HP:0000689,260759,Malocclusion of teeth
+HP:0020076,4003132,Ganglion of wrist
+HP:0500056,443520,Retinopathy of prematurity stage 5 - total retinal detachment
+HP:0100515,4012368,Increased frequency of urination
+HP:0100515,200843,Finding of frequency of urination
+HP:0003298,381677,Spina bifida occulta
+HP:0002967,76509,Acquired cubitus valgus
+HP:0012876,434319,Premature ejaculation
+HP:0009800,4024659,Gestational diabetes mellitus
+HP:0025232,134453,Bursitis
+HP:0004383,440207,Hypoplastic left heart syndrome
+HP:0004397,4197547,Ectopic anus
+HP:0002242,201618,Disorder of intestine
+HP:0100565,378533,Hydromyelia
+HP:0000062,4062097,Ambiguous genitalia
+HP:0000062,4212927,Disorder of sexual differentiation
+HP:0012219,140176,Erythema nodosum
+HP:0012196,315531,Respiration intermittent
+HP:0012196,313324,Cheyne-Stokes respiration
+HP:0100813,435315,Torsion of testis
+HP:0000453,256810,Choanal atresia
+HP:0001144,440418,Orbital cyst
+HP:0041087,4085898,Wedge fracture of lumbar vertebra
+HP:0030423,4193638,Splenic cyst
+HP:0011419,198488,Placental abruption
+HP:0011419,440457,Threatened miscarriage
+HP:0041055,442619,Fracture of humerus
+HP:0004321,201345,Bladder fistula
+HP:0003493,4013265,Anti-nuclear factor positive
+HP:0001658,4329847,Myocardial infarction
+HP:0005110,313217,Atrial fibrillation
+HP:0000125,4210317,Pelvic kidney
+HP:0012399,135333,Pressure ulcer
+HP:0010702,4132570,Hypergammaglobulinemia
+HP:0025452,133283,Pyoderma gangrenosum
+HP:0100592,200757,Abscess of peritoneum
+HP:0000193,4077901,Cleft uvula
+HP:0041247,4134336,Fracture of tarsal bone
+HP:0100835,4239871,Benign neoplasm of central nervous system
+HP:0011530,4120318,Retinal round hole
+HP:0100607,194696,Dysmenorrhea
+HP:0033689,4229448,Anterograde amnesia
+HP:0001602,24974,Stenosis of larynx
+HP:0001337,443782,Tremor
+HP:0002342,436682,Moderate intellectual disability
+HP:0000016,192450,Retention of urine
+HP:0011097,376105,West syndrome
+HP:0000960,4206889,Sacral dimple
+HP:0032579,197087,Vascular hamartomas
+HP:0100754,4333677,Mania
+HP:0200018,379819,Protan defect
+HP:0100767,4143187,Anomaly of placenta
+HP:0010608,377560,Internal hordeolum
+HP:0012228,376382,Tension-type headache
+HP:0002176,4322945,Spinal cord compression
+HP:0006527,4195014,Lymphoid interstitial pneumonia
+HP:0041073,4053828,Fracture of thoracic spine
+HP:0010780,378163,Hyperacusis
+HP:0000750,4047123,Speech delay
+HP:0000750,443361,Developmental language disorder
+HP:0000750,435642,Disturbance in speech
+HP:0004232,74160,Accessory carpal bones
+HP:0033584,4044215,Nonspecific interstitial pneumonia
+HP:0025238,4169905,Foot pain
+HP:0031292,4137468,Abscess of skin and/or subcutaneous tissue
+HP:0100252,45757678,Progressive diaphyseal dysplasia
+HP:0010474,193520,Urinary bladder stone
+HP:0033415,318450,Cardiac tamponade
+HP:0001719,313867,Double outlet right ventricle
+HP:0030997,4215697,Congenital atresia of vas deferens
+HP:0002408,4121803,Cerebral arteriovenous malformation
+HP:0004818,4024671,Paroxysmal nocturnal hemoglobinuria
+HP:0001623,74698,Breech presentation
+HP:0000113,4220238,Multiple congenital cysts of kidney
+HP:0008326,435787,Vitamin B6 deficiency
+HP:0004937,433783,Pulmonary artery aneurysm
+HP:0033125,4147411,Follicular non-Hodgkin's lymphoma
+HP:0005387,40483560,Combined immunodeficiency disease
+HP:0025567,372894,Central serous chorioretinopathy
+HP:0001159,4162283,Syndactyly
+HP:0004602,433585,Klippel-Feil sequence
+HP:0001019,4270887,Erythroderma
+HP:0025722,443454,Cerebral infarction
+HP:0001765,433577,Hammer toe
+HP:0025470,140173,Telogen effluvium
+HP:0033519,4141524,Methamphetamine dependence
+HP:0025019,321886,Rupture of artery
+HP:0040262,381592,Chronic mucoid otitis media
+HP:0033834,4272240,Malaise
+HP:0001601,4113306,Congenital laryngomalacia
+HP:0025630,4164940,Argininosuccinate lyase deficiency
+HP:0000870,4030186,Hyperprolactinemia
+HP:0001095,376965,Hypertensive retinopathy
+HP:0001131,374043,Hereditary corneal dystrophy
+HP:0002098,4158346,Respiratory distress
+HP:0033398,4050884,Pleural plaque
+HP:0001662,4169095,Bradycardia
+HP:0012318,4216083,Cervico-occipital neuralgia
+HP:0000934,437629,Chondrocalcinosis due to dicalcium phosphate crystals
+HP:0000934,439901,Chondrocalcinosis due to pyrophosphate crystals
+HP:0000934,437064,Chondrocalcinosis
+HP:0010886,437359,Osteochondritis dissecans
+HP:0002310,376969,Orofacial dyskinesia
+HP:0000347,4140216,Congenital micrognathism
+HP:0000479,378416,Retinal disorder
+HP:0002315,378253,Headache
+HP:0011704,4261842,Sick sinus syndrome
+HP:0000642,372633,Deutan defect
+HP:0100001,4033891,"Mesothelioma (malignant, clinical disorder)"
+HP:0000491,374035,Keratitis
+HP:0003042,4053588,Traumatic dislocation of elbow joint
+HP:0003042,4221189,Dislocation of elbow joint
+HP:0000217,4226991,Xerostomia
+HP:0000027,4143116,Azoospermia
+HP:0000027,76744,Azoospermia
+HP:0002354,439147,Amnesia
+HP:0002354,444259,Psychogenic amnesia
+HP:0041081,4185758,Fracture of lower leg
+HP:0041081,4187096,Fracture of lower limb
+HP:0011706,318448,Second degree atrioventricular block
+HP:0010981,435516,Lipoprotein deficiency disorder
+HP:0005942,4311555,Desquamative interstitial pneumonia
+HP:0030765,4232324,Sleep terror disorder
+HP:0011818,4099828,Nasofrontal encephalocele
+HP:0030642,35622759,Fundus albipunctatus
+HP:0020165,312622,Venous retinal branch occlusion
+HP:0000028,437655,Undescended testicle
+HP:0003256,4179872,Disorder of hemostatic system
+HP:0003256,432585,Blood coagulation disorder
+HP:0000678,438792,Crowding of teeth
+HP:0100540,374950,Edema of eyelid
+HP:0012424,434033,Chorioretinitis
+HP:0012871,4196960,Varicocele
+HP:0001276,4208994,Increased muscle tone
+HP:0005214,193518,Intestinal obstruction
+HP:0001196,438226,Short cord
+HP:0001518,74469,Light-for-dates without fetal malnutrition
+HP:0001518,4145947,Small for gestational age fetus
+HP:0001518,4171115,Low birth weight infant
+HP:0011109,257012,Chronic sinusitis
+HP:0002308,4099094,Chiari malformation
+HP:0006733,313159,Megakaryocytic leukemia
+HP:0006733,4079686,Acute megakaryoblastic leukemia
+HP:0011675,4262562,Abnormal heart beat
+HP:0011675,44784217,Cardiac arrhythmia
+HP:0008037,4229403,Flat anterior chamber of eye
+HP:0000255,260123,Acute sinusitis
+HP:0100534,4218083,Episcleritis
+HP:0002804,4009040,Arthrogryposis
+HP:0004459,381574,Exostosis of external ear canal
+HP:0004394,4303233,Gastric polyp
+HP:0004942,195559,Ruptured abdominal aortic aneurysm
+HP:0004942,441875,Thoracic aortic aneurysm which has ruptured
+HP:0004942,433222,"Thoracoabdominal aortic aneurysm, ruptured"
+HP:0004942,4132130,Dilatation of aorta
+HP:0004942,317585,Aortic aneurysm
+HP:0004942,312343,Ruptured aortic aneurysm
+HP:0000303,444124,"Malocclusion, Angle class III"
+HP:0000951,132446,Congenital anomaly of skin
+HP:0000951,4317258,Disorder of skin
+HP:0010470,4068890,Polyorchism
+HP:0011445,375525,Athetoid cerebral palsy
+HP:0000171,443936,Microglossia
+HP:0000171,432941,Disorder of tongue
+HP:0020103,4137770,Invasive pulmonary aspergillosis
+HP:0005180,4006971,Tricuspid valve regurgitation
+HP:0040261,438788,Hypertrophy of adenoids
+HP:0001734,4222723,Annular pancreas
+HP:0001097,4120320,Keratoconjunctivitis sicca
+HP:0001097,378427,Tear film insufficiency
+HP:0005321,4304838,Treacher Collins syndrome
+HP:0007011,378439,Fourth nerve palsy
+HP:0008619,4110815,"Sensorineural hearing loss, bilateral"
+HP:0001357,4071059,Plagiocephaly
+HP:0032161,435182,Coccidioidal meningitis
+HP:0001919,197320,Acute renal failure syndrome
+HP:0000388,372328,Otitis media
+HP:0200136,440530,Oropharyngeal dysphagia
+HP:0032325,4046360,Lacunar infarction
+HP:0100012,4181477,Malignant neoplasm of eye
+HP:0001305,4031189,Dandy-Walker syndrome
+HP:0000556,380395,Retinal dystrophy
+HP:0000556,377270,Hereditary retinal dystrophy
+HP:0000756,4321835,Agoraphobia
+HP:0031189,440193,Wristdrop
+HP:0032258,4087778,Pulmonary histoplasmosis
+HP:0033400,4241033,Acute abdomen
+HP:0002527,4059015,Falls
+HP:0025615,444202,Abscess
+HP:0012085,4167328,Pyuria
+HP:0003113,4016089,Hypochloremia
+HP:0001012,4292547,Lipomatosis
+HP:0006767,4305452,Prolactinoma
+HP:0002828,439666,Contracture of multiple joints
+HP:0002134,378144,Disorder of basal ganglia
+HP:0009380,4323582,Absent finger
+HP:0002878,314971,Chronic respiratory failure
+HP:0002878,4256228,Respiratory failure
+HP:0001829,79914,Polydactyly of toes
+HP:0008141,4138150,Dislocation of toe joint
+HP:0000070,192440,Ureterocele
+HP:0100654,379818,Retrobulbar neuritis
+HP:0010717,4135715,Syndactyly of toes
+HP:0010717,435364,Syndactyly of toes with fusion of bones
+HP:0011712,314059,Right bundle branch block
+HP:0003457,441415,Electromyogram abnormal
+HP:0010550,192606,Paraplegia
+HP:0005162,439846,Left heart failure
+HP:0011106,37311319,Hypovolemia
+HP:0000089,4139587,Congenital hypoplasia of kidney
+HP:0030127,433527,Endometriosis (clinical)
+HP:0012311,434910,Monocytosis
+HP:0007313,4168666,Cerebral degeneration
+HP:0007313,375239,Degenerative brain disorder
+HP:0002150,4215809,Hypercalciuria
+HP:0011107,138463,Aphthous ulcer of mouth
+HP:0011107,4146449,Aphthous ulceration of skin and/or mucous membrane
+HP:0011107,36716659,Recurrent aphthous stomatitis
+HP:0010774,441108,Cor triatriatum
+HP:0003198,137275,Disorder of muscle
+HP:0100790,4162218,Vaginal enterocele
+HP:0100790,199860,Hernia of abdominal cavity
+HP:0025655,4037762,Placenta increta
+HP:0011590,4014895,Double aortic arch
+HP:0010313,78474,Hypertrophy of breast
+HP:0010313,4163600,Large breast
+HP:0000512,4168089,Electroretinogram abnormal
+HP:0005301,4301483,Persistent left superior vena cava
+HP:0012185,380094,Carpal tunnel syndrome
+HP:0010298,439060,Atrophy of tongue papillae
+HP:0500051,375251,Retinopathy of prematurity stage 2 - intraretinal ridge
+HP:0030836,4115367,Wrist joint pain
+HP:0000563,374362,Keratoconus
+HP:0000573,374025,Retinal hemorrhage
+HP:0041244,4319889,Fracture of scapula
+HP:0100796,4171915,Orchitis
+HP:0010889,4223997,Juvenile osteochondrosis of carpal lunate
+HP:0000110,201111,Renal dysplasia
+HP:0011854,194690,Nontraumatic hemoperitoneum
+HP:0041156,4320022,Fracture of orbit
+HP:0002671,4112752,Basal cell carcinoma of skin
+HP:0000565,377877,Esotropia
+HP:0008711,198803,Benign prostatic hyperplasia
+HP:0008711,197032,Hyperplasia of prostate
+HP:0009892,381384,Congenital absence of external ear
+HP:0012089,314659,Arteritis
+HP:0012730,440521,Tongue absent
+HP:0030016,442324,Psychologic dyspareunia
+HP:0030016,439080,Dyspareunia
+HP:0002647,320739,Dissection of aorta
+HP:0003468,4308096,Congenital deformity of spine
+HP:0003468,81670,Congenital anomaly of spine
+HP:0000099,4263367,Glomerulonephritis
+HP:0100537,133569,Fasciitis
+HP:0011874,433749,Heparin-induced thrombocytopenia
+HP:0010523,440084,Alexia
+HP:0006699,4115173,Atrial premature complex
+HP:0006699,441872,Supraventricular premature beats
+HP:0001735,199074,Acute pancreatitis
+HP:0000738,433031,Hallucinations
+HP:0033261,194385,Aneurysm of renal artery
+HP:0001597,132706,Disorder of nail
+HP:0000751,444092,Personality change
+HP:0012452,73754,Restless legs
+HP:0006557,197654,Congenital cystic disease of liver
+HP:0012415,441419,Blood gases abnormal
+HP:0009473,72995,Contracture of joint of hand
+HP:0001387,72404,Joint stiffness
+HP:0010953,440385,Obstructive hydrocephalus
+HP:0009917,4318523,Persistent pupillary membranes
+HP:0001901,135214,Polycythemia vera (clinical)
+HP:0011004,4119774,Arterial malformation
+HP:0002460,4092727,Distal muscle weakness
+HP:0011950,4165112,Bronchiolitis
+HP:0008441,4251304,Intervertebral disc prolapse
+HP:0030242,199837,Portal vein thrombosis
+HP:0008465,75915,Congenital absence of vertebra
+HP:0009710,141456,Chilblains
+HP:0000815,4279913,Primary ovarian failure
+HP:0001883,4134730,Talipes
+HP:0000807,4002617,"Hypospadias, balanic"
+HP:0011665,40479589,Takotsubo cardiomyopathy
+HP:0008551,378849,Microtia
+HP:0031110,4028339,Twin-to-twin blood transfer
+HP:0010307,253321,Stridor
+HP:0007018,4149353,"Attention deficit hyperactivity disorder, predominantly inattentive type"
+HP:0007018,438409,Attention deficit hyperactivity disorder
+HP:0007018,4253962,"Attention deficit hyperactivity disorder, predominantly hyperactive impulsive type"
+HP:0012621,4253536,Persistent cloaca
+HP:0000716,440383,Depressive disorder
+HP:0002289,4312756,Alopecia universalis
+HP:0003764,4271013,Melanocytic nevus
+HP:0011483,441560,Anterior synechiae
+HP:0040312,4240648,Arthritis of temporomandibular joint
+HP:0012486,138965,Myelitis
+HP:0025236,377535,Sleep walking disorder
+HP:0001907,4159647,Thromboembolic disorder
+HP:0001082,200765,Chronic cholecystitis
+HP:0001082,192956,Cholecystitis
+HP:0033279,4055202,Enterocutaneous fistula
+HP:0025671,43021729,Fetal pericardial effusion
+HP:0012413,434279,Congenital syphilis
+HP:0012413,4313730,Hutchinson's teeth
+HP:0100758,439928,Gangrenous disorder
+HP:0033590,4195436,Abscess of groin
+HP:0011747,23986,Disorder of pituitary gland
+HP:0012024,439788,Galactosemia
+HP:0011945,36714118,Cryptogenic organizing pneumonia
+HP:0003419,194133,Low back pain
+HP:0001297,381316,Cerebrovascular accident
+HP:0002637,374384,Cerebral ischemia
+HP:0003095,80482,Suppurative arthritis
+HP:0003095,4262590,Infective arthritis
+HP:0003095,4180873,Infective arthritis of shoulder region
+HP:0003095,4167984,Bacterial arthritis
+HP:0020194,4003836,Immunoproliferative small intestinal disease (clinical)
+HP:0002896,4130518,Neoplasm of liver
+HP:0010458,4338827,Female pseudohermaphroditism
+HP:0012768,439136,"Asphyxia, in liveborn infant"
+HP:0045054,378741,Brachial plexus disorder
+HP:0002901,435510,Hypocalcemia
+HP:0001114,381297,Xanthoma of eyelid
+HP:0000699,42535743,Diastema of teeth
+HP:0003510,440076,Short stature disorder
+HP:0005261,75345,Hemarthrosis of shoulder region
+HP:0005261,76784,Hemarthrosis
+HP:0000495,374946,Recurrent erosion of cornea
+HP:0007802,437281,Granular corneal dystrophy
+HP:0100532,434944,Scleritis
+HP:0010442,74740,Polydactyly
+HP:0000648,372914,Optic atrophy
+HP:0000873,30968,Diabetes insipidus
+HP:0000852,4239780,Pseudohypoparathyroidism
+HP:0000133,201951,Gonadal dysgenesis
+HP:0009829,4119283,Phocomelia
+HP:0033667,4027314,Mental health impairment
+HP:0033667,436222,Altered mental status
+HP:0012879,4088757,Anejaculation
+HP:0000851,133728,Congenital hypothyroidism
+HP:0000851,4314093,Congenital iodine deficiency syndrome
+HP:0025089,45757414,Vomiting fecal matter
+HP:0500005,442764,Anal pain
+HP:0012330,198199,Pyelonephritis
+HP:0000204,133861,Cleft lip
+HP:0100759,74731,Hypertrophic osteoarthropathy
+HP:0100759,134746,Finger clubbing
+HP:0031259,4328350,Oophoritis
+HP:0002917,4098604,Hypomagnesemia
+HP:0100247,194475,Hiccoughs
+HP:0002883,316814,Hyperventilation
+HP:0012370,4176298,Hyperplasia of zygomatic bone
+HP:0033839,4270932,Pain in testicle
+HP:0007709,436695,Band-shaped keratopathy
+HP:0003761,4280820,Calcinosis
+HP:0001909,317510,Leukemia
+HP:0040223,4301606,Pulmonary hemorrhage
+HP:0002390,4129783,Spinal arteriovenous malformation
+HP:0001684,434467,Ostium secundum type atrial septal defect
+HP:0000620,439025,Dacryocystitis
+HP:0030811,441334,Glossodynia
+HP:0001941,435517,Acidosis
+HP:0002587,4312477,Projectile vomiting
+HP:0040297,133859,Preauricular cyst
+HP:0030840,4090553,Ankle pain
+HP:0001374,4167532,Congenital dislocation of hip
+HP:0000968,134757,Ectodermal dysplasia
+HP:0001334,440700,Communicating hydrocephalus
+HP:0000465,23304,Neck webbing
+HP:0001520,434758,Exceptionally large at birth
+HP:0031684,195834,Atherosclerosis of renal artery
+HP:0003614,4029731,Trimethylaminuria
+HP:0012764,315361,Orthopnea
+HP:0001392,194984,Disease of liver
+HP:0410138,139100,Vibratory urticaria
+HP:0010464,4290923,Streak ovary
+HP:0004791,25844,Ulcer of esophagus
+HP:0004791,31610,Disorder of esophagus
+HP:0000206,436147,Glossitis
+HP:0032141,134159,Precordial pain
+HP:0100543,443432,Impaired cognition
+HP:0011887,437867,Choroidal hemorrhage
+HP:0410147,195309,Eosinophilic gastritis
+HP:0001806,4328079,Onycholysis
+HP:0011418,442171,Vasa previa
+HP:0001096,380397,Keratoconjunctivitis
+HP:0025263,4093672,Knee stiff
+HP:0001698,4161701,Pericardial effusion
+HP:0033564,4148876,Stasis dermatitis
+HP:0030688,4036184,Increased glucagon level
+HP:0003571,4289321,Propionic acidemia
+HP:0006280,195596,Chronic pancreatitis
+HP:0011741,437836,Secondary hyperaldosteronism
+HP:0001537,4245842,Umbilical hernia
+HP:0001250,4029498,Seizure disorder
+HP:0001250,380378,Epilepsy
+HP:0001250,377091,Seizure
+HP:0003234,4228429,Carnitine deficiency
+HP:0012727,36717267,Ectasia of thoracic aorta
+HP:0012727,443622,Aneurysm of thoracic aorta
+HP:0000130,201388,Congenital uterine anomaly
+HP:0020083,4220002,Furuncle
+HP:0005764,74125,Inflammatory polyarthropathy
+HP:0025428,260131,Disorder of bronchus
+HP:0025428,256717,Bronchospasm
+HP:0002716,315085,Lymphadenopathy
+HP:0001750,434146,Common ventricle
+HP:0001558,77619,Reduced fetal movement
+HP:0005191,4243373,Congenital dislocation of knee
+HP:0007185,372448,Loss of consciousness
+HP:0001373,74726,Dislocation of joint
+HP:0003141,4134862,Familial hypercholesterolemia
+HP:0001762,438242,Talipes equinovarus
+HP:0000674,440438,Anodontia
+HP:0000544,374041,External ophthalmoplegia
+HP:0000544,379027,Progressive external ophthalmoplegia
+HP:0000821,140673,Hypothyroidism
+HP:0000501,437541,Glaucoma
+HP:0001706,314370,Endocardial fibroelastosis
+HP:0003118,438123,Adrenocortical hyperfunction
+HP:0003118,195212,Hypercortisolism
+HP:0004431,4083784,Complement deficiency disease
+HP:0025643,4218724,Perineurial cyst
+HP:0009796,4178668,Branchial cleft anomaly
+HP:0009796,23567,Branchial cleft cyst
+HP:0007763,441555,Retinal telangiectasia
+HP:0032408,80767,Breast lump
+HP:0032435,201136,Omphalitis of the newborn
+HP:0000829,140362,Hypoparathyroidism
+HP:0001087,40403168,Congenital glaucoma
+HP:0001087,374139,Buphthalmos
+HP:0030854,436133,Scleral staphyloma
+HP:0008682,444044,Acute tubular necrosis
+HP:0031179,441130,Meningeal irritation
+HP:0001838,4006600,Congenital vertical talus
+HP:0030261,4005593,Aplasia of penis
+HP:0100812,4195873,Breath smells unpleasant
+HP:0004936,444247,Venous thrombosis
+HP:0500050,375250,Retinopathy of prematurity stage 1 - demarcation line
+HP:0025388,4030041,Thyroid nodule
+HP:0000771,4168447,Gynecomastia
+HP:0001999,439394,Congenital anomaly of face
+HP:0011105,434004,Hypervolemia
+HP:0100504,432580,Ariboflavinosis
+HP:0008736,198850,Congenital hypoplasia of penis
+HP:0025095,4328356,Sneezing
+HP:0000126,433811,Hydronephrosis
+HP:0011123,133835,Eczema
+HP:0011123,45766714,Inflammatory dermatosis
+HP:0001876,432881,Pancytopenia
+HP:0001639,4124693,Hypertrophic cardiomyopathy
+HP:0001639,316428,Hypertrophic obstructive cardiomyopathy
+HP:0001924,432282,Sideroblastic anemia
+HP:0004398,4027663,Peptic ulcer
+HP:0012584,4151867,Bilateral renal hypoplasia
+HP:0034159,75910,Osteitis deformans
+HP:0011715,321315,Trifascicular block
+HP:0041093,4185564,Beau's lines
+HP:0025654,4289303,Placenta accreta
+HP:0100545,317305,Stricture of artery
+HP:0001149,4263345,Lattice corneal dystrophy
+HP:0001953,443727,Diabetic ketoacidosis
+HP:0011416,4145335,Placental infarct
+HP:0030766,380733,Otalgia
+HP:0010958,4223016,Oligohydramnios sequence
+HP:0000407,374366,Sensorineural hearing loss
+HP:0012158,37109512,Dissection of carotid artery
+HP:0030447,4100425,Merkel cell carcinoma
+HP:0033543,4209423,Nicotine dependence
+HP:0033543,437264,Tobacco dependence syndrome
+HP:0002797,78308,Osteolysis
+HP:0000017,40304526,Nocturia
+HP:0011553,4100733,Discordant atrioventricular connection
+HP:0001839,4003820,Split foot
+HP:0002789,317376,Tachypnea
+HP:0001141,4288370,Severe visual impairment
+HP:0002138,432923,Subarachnoid hemorrhage
+HP:0030802,45763762,Retraction of lower eyelid
+HP:0010750,374358,Excess skin of eyelid
+HP:0000555,373461,Leukocoria
+HP:0025144,434490,Chill
+HP:0100716,4092411,Self-injurious behavior
+HP:0002578,195847,Gastroparesis syndrome
+HP:0000212,4182983,Gingival enlargement
+HP:0003835,4134181,Subluxation of shoulder joint
+HP:0030069,373152,Primary central nervous system lymphoma
+HP:0004947,4234480,Arteriovenous fistula
+HP:0012231,374640,Serous retinal detachment
+HP:0046504,436246,Reduced libido
+HP:0025259,4093193,Elbow stiff
+HP:0034269,4155070,Vaginal discharge
+HP:0041167,4129393,Fracture of cervical spine
+HP:0012804,373202,Corneal ulcer
+HP:0012513,4009890,Pain in upper limb
+HP:0000023,4288544,Inguinal hernia
+HP:0000776,4066010,Congenital diaphragmatic hernia
+HP:0000776,201061,Diaphragmatic hernia
+HP:0001371,4069933,Flexion deformity
+HP:0001371,4208264,Muscle contracture
+HP:0001371,73290,Contracture of joint
+HP:0005575,197253,Hemolytic uremic syndrome
+HP:0004836,4002497,"Acute promyelocytic leukemia, FAB M3"
+HP:0008028,376115,Cystoid macular retinal degeneration
+HP:0011724,4154303,Uhl's disease
+HP:0033351,28974,Candidiasis of the esophagus
+HP:0030828,314754,Wheezing
+HP:0001627,312723,Congenital heart disease
+HP:0007898,373756,Exudative retinopathy
+HP:0002592,4265600,Gastric ulcer
+HP:0001562,434111,Oligohydramnios
+HP:0000808,4005591,"Hypospadias, penoscrotal"
+HP:0030015,442749,Inhibited female orgasm
+HP:0002595,46272242,Intestinal obstruction co-occurrent and due to decreased peristalsis
+HP:0200123,200763,Chronic hepatitis
+HP:0001325,380688,Hypoglycemic coma
+HP:0004828,4003186,Refractory anemia with ringed sideroblasts (clinical)
+HP:0006688,313792,Paroxysmal tachycardia
+HP:0100785,436962,Insomnia
+HP:0002011,376106,Disorder of the central nervous system
+HP:0200120,4026125,Chronic active hepatitis
+HP:0000478,372424,Congenital anomaly of eye
+HP:0000478,375252,Disorder of eye
+HP:0006702,37115756,Dissection of coronary artery
+HP:0002090,255848,Pneumonia
+HP:0032282,134438,Contact dermatitis
+HP:0006511,437904,Laryngeal spasm
+HP:0001128,4246581,Malposition of eyelashes
+HP:0000076,197036,Vesicoureteric reflux
+HP:0025608,376699,Cicatricial ectropion
+HP:0031952,4119307,Neurogenic claudication
+HP:0007325,373462,Fragments of torsion dystonia
+HP:0012119,432882,Methemoglobinemia
+HP:0011450,4028070,Infectious disease of central nervous system
+HP:0002043,4268622,Stricture of esophagus
+HP:0100003,4001666,Mesothelioma of peritoneum
+HP:0000047,196528,Hypospadias
+HP:0005186,4347302,Synovial hypertrophy
+HP:0003048,4218991,Subluxation of radial head
+HP:0032256,433134,Histoplasmosis
+HP:0100890,4260364,Choledochal cyst
+HP:0001279,135360,Syncope
+HP:0001279,4206148,Syncope and collapse
+HP:0032660,373748,Grand mal status
+HP:0001254,4061577,Lethargy
+HP:0002745,138466,Leukoplakia of oral mucosa
+HP:0025188,436403,Retinal vasculitis
+HP:0030834,4166666,Shoulder pain
+HP:0001336,441553,Myoclonus
+HP:0001132,376123,Subluxation of lens
+HP:0031274,4192647,Hypovolemic shock
+HP:0002756,73571,Pathological fracture
+HP:0005857,4136209,Spina bifida of cervical region
+HP:0000085,4219152,Horseshoe kidney
+HP:0100632,4088076,Congenital sequestration of lung
+HP:0001629,434462,Ventricular septal defect
+HP:0500077,372650,Alternating hyperphoria
+HP:0002019,75860,Constipation
+HP:0000012,200845,Urgent desire to urinate
+HP:0000012,37206607,Overactive bladder
+HP:0000012,76153,Low compliance bladder
+HP:0002762,4113600,Multiple congenital exostosis
+HP:0011426,43021730,Fetal choroid plexus cyst
+HP:0031287,40568467,Seborrheic keratosis
+HP:0031287,141932,Senile hyperkeratosis
+HP:0033788,442576,Hypercementosis
+HP:0000840,196369,Adrenogenital disorder
+HP:0003244,4005933,"Hypospadias, penile"
+HP:0040188,441103,Juvenile osteochondritis
+HP:0001789,4173169,Hydrops fetalis
+HP:0003076,434164,Glycosuria
+HP:0009806,438476,Nephrogenic diabetes insipidus
+HP:0012387,256451,Bronchitis
+HP:0000526,440195,Congenital aniridia
+HP:0001626,134057,Disorder of cardiovascular system
+HP:0030516,372897,Homonymous hemianopia
+HP:0033993,372547,Viral encephalitis
+HP:0000707,374142,Congenital anomaly of nervous system
+HP:0002861,4162276,Malignant melanoma
+HP:0001287,435785,Meningitis
+HP:0030151,195856,Cholangitis
+HP:0034004,46270715,Parosmia
+HP:0033375,252946,Coal workers' pneumoconiosis
+HP:0100847,4100184,Pustular psoriasis of palms and soles
+HP:0000619,439278,Convergence insufficiency
+HP:0012327,194393,Celiac artery compression syndrome
+HP:0002204,440417,Pulmonary embolism
+HP:0000912,78863,Congenital elevation of scapula
+HP:0000759,4117779,Peripheral nerve disease
+HP:0000759,4175154,Disorder of the peripheral nervous system
+HP:0000992,4331304,Photodermatitis
+HP:0002740,440320,Infection due to Escherichia coli
+HP:0002953,4222001,Collapse of vertebra
+HP:0100582,42537252,Polyp of nasal cavity
+HP:0005562,4113451,Multiple renal cysts
+HP:0011958,4335996,Retinal dialysis
+HP:0011958,376971,Retinal defect
+HP:0011785,135778,Toxic multinodular goiter
+HP:0025572,440404,Stenosis of lacrimal punctum
+HP:0001103,4208223,Disorder of macula of retina
+HP:0100777,45757591,Osteophyte of bone
+HP:0100777,72715,Exostosis
+HP:0012819,314383,Myocarditis
+HP:0002590,192357,Paralytic ileus
+HP:0001249,40277917,Intellectual disability
+HP:0001249,4084409,Low intelligence
+HP:0007479,4003980,Lamellar ichthyosis
+HP:0007479,4145173,Harlequin fetus
+HP:0004976,4238518,Traumatic dislocation of knee joint
+HP:0000013,4147753,Infantile uterus
+HP:0002653,4129418,Bone pain
+HP:0011705,314379,First degree atrioventricular block
+HP:0001126,4268276,Cryptophthalmos
+HP:0033589,4091513,Passing flatus
+HP:0007477,141404,Abnormal dermatoglyphic pattern
+HP:0033404,192673,Vascular insufficiency of intestine
+HP:0001511,80204,Fetal growth restriction
+HP:0032379,4080921,Polymorphous light eruption
+HP:0032966,4286497,Centriacinar emphysema
+HP:0025676,43021728,Fetal pleural effusion
+HP:0005294,46272492,Dissection of artery
+HP:0000956,4299544,Acanthosis nigricans
+HP:0000956,140489,Acquired acanthosis nigricans
+HP:0012189,4038835,Hodgkin's disease (clinical)
+HP:0012189,4041797,Hodgkin's granuloma (clinical)
+HP:0012189,4038839,"Hodgkin lymphoma, nodular lymphocyte predominance (clinical)"
+HP:0012189,4038840,Hodgkin's sarcoma (clinical)
+HP:0006802,374631,Motor neuron disease
+HP:0006802,381275,Anterior horn cell disease
+HP:0012721,4175582,Congenital abnormality of vein
+HP:0002355,439405,Walking disability
+HP:0002355,36714126,Difficulty walking
+HP:0003768,4061074,Periodic paralysis
+HP:0011891,443929,Postpartum hemorrhage
+HP:0012020,4009628,Right aortic arch
+HP:0006775,437233,Multiple myeloma
+HP:0000938,4195039,Osteopenia
+HP:0000938,4303996,Marchiafava-Bignami disease
+HP:0007777,433196,Chorioretinal scar
+HP:0200151,4246283,Cutaneous mastocytosis
+HP:0011413,72377,Shoulder girdle dystocia
+HP:0032807,380533,Convulsions in the newborn
+HP:0012378,4223659,Fatigue
+HP:0010305,4307807,Caudal dysplasia sequence
+HP:0000621,379020,Entropion
+HP:0002353,4168553,Electroencephalogram abnormal
+HP:0031368,193242,Perforation of intestine
+HP:0041162,4048393,Fracture of foot
+HP:0041162,435644,Metatarsal bone fracture
+HP:0006101,4097018,Webbed fingers
+HP:0006101,75916,Simple syndactyly of fingers
+HP:0001998,23034,Neonatal hypoglycemia
+HP:0000999,133547,Pyoderma
+HP:0009730,4120309,Rhabdomyoma
+HP:0001605,261599,Vocal cord paralysis
+HP:0100829,79884,Galactorrhea not associated with childbirth
+HP:0011886,432904,Hyphema
+HP:0001271,4174262,Polyneuropathy
+HP:0031469,4120401,Low self-esteem
+HP:0011851,258449,Hemopericardium
+HP:0001539,4077297,Congenital omphalocele
+HP:0002321,433316,Dizziness and giddiness
+HP:0002321,381035,Vertigo of central origin
+HP:0002321,439383,Vertigo
+HP:0002321,4223938,Dizziness
+HP:0002102,78786,Pleurisy
+HP:0001973,4137430,Idiopathic thrombocytopenic purpura
+HP:0008207,4160059,Primary adrenocortical insufficiency
+HP:0041200,4211244,Fracture of sternal end of clavicle
+HP:0000577,377294,Exotropia
+HP:0030666,433471,Retinal neovascularization
+HP:0100753,4100365,Schizophrenic disorders
+HP:0100753,435783,Schizophrenia
+HP:0012594,4195061,Microalbuminuria
+HP:0001943,24609,Hypoglycemia
+HP:0002027,200219,Abdominal pain
+HP:0000858,196168,Irregular periods
+HP:0011838,4308071,Sclerodactyly
+HP:0033180,441068,Torsion of appendix of testis
+HP:0031775,381862,Paralytic strabismus
+HP:0000610,432620,Disorder of choroid of eye
+HP:0100677,436140,Vulval varices
+HP:0000230,138176,Acute gingivitis
+HP:0000230,4281516,Gingivitis
+HP:0002780,4183857,Bronchomalacia
+HP:0009589,380975,Neurofibromatosis type 2
+HP:0002584,46273183,Intestinal hemorrhage
+HP:0002311,441417,Incoordination
+HP:0002311,4114624,Coordination problem
+HP:0011841,433225,Ventricular flutter
+HP:0008222,201909,Female infertility
+HP:0002206,4197819,Fibrosis of lung
+HP:0012578,252365,Membranous glomerulonephritis
+HP:0004755,4275423,Supraventricular tachycardia
+HP:0031623,4087800,Ptosis of eyebrow
+HP:0033150,4326601,Anorectal abscess
+HP:0031846,442560,Fracture of femur
+HP:0030017,193261,Vaginospasm
+HP:0200056,372907,Scarred macula
+HP:0100026,4119780,Congenital arteriovenous malformation
+HP:0002256,193252,Diverticulosis of small intestine
+HP:0032187,76472,Dysplasia of anus
+HP:0030075,4001670,Intraductal carcinoma in situ of breast
+HP:0000845,4253197,Acromegaly
+HP:0100002,4111917,Malignant mesothelioma of pleura
+HP:0001596,133280,Alopecia
+HP:0033254,200773,Stenosis of rectum and anus
+HP:0041164,4135751,Fracture of talus
+HP:0002812,81402,Congenital coxa vara
+HP:0000517,373785,Disorder of lens
+HP:0001929,437256,Hereditary factor XI deficiency disease
+HP:0001621,40326053,Dysphonia
+HP:0004334,134118,Atrophic condition of skin
+HP:0008661,195590,Urethral stricture
+HP:0040264,4168686,Jaw pain
+HP:0025584,379029,Hypotropia
+HP:0001640,314658,Cardiomegaly
+HP:0001059,375552,Pterygium
+HP:0002573,443530,Hematochezia
+HP:0011227,37108742,Elevated C-reactive protein
+HP:0003994,4054058,Traumatic dislocation of joint of wrist
+HP:0003994,3654438,Dislocation of wrist
+HP:0010492,438251,Syndactyly of fingers with fusion of bones
+HP:0002821,4234127,Charcot's arthropathy
+HP:0002821,74723,Arthropathy associated with a neurological disorder
+HP:0025262,4097159,Hip stiff
+HP:0005293,321596,Peripheral venous insufficiency
+HP:0000024,194997,Prostatitis
+HP:0004326,134765,Cachexia
+HP:0006510,255573,Chronic obstructive lung disease
+HP:0009763,138525,Pain in limb
+HP:0031615,439018,Hypopyon
+HP:0011856,437839,Pica
+HP:0010735,76801,Polyostotic fibrous dysplasia of bone
+HP:0025260,4093673,Wrist stiff
+HP:0001084,4009186,Arcus senilis
+HP:0033690,4198081,Retrograde amnesia
+HP:0002040,24966,Esophageal varices
+HP:0100014,379010,Epiretinal membrane
+HP:0002913,439142,Myoglobinuria
+HP:0002605,4337543,Hepatic necrosis
+HP:0001028,441818,Hemangioma
+HP:0009775,45772918,Amniotic adhesion
+HP:0011423,4253927,Hyperchloremia
+HP:0011108,4110492,Recurrent sinusitis
+HP:0011567,4316879,Sinus venosus atrial septal defect
+HP:0004749,314665,Atrial flutter
+HP:0100778,4149583,Cryoglobulinemia
+HP:0011857,4216139,Plasmacytoma
+HP:0002758,80180,Osteoarthritis
+HP:0100566,4302582,Amyelia
+HP:0000998,443793,Hypertrichosis
+HP:0002893,4116211,Pituitary adenoma
+HP:0002349,43530626,Simple partial seizure
+HP:0033823,4312034,Mediastinal mass
+HP:0500006,195862,Urethritis
+HP:0500006,201792,Nongonococcal urethritis
+HP:0012032,440358,Lipoma (clinical)
+HP:0004950,321052,Peripheral vascular disease
+HP:0004950,3654996,Peripheral arterial disease
+HP:0002836,197667,Exstrophy of bladder sequence
+HP:0040154,4241223,Hidradenitis suppurativa
+HP:0002323,377368,Anencephalus
+HP:0009921,376989,Duane's syndrome
+HP:0031281,29056,Sialoadenitis
+HP:0025127,138825,Actinic keratosis
+HP:0100614,73001,Myositis
+HP:0000819,201820,Diabetes mellitus
+HP:0001259,380834,Coma
+HP:0006226,4242103,Osteoarthrosis of the carpometacarpal joint of the thumb
+HP:0002900,437833,Hypokalemia
+HP:0002097,4169883,Emphysema
+HP:0002097,261325,Pulmonary emphysema
+HP:0001890,441269,Autoimmune hemolytic anemia
+HP:0001041,136773,Rosacea
+HP:0100594,4078921,Esophageal web
+HP:0000034,4131791,Hydrocele of testis
+HP:0009027,4264617,Foot-drop
+HP:0001278,319041,Orthostatic hypotension
+HP:0030812,28457,Hypertrophy of tonsils
+HP:0034286,438350,Pneumocystosis
+HP:0001051,137053,Seborrheic dermatitis
+HP:0002749,432594,Osteomalacia
+HP:0012397,312934,Atherosclerosis of aorta
+HP:0012121,439014,Panuveitis
+HP:0011496,4081488,Vascularization of cornea
+HP:0011496,377868,Corneal pannus
+HP:0001716,4057008,Accelerated atrioventricular conduction
+HP:0001716,313224,Anomalous atrioventricular excitation
+HP:0001123,377286,Visual field defect
+HP:0001746,4244020,Congenital absence of spleen
+HP:0001732,192963,Disorder of pancreas
+HP:0004923,4287416,Hyperphenylalaninemia
+HP:0010864,432898,Severe intellectual disability
+HP:0000988,140214,Eruption
+HP:0100503,441266,Thiamine deficiency
+HP:0002720,433171,Selective immunoglobulin A deficiency
+HP:0001399,4245975,Hepatic failure
+HP:0002652,4023985,Skeletal dysplasia
+HP:0000793,433257,Mesangiocapillary glomerulonephritis
+HP:0007475,4110127,Bullous ichthyosiform erythroderma
+HP:0000509,379019,Conjunctivitis
+HP:0410019,197381,Epigastric pain
+HP:0000202,134144,Cleft palate with cleft lip
+HP:0006749,4028253,Neoplasm of digestive system
+HP:0006749,196931,Neoplasm of digestive tract
+HP:0010749,375551,Blepharochalasis
+HP:0012163,4121629,Carotid artery aneurysm
+HP:0008722,196156,Urethral diverticulum
+HP:0025269,4021498,Panic attack
+HP:0031671,36714994,Typical atrial flutter
+HP:0006897,381572,Abducens nerve palsy
+HP:0004808,140352,"Acute myeloid leukemia, disease"
+HP:0025024,198465,"Megacolon, not Hirschsprung's"
+HP:0100606,252280,Neoplasm of respiratory tract
+HP:0100606,40491439,Tumor of respiratory system
+HP:0100021,4134120,Cerebral palsy
+HP:0005558,140057,Chronic leukemia
+HP:0011974,140064,Myelosclerosis with myeloid metaplasia
+HP:0011974,133169,Myelofibrosis
+HP:0012878,4036117,Late ejaculation
+HP:0002442,434340,Developmental arithmetic disorder
+HP:0003251,198197,Male infertility
+HP:0200023,315586,Priapism
+HP:0010524,4173136,Agnosia
+HP:0000077,195363,Congenital anomaly of the kidney
+HP:0003077,432867,Hyperlipidemia
+HP:0031258,373995,Delirium
+HP:0000185,4109045,Cleft of soft palate
+HP:0001055,138346,Erysipelas
+HP:0001541,200528,Ascites
+HP:0000221,441896,Plicated tongue
+HP:0001695,321042,Cardiac arrest
+HP:0012199,381278,Cluster headache
+HP:0012199,378145,Chronic cluster headache
+HP:0030998,435805,Cerebrospinal fluid rhinorrhea
+HP:0000538,436702,Pseudopapilledema
+HP:0100634,434300,Neuroendocrine tumor
+HP:0007418,4056343,Alopecia totalis
+HP:0041222,436209,Fracture of fibula
+HP:0012395,256439,Allergic rhinitis due to pollen
+HP:0012395,4280726,Seasonal allergic rhinitis
+HP:0030009,436740,Cervical incompetence
+HP:0001155,4182643,Deformity of hand
+HP:0004746,36717583,Dense deposit disease
+HP:0000712,4078201,Mood swings
+HP:0031218,4207539,Syndrome of inappropriate vasopressin secretion
+HP:0006517,435853,Pulmonary alveolar proteinosis
+HP:0025031,198249,Congenital anomaly of digestive system
+HP:0001260,4196636,Dysarthria
+HP:0002023,4002465,Imperforate anus
+HP:0005943,317109,Respiratory arrest
+HP:0001873,432870,Thrombocytopenic disorder
+HP:0100309,439040,Subdural hemorrhage
+HP:0011171,377101,Simple febrile seizure
+HP:0002721,433740,Immunodeficiency disorder
+HP:0003535,4030504,3-Methylglutaconic aciduria
+HP:0030076,4001315,Lobular carcinoma in situ of breast
+HP:0500095,434219,Food anaphylaxis
+HP:0011110,23220,Chronic tonsillitis
+HP:0000757,4085584,Lack of insight
+HP:0012669,436392,Carotid sinus syncope
+HP:0011708,313780,Mobitz type II atrioventricular block
+HP:0002385,4081615,Paraparesis
+HP:0008251,4172997,Neonatal goiter
+HP:0025245,4112141,Cyst of skin
+HP:0025508,4083305,Gottron's papules
+HP:0001798,4053285,Anonychia
+HP:0002015,31317,Dysphagia
+HP:0004905,438114,Vitamin A deficiency
+HP:0025342,437540,Central retinal artery occlusion
+HP:0030953,377283,Conjunctival hyperemia
+HP:0007530,4300110,Punctate palmoplantar keratoderma
+HP:0032541,4041695,Knuckle pads
+HP:0009798,141825,Simple goiter
+HP:0100819,196160,Fistula of intestine
+HP:0011815,432419,Encephalocele
+HP:0031807,314617,Basophilia
+HP:0000739,441542,Anxiety
+HP:0006516,444084,Extrinsic allergic alveolitis
+HP:0001396,201066,Obstruction of bile duct
+HP:0008124,4147373,Talipes calcaneovarus
+HP:0011848,4322528,Abdominal colic
+HP:0002840,316084,Lymphadenitis
+HP:0002840,313989,Chronic lymphadenitis
+HP:0002840,318222,Acute lymphadenitis
+HP:0032368,4323825,Acidemia
+HP:0001283,436684,Progressive bulbar palsy
+HP:0008200,136934,Primary hyperparathyroidism
+HP:0000486,377870,Heterotropia
+HP:0000486,4329707,Strabismus
+HP:0041168,4129394,Fracture of lumbar spine
+HP:0000246,4283893,Sinusitis
+HP:0012393,40589905,Allergic reaction
+HP:0012393,43530807,Allergic disposition
+HP:0025186,4197114,Jaw-winking syndrome
+HP:0031047,4002359,Monoclonal gammopathy (clinical)
+HP:0001395,4267417,Hepatic fibrosis
+HP:0030839,4150062,Knee pain
+HP:0010447,193807,Anorectal fistula
+HP:0010447,37203984,Anal fistula
+HP:0012585,4058977,Atrophy of kidney
+HP:0005112,198177,Abdominal aortic aneurysm
+HP:0007902,315276,Vitreous hemorrhage
+HP:0002014,196523,Diarrhea
+HP:0030502,381282,Retinoschisis
+HP:0005160,432432,Total anomalous pulmonary venous return
+HP:0034205,378848,Iniencephaly
+HP:0002639,196715,Budd-Chiari syndrome
+HP:0025607,4317981,Upper eyelid entropion
+HP:0001949,45769152,Bartter syndrome
+HP:0001394,4064161,Cirrhosis of liver
+HP:0000141,443800,Amenorrhea
+HP:0031657,319927,Heart sounds abnormal
+HP:0032202,4161430,Dysplasia of vulva
+HP:0001701,4138837,Pericarditis
+HP:0025126,4215982,Oral hairy leukoplakia
+HP:0033676,436676,Posttraumatic stress disorder
+HP:0032262,253954,Pulmonary tuberculosis
+HP:0032262,45771090,Respiratory tuberculosis
+HP:0002561,4088768,Absent nipple
+HP:0004439,4103387,Crouzon syndrome
+HP:0040183,440695,Encopresis
+HP:0025653,4103298,Placenta percreta
+HP:0032545,200215,Abdominal rigidity
+HP:0002110,256449,Bronchiectasis
+HP:0000160,140520,Microstomia
+HP:0002875,4263848,Dyspnea on exertion
+HP:0012384,4320791,Rhinitis
+HP:0012459,43530640,Hypnic headache
+HP:0012047,4163899,Day blindness
+HP:0008672,201620,Kidney stone
+HP:0002077,381549,Migraine with aura
+HP:0000473,376387,Spasmodic torticollis
+HP:0000558,4171022,Rieger syndrome
+HP:0011786,136932,Toxic uninodular goiter with thyrotoxic crisis
+HP:0011786,140976,Toxic uninodular goiter
+HP:0025004,79916,Acquired hallux rigidus
+HP:0003075,4244858,Decreased serum protein level
+HP:0001094,438422,Primary iridocyclitis
+HP:0001094,434926,Iridocyclitis
+HP:0034265,73819,Pain of breast
+HP:0005206,4008556,Pseudocyst of pancreas
+HP:0032253,4044708,"Langerhans cell histiocytosis, unifocal (clinical)"
+HP:0030011,193587,Imperforate hymen
+HP:0100518,197684,Dysuria
+HP:0000498,378425,Blepharitis
+HP:0005743,4006963,Avascular necrosis of the capital femoral epiphysis
+HP:0005743,4345598,Coxa plana
+HP:0011782,133436,Thyrotoxic crisis
+HP:0032062,316457,Mallory-Weiss syndrome
+HP:0030771,77647,Mallet finger
+HP:0002933,4188155,Hernia of anterior abdominal wall
+HP:0002795,4305080,Abnormal breathing
+HP:0010773,257660,Partial anomalous pulmonary venous connection
+HP:0002383,378143,Encephalitis
+HP:0030424,4181782,Cyst of epididymis
+HP:0030424,197601,Spermatocele
+HP:0040181,4033861,Perioral dermatitis
+HP:0001410,4326594,Abnormal liver function
+HP:0031736,372322,Senile entropion
+HP:0012235,432289,Drug-induced neutropenia
+HP:0006889,4299505,Borderline intellectual disability
+HP:0410149,4084168,Drug-induced anaphylaxis
+HP:0002884,4001172,Hepatoblastoma
+HP:0012175,4225324,Resistance to activated protein C due to Factor V Leiden
+HP:0000813,4150816,Bicornuate uterus
+HP:0000718,4085332,Physical aggression
+HP:0000718,4266361,Aggressive behavior
+HP:0032163,141216,Molluscum contagiosum infection
+HP:0001696,193306,Situs inversus viscerum
+HP:0002035,81336,Rectal prolapse
+HP:0002415,374912,Leukodystrophy
+HP:0031109,81088,Failure of lactation
+HP:0004097,4067861,Deviation of finger
+HP:0004097,78524,Acquired deformity of finger
+HP:0008665,199079,Hypertrophy of clitoris
+HP:0012390,76725,Anal fissure
+HP:0012390,4287929,Disorder of anal region
+HP:0002863,138994,Myelodysplastic syndrome (clinical)
+HP:0002863,135499,Subacute myeloid leukemia
+HP:0032063,4117713,Ankle joint effusion
+HP:0012653,45769438,Acute severe exacerbation of asthma
+HP:0000551,4279543,Color vision deficiency
+HP:0000939,80824,Senile osteoporosis
+HP:0000939,80502,Osteoporosis
+HP:0011604,4061819,Aortopulmonary window
+HP:0030773,376698,Internuclear ophthalmoplegia
+HP:0100255,4101118,Pyle metaphyseal dysplasia
+HP:0002580,197603,Intestinal volvulus
+HP:0031458,439851,Chronic adenoiditis
+HP:0003762,4049461,Congenital duplication of uterus
+HP:0000317,4028571,Facial myokymia
+HP:0000317,378135,Facial nerve disorder
+HP:0001543,4218764,Gastroschisis
+HP:0004763,317893,Paroxysmal supraventricular tachycardia
+HP:0000065,432966,Hypertrophy of vulva
+HP:0000065,37207172,Hypertrophy of labia
+HP:0012075,441838,Personality disorder
+HP:0040189,135029,Peeling of skin
+HP:0033345,373852,Neuralgia
+HP:0410399,4248223,Increased blood lead level
+HP:0004417,442774,Intermittent claudication
+HP:0200042,4262920,Skin ulcer
+HP:0008676,37397743,Congenital dilatation of ureter
+HP:0011726,40491883,Alveolar capillary dysplasia with pulmonary venous misalignment
+HP:0041082,4324690,Fracture of skull
+HP:0012479,4182164,Temporomandibular joint crepitus
+HP:0034179,4180026,Vertebral artery aneurysm
+HP:0100022,372604,Movement disorder
+HP:0001878,435503,Hemolytic anemia
+HP:0006695,435912,Endocardial cushion defect
+HP:0006695,4100152,Atrioventricular septal defect and common atrioventricular junction
+HP:0100570,40481907,Carcinoid tumor
+HP:0025520,4062098,Calcinosis cutis
+HP:0100786,438134,Hypersomnia
+HP:0002249,4103703,Melena
+HP:0100747,135654,Macrodactyly of toe
+HP:0100590,4213865,Rectal fistula
+HP:0006970,372435,Periventricular leukomalacia
+HP:0000483,378424,Astigmatism
+HP:0001319,4140071,Floppy infant syndrome
+HP:0100315,380701,Diffuse Lewy body disease
+HP:0004313,440072,Hypogammaglobulinemia
+HP:0030856,438767,Staphyloma posticum
+HP:0002047,4020879,Malignant hyperpyrexia due to anesthetic
+HP:0002047,440285,Malignant hyperthermia
+HP:0004743,4264718,Chronic tubulointerstitial nephritis
+HP:0025246,4115282,Trichilemmal cyst
+HP:0030166,4181178,Night sweats
+HP:0012514,4024561,Pain in lower limb
+HP:0008689,4149218,Undescended testes - bilateral
+HP:0005661,134264,Salmonella osteomyelitis
+HP:0010286,25572,Disorder of salivary gland
+HP:0002576,197034,Intussusception of intestine
+HP:0001945,437663,Fever
+HP:0002563,312334,Constrictive pericarditis
+HP:0001139,433465,Choroideremia
+HP:0025679,4046205,Discitis
+HP:0033515,438120,Opioid dependence
+HP:0010628,374923,Bell's palsy
+HP:0033771,4330445,Pleuritic pain
+HP:0000726,4182210,Dementia
+HP:0033791,433229,Ankylosis of tooth
+HP:0025273,77963,Achilles tendinitis
+HP:0100626,4340390,Chronic hepatic failure
+HP:0100626,45769564,End stage liver disease
+HP:0000957,4066941,CafÃ© au lait spots
+HP:0000957,4180091,Birthmark
+HP:0500043,4184626,Retraction of eyelid
+HP:0003940,4083695,Osteoarthritis of elbow
+HP:0000643,435802,Blepharospasm
+HP:0001682,4069183,Subaortic stenosis
+HP:0000405,377888,Conductive hearing loss
+HP:0011919,4238808,Empyema of pleura
+HP:0002072,440990,Chorea
+HP:0002987,74127,Contracture of elbow joint
+HP:0002612,4194229,Congenital hepatic fibrosis
+HP:0002487,140821,Spasm
+HP:0000158,437979,Enlargement of tongue
+HP:0010655,4150458,Chondrodysplasia punctata
+HP:0001669,432431,Discordant ventriculoarterial connection
+HP:0001669,316226,Complete transposition of great vessels
+HP:0008765,4164151,Auditory hallucinations
+HP:0005246,201059,Hypertrophic gastritis
+HP:0011002,81403,Osteopetrosis
+HP:0002180,4179873,Degenerative disorder
+HP:0002180,4213310,Degenerative disease of the central nervous system
+HP:0025660,4160043,Chiari malformation type II
+HP:0033311,4256889,Dissection of abdominal aorta
+HP:0004401,193591,Meconium ileus
+HP:0004401,193174,Cystic fibrosis with meconium ileus
+HP:0030841,4111231,Pain in toe
+HP:0002248,26727,Hematemesis
+HP:0031002,4027396,Peripheral neuritis
+HP:0100004,4032870,Malignant mesothelioma of pericardium
+HP:0012884,4263447,Torsion of fallopian tube
+HP:0011868,372409,Sciatica
+HP:0012646,435648,Retractile testis
+HP:0001089,440104,Atrophic iris
+HP:0012498,441646,Umbilical cord around neck
+HP:0000876,442274,Oligomenorrhea
+HP:0100646,133444,Thyroiditis
+HP:0012532,436096,Chronic pain
+HP:0000072,194408,Hydroureter
+HP:0000072,4318840,Dilatation of ureter
+HP:0011457,4147891,Madarosis of eyelid
+HP:0034267,4147829,Pain in pelvis
+HP:0002588,4198381,Ulcer of duodenum
+HP:0033840,195321,Postmenopausal bleeding
+HP:0031813,77923,Eosinophilic colitis
+HP:0001342,376713,Cerebral hemorrhage
+HP:0012276,4176908,Snapping thumb syndrome
+HP:0001880,40571991,Hypereosinophilic syndrome
+HP:0005679,4308093,Dupuytren's disease of palm
+HP:0005679,136203,Contracture of palmar fascia
+HP:0000112,198124,Kidney disease
+HP:0000020,197672,Urinary incontinence
+HP:0010444,4111416,"Pulmonary incompetence, non-rheumatic"
+HP:0002575,25582,Tracheoesophageal fistula
+HP:0001653,4108659,Mitral and aortic incompetence
+HP:0001653,313007,Congenital insufficiency of mitral valve
+HP:0011710,313791,Bundle branch block
+HP:0030212,4084868,Compulsive hoarding
+HP:0002919,441968,Acetonuria
+HP:0007992,319016,Retinal lattice degeneration
+HP:0009780,4223399,Iliac crest spur
+HP:0002239,192671,Gastrointestinal hemorrhage
+HP:0025691,4308509,Impaired fasting glycemia
+HP:0007755,440408,Meesman's corneal dystrophy
+HP:0030148,4186392,Murmur
+HP:0030148,316822,Heart murmur
+HP:0100963,4031840,Hyperesthesia
+HP:0012074,435279,Tonic pupillary reaction
+HP:0025237,40480875,Confusional arousal disorder
+HP:0100684,4116235,Malignant tumor of salivary gland
+HP:0003159,4074393,Primary hyperoxaluria
+HP:0003159,45757753,Hyperoxaluria
+HP:0002251,194149,Hirschsprung's disease
+HP:0001643,315922,Patent ductus arteriosus
+HP:0000649,253328,Abnormal visual evoked potential
+HP:0030156,4168230,Bence-Jones proteinuria
+HP:0500053,443519,Retinopathy of prematurity stage 4 - subtotal retinal detachment
+HP:0000104,4003487,Renal agenesis
+HP:0002232,141933,Alopecia areata
+HP:0006292,4122116,Tooth eruption disorder
+HP:0005263,201340,Gastritis
+HP:0041173,4145732,Fracture of metacarpophalangeal joint
+HP:0001140,381252,Benign neoplasm of eye
+HP:0031420,377555,Solar retinopathy
+HP:0012859,435577,Leukoplakia of esophagus
+HP:0002186,132342,Apraxia
+HP:0002105,261687,Hemoptysis
+HP:0100653,374954,Optic neuritis
+HP:0100749,77670,Chest pain
+HP:0000035,4208095,Congenital anomaly of testis
+HP:0040113,377574,Presbycusis
+HP:0001761,436799,Congenital pes cavus
+HP:0001761,40548161,Talipes cavus
+HP:0001891,436659,Iron deficiency anemia
+HP:0002718,4323342,Recurrent bacterial infection
+HP:3000041,4153380,Disorder of carotid artery
+HP:0012026,4199780,Gyrate atrophy
+HP:0030770,372727,Craniorachischisis
+HP:0004756,4103295,Ventricular tachycardia
+HP:0002999,4135083,Dislocation of patellofemoral joint
+HP:0002744,46269854,Cleft palate and bilateral cleft lip
+HP:4000036,4056179,Encysted hydrocele of spermatic cord
+HP:0100768,4092517,Choriocarcinoma
+HP:0032016,433596,Abnormal sputum
+HP:0100633,30753,Esophagitis
+HP:0100633,26459,Acute esophagitis
+HP:0040269,381302,Obstruction of Eustachian tube
+HP:0100726,434584,Kaposi's sarcoma (clinical)
+HP:0100726,258981,Kaposi's sarcoma of skin
+HP:0100726,140958,Kaposi's sarcoma of palate
+HP:0100726,254583,Kaposi's sarcoma of lung
+HP:0100726,312846,Kaposi's sarcoma of lymph nodes
+HP:0100726,375479,Kaposi's sarcoma of soft tissue
+HP:0040298,200775,Endometrial hyperplasia
+HP:0000103,79936,Polyuria
+HP:0003326,442752,Muscle pain
+HP:0003560,80399,Hereditary progressive muscular dystrophy
+HP:0003560,4247802,Muscular dystrophy
+HP:0010769,4165681,Pilonidal cyst
+HP:0012877,435866,Retrograde ejaculation
+HP:0003070,4115208,Ankylosis of the elbow joint
+HP:0025439,4226263,Pharyngitis
+HP:0003641,321414,Hemoglobinuria
+HP:0001849,4093531,Absence of toe
+HP:0004464,133779,Postauricular fistula
+HP:0002619,312349,Venous varices
+HP:0000603,376116,Central scotoma
+HP:0011508,4338894,Macular hole
+HP:0002020,23325,Heartburn
+HP:0002020,318800,Gastroesophageal reflux disease
+HP:0002571,318186,Achalasia of esophagus
+HP:0000709,436073,Psychotic disorder
+HP:0005313,37204824,Fibromuscular dysplasia of wall of artery
+HP:0002145,4043378,Frontotemporal dementia
+HP:0000271,4042835,Disorder of face
+HP:0000411,4170135,Prominent ear
+HP:0031249,436235,Taste sense altered
+HP:0002960,434621,Autoimmune disease
+HP:0032967,4177944,Panacinar emphysema
+HP:0100608,195012,Intermenstrual bleeding - irregular
+HP:0012418,437390,Hypoxemia
+HP:0410137,4014199,Solar urticaria
+HP:0009886,4032876,Clastothrix
+HP:0030907,43530641,Primary thunderclap headache
+HP:0012722,320425,Heart block
+HP:0001889,435789,Megaloblastic anemia
+HP:0100310,4306943,Epidural hemorrhage
+HP:4000037,72434,Congenital hydrocele
+HP:0005172,4268046,Left posterior fascicular block
+HP:0004610,136788,Spinal stenosis of lumbar region
+HP:0030706,24977,Mucocele of salivary gland
+HP:0004872,198464,Incisional hernia
+HP:0025469,4313298,Anagen effluvium
+HP:0001944,435796,Dehydration
+HP:0100580,443344,Barrett's esophagus
+HP:0012167,4062972,Trichotillomania
+HP:0000794,4128061,IgA nephropathy
+HP:0004392,201397,Prune belly syndrome
+HP:0012325,4133599,Chronic myelomonocytic leukemia
+HP:0007707,381949,Congenital aphakia
+HP:0005505,4003185,Refractory anemia (clinical)
+HP:0030160,196163,Cervicitis and endocervicitis
+HP:0030160,444078,Inflammation of cervix
+HP:0012623,443614,Chronic kidney disease stage 1
+HP:0031592,4007736,Situs inversus with levocardia
+HP:0033587,434084,Abscess of vulva
+HP:0033513,436389,Cocaine dependence
+HP:0033513,4264766,Cocaine-induced organic mental disorder
+HP:0001970,4177206,Tubulointerstitial nephritis
+HP:0010534,437306,Transient global amnesia
+HP:0001651,4100815,Dextrocardia
+HP:0000132,4302555,Menorrhagia
+HP:0030008,4291794,Congenital absence of cervix
+HP:0003401,4236484,Paresthesia
+HP:0100512,436070,Vitamin D deficiency
+HP:0025267,4248728,Snoring
+HP:0100651,201254,Type 1 diabetes mellitus
+HP:0000144,4066416,Decreased fertility
+HP:0500044,45763827,Retraction of upper eyelid
+HP:0000834,193165,Disorder of adrenal gland
+HP:0012076,434626,Borderline personality disorder
+HP:0000608,4224741,Degenerative disorder of macula
+HP:0100497,434310,Pellagra
+HP:0100497,4303664,Niacin deficiency
+HP:0000119,4171379,Disorder of the genitourinary system
+HP:0009924,4002306,Underdevelopment of nose
+HP:0001738,4186463,Exocrine pancreatic insufficiency
+HP:0020110,75053,Fracture of bone
+HP:0100764,433997,Lymphangioma
+HP:0002634,318443,Arteriosclerotic vascular disease
+HP:0009741,4140207,Nephrosclerosis
+HP:0100821,441906,Prolapse of urethra
+HP:0100806,132797,Sepsis
+HP:0032107,4218346,Limbal stem cell deficiency
+HP:0003202,78236,Muscle atrophy
+HP:0005850,4006107,Congenital talipes calcaneovalgus
+HP:0012614,4150384,Urine cytology abnormal
+HP:0001974,438398,Leukocytosis
+HP:0032131,192367,Dysplasia of cervix
+HP:0001007,134718,Hirsutism
+HP:0005701,4145177,Enchondromatosis
+HP:0030683,4149084,Vaginitis
+HP:0003474,4161682,Hypesthesia
+HP:0001686,40481303,Aphonia
+HP:0041061,4138414,Fracture of calcaneus
+HP:0001659,439834,Rheumatic aortic regurgitation
+HP:0002083,378735,Migraine without aura
+HP:0001805,4200238,Onychogryposis
+HP:0000970,140490,Anhidrosis
+HP:0000790,437038,Blood in urine
+HP:0000790,79864,Hematuria syndrome
+HP:0000029,438477,Atrophy of testis
+HP:0010677,193874,Nocturnal enuresis
+HP:0000980,138858,Pale complexion
+HP:0020123,378765,Tympanosclerosis
+HP:0030517,376977,Heteronymous bilateral visual field defects
+HP:0012847,374023,Epilepsia partialis continua
+HP:0004050,4159298,Congenital absence of hand
+HP:0430007,438152,Symblepharon
+HP:0046503,4237753,Increased libido
+HP:0100827,4281826,Lymphocytosis
+HP:0100645,198202,Cystocele
+HP:0100645,4254781,Herniated urinary bladder
+HP:0002615,317002,Low blood pressure
+HP:0008780,73021,Bilateral congenital dislocation of hip
+HP:0031776,372647,Cyclotropia
+HP:0001649,444070,Tachycardia
+HP:0030833,24134,Neck pain
+HP:0100719,4068113,Coloboma of lens
+HP:0012478,74064,Ankylosis of temporomandibular joint
+HP:0000541,378414,Retinal detachment
+HP:0011784,138717,Toxic diffuse goiter
+HP:0032092,4103137,Left ventricular outflow tract obstruction
+HP:0045005,4102400,Neural tube defect
+HP:0002643,4195694,Acute respiratory distress syndrome
+HP:0002181,376690,Cerebral edema
+HP:0031013,80493,Ankylosis of joint
+HP:0010463,4003569,Congenital absence of ovary
+HP:0003179,77357,Intrapelvic protrusion of acetabulum
+HP:0003304,4344612,Spondylolysis
+HP:0006704,321109,Congenital anomaly of coronary artery
+HP:0004813,4247776,Posttransfusion purpura
+HP:0012314,4066493,Bouchard's node
+HP:0100658,435613,Cellulitis
+HP:0025264,4097158,Ankle stiff
+HP:0010771,3655550,Pilonidal abscess
+HP:0012626,443612,Chronic kidney disease stage 4
+HP:0000360,377575,Tinnitus
+HP:0001694,4194358,Right to left cardiovascular shunt
+HP:0007824,380412,Total ophthalmoplegia
+HP:0012710,139099,Ingrowing nail
+HP:0000662,374037,Night blindness
+HP:0002664,438112,Neoplastic disease
+HP:0008749,4109493,Laryngeal hypoplasia
+HP:0000708,4080568,Problem behavior
+HP:0009797,372925,Cholesteatoma
+HP:0012388,260139,Acute bronchitis
+HP:0011599,4040838,Mesocardia
+HP:0000019,201688,Delay when starting to pass urine
+HP:0003765,140168,Psoriasis
+HP:0011540,441385,Corrected transposition of great vessels
+HP:0000616,434652,Persistent miosis
+HP:0032547,376107,Hypotony of eye
+HP:0025328,434089,Antepartum hemorrhage
+HP:0012155,439385,Corneal hypoesthesia
+HP:0012622,46271022,Chronic kidney disease
+HP:0001045,138502,Vitiligo
+HP:0000867,138388,Secondary hyperparathyroidism
+HP:0000220,4150457,Velopharyngeal insufficiency
+HP:0001635,319835,Congestive heart failure
+HP:0030430,40483714,Neuroma
+HP:0010865,441547,Oppositional defiant disorder
+HP:0006530,4119786,Interstitial lung disease
+HP:0009720,380839,Tuberous sclerosis syndrome
+HP:0003737,4059379,Mitochondrial myopathy
+HP:0001083,378245,Congenital ectopic lens
+HP:0012668,4121812,Situational syncope
+HP:0100279,40481367,Chronic left-sided ulcerative colitis
+HP:0100279,81893,Ulcerative colitis
+HP:0008366,4035425,Contracture of joint of foot
+HP:0002202,254061,Pleural effusion
+HP:0012426,436701,Drusen of optic disc
+HP:0020084,4212079,Carbuncle
+HP:0001723,4190773,Restrictive cardiomyopathy
+HP:0041248,4218884,Fracture of carpal bone
+HP:0010316,4069182,Ebstein's anomaly
+HP:0200032,373771,Kayser-Fleischer ring
+HP:0001882,435224,Leukopenia
+HP:0040187,4071063,Sepsis of the newborn
+HP:0011172,374168,Complex febrile seizure
+HP:0008629,4339489,Tinnitus of vascular origin
+HP:0031622,76122,Brown's tendon sheath syndrome
+HP:0032160,432310,Cryptococcal meningitis
+HP:0004299,4028373,Hernia of abdominal wall
+HP:0012246,4189235,Third cranial nerve weakness
+HP:0002036,4277355,Paraesophageal hernia
+HP:0002036,4224004,Hiatal hernia
+HP:0000100,195314,Nephrotic syndrome
+HP:0500069,4200286,Paralytic ectropion
+HP:0030692,373724,Neoplasm of brain
+HP:0030692,380055,Primary malignant neoplasm of brain
+HP:0001161,73318,Polydactyly of fingers
+HP:0001634,4252872,Mitral valve prolapse
+HP:0032515,140654,Deep seated dermatophytosis
+HP:0003201,4345578,Rhabdomyolysis
+HP:0000789,4311387,Infertile
+HP:0100523,201901,Abscess of liver
+HP:0011711,4295336,Left anterior fascicular block
+HP:0008404,4336254,Dystrophia unguium
+HP:0002153,434610,Hyperkalemia
+HP:0100584,441589,Endocarditis
+HP:0100584,434663,Acute endocarditis
+HP:0001644,4163710,Dilated cardiomyopathy
+HP:0031501,201131,Pelvic mass
+HP:0012077,440369,Histrionic personality disorder
+HP:0001324,79908,Muscle weakness
+HP:0001822,443744,Bunion
+HP:0001638,321319,Cardiomyopathy
+HP:0012203,4065991,Cellulitis and abscess of finger and toe
+HP:0012203,79898,Cellulitis and abscess of finger
+HP:0012203,136496,Cellulitis and abscess of face
+HP:0012203,197950,Cellulitis and abscess of trunk
+HP:0012203,75337,Cellulitis and abscess of buttock
+HP:0012203,140648,Onychomycosis due to dermatophyte
+HP:0001692,4068155,Atrial arrhythmia
+HP:0002613,192675,Biliary cirrhosis
+HP:0002613,4135822,Primary biliary cholangitis
+HP:0000853,135772,Goiter
+HP:0001402,4001171,Liver cell carcinoma
+HP:0000362,439035,Otosclerosis
+HP:0008258,4029573,Congenital adrenal hyperplasia
+HP:0008209,198715,Premature menopause
+HP:0012109,435543,Primary angle-closure glaucoma
+HP:0005978,201826,Type 2 diabetes mellitus
+HP:0030003,375821,Paralytic lagophthalmos
+HP:0001257,4329728,Spasticity
+HP:0001884,4102424,Calcaneovalgus deformity of foot
+HP:0002107,253796,Pneumothorax
+HP:0031738,376418,Mechanical entropion
+HP:0011410,193277,Deliveries by cesarean
+HP:0002380,4219643,Muscle fasciculation
+HP:0033005,137785,Verruca plantaris
+HP:0005231,4225273,Chronic gastritis
+HP:0030955,435243,Alcohol dependence
+HP:0500052,379009,Retinopathy of prematurity stage 3 - ridge with extraretinal fibrovascular proliferation
+HP:0100896,4216644,Rectal polyp
+HP:0010736,4233830,Monostotic fibrous dysplasia
+HP:0041165,4138290,Fracture of maxilla
+HP:0030454,40484951,Electrooculogram abnormal
+HP:0007417,4066824,Discoid lupus erythematosus
+HP:0000153,133303,Congenital anomaly of mouth
+HP:0010605,381581,Chalazion
+HP:0200029,4182711,Vasculitis of the skin
+HP:0040289,432297,Cyclical neutropenia
+HP:0000365,377889,Hearing loss
+HP:0100845,441202,Anaphylaxis
+HP:0000138,197610,Cyst of ovary
+HP:0030445,257513,Carcinoid tumor of lung
+HP:0002533,439935,Abnormal posture
+HP:0000872,135215,Hashimoto thyroiditis
+HP:0001004,435839,Lymphedema
+HP:0002076,379806,Migraine variants
+HP:0001561,437623,Polyhydramnios
+HP:0008480,4308802,Cervical spondylosis
+HP:0005224,443327,Rectal abscess
+HP:0200026,379031,Pain in eye
+HP:0025488,200774,Detrusor and sphincter dyssynergia
+HP:0100576,4338523,Amaurosis fugax
+HP:0001067,376938,Neurofibromatosis syndrome
+HP:0033210,258866,Respiratory distress syndrome in the newborn
+HP:0000093,75650,Proteinuria
+HP:0031091,46272449,Dactylitis of toe
+HP:0410017,380731,Otitis externa
+HP:0410017,381859,Infective otitis externa
+HP:0002621,40479625,Atherosclerosis of artery
+HP:0000421,4096682,Bleeding from nose
+HP:0001332,375800,Dystonia
+HP:0003418,134736,Backache
+HP:0020166,313761,Central retinal vein occlusion
+HP:0100541,4178874,Femoral hernia
+HP:0025059,4220074,Splenic abscess
+HP:0011095,22945,Horizontal overbite
+HP:0040075,4254542,Hypopituitarism
+HP:0010514,26378,Hyperpituitarism
+HP:0005506,134603,Chronic myeloid leukemia
+HP:0003074,4214376,Hyperglycemia
+HP:0000832,138384,Acquired hypothyroidism
+HP:0002910,438878,Liver function tests abnormal
+HP:0020071,133327,Viremia
+HP:0002511,378419,Alzheimer's disease
+HP:0041249,4134318,Fractured nasal bones
+HP:0001648,4167085,Pulmonary heart disease
+HP:0031792,377558,Irregular astigmatism
+HP:0000704,141608,Periodontitis
+HP:0002808,4214530,Kyphosis deformity of spine
+HP:0001997,4096347,Gouty arthropathy
+HP:0001997,440674,Gout
+HP:0003131,4225406,Cystinuria
+HP:0025312,373212,Esophoria
+HP:0000238,4043738,Hydrocephalus
+HP:0040115,373850,Congenital abnormality of Eustachian tube
+HP:0001742,4334403,Nasal obstruction
+HP:0001742,4195085,Nasal congestion
+HP:0006000,198802,Occlusion of ureter
+HP:0011892,435781,Vitamin K deficiency
+HP:0010604,379822,Cyst of eyelid
+HP:0000989,136184,Pruritus of skin
+HP:0000989,4302654,Itching
+HP:0100258,4004792,Radial polydactyly
+HP:0002099,317009,Asthma
+HP:0031589,4273391,Suicidal thoughts
+HP:0000962,4067069,Callosity
+HP:0000546,4318985,Degeneration of retina
+HP:0009827,4267437,Amelia
+HP:0001875,320073,Neutropenia
+HP:0002488,138708,Acute leukemia
+HP:0012230,4055484,Rhegmatogenous retinal detachment
+HP:0041219,4205238,Elbow fracture
+HP:0000265,374655,Mastoiditis
+HP:0033117,433516,Duodenitis
+HP:0100577,195588,Cystitis
+HP:0100750,261880,Atelectasis
+HP:0000839,25780,Pituitary dwarfism
+HP:0000975,138565,Hyperhidrosis
+HP:0000975,4188566,Sweating
+HP:0000826,4267558,Precocious puberty
+HP:0002094,4041664,Difficulty breathing
+HP:0002094,312437,Dyspnea
+HP:0200040,137351,Epidermoid cyst of skin
+HP:0200040,4170770,Epidermoid cyst
+HP:0100280,201606,Crohn's disease
+HP:0100280,194684,Crohn's disease of large bowel
+HP:0000859,195213,Hyperaldosteronism
+HP:0012461,4265485,Bacteriuria
+HP:0002725,257628,Systemic lupus erythematosus
+HP:0012062,80509,Bone cyst
+HP:0012062,72421,Solitary bone cyst
+HP:0012701,4216708,Urgent desire for stool
+HP:0032004,4194652,Pruritus of vulva
+HP:0002031,23868,Congenital anomaly of esophagus
+HP:0002240,197676,Large liver
+HP:0030816,134386,Gingival recession
+HP:0030816,4243666,Localized gingival recession
+HP:0004684,441401,Talipes valgus
+HP:0000567,438859,Fundus coloboma
+HP:0002665,432571,Malignant lymphoma
+HP:0030186,43531003,Essential tremor
+HP:0003414,4134177,Subluxation of atlantoaxial joint
+HP:0001065,137054,Skin striae
+HP:0007024,373190,Pseudobulbar palsy
+HP:0002445,374914,Tetraplegia
+HP:0000646,376981,Amblyopia
+HP:0040165,440822,Periostitis
+HP:0025636,4302765,Endometritis
+HP:0012154,4102935,Anhedonia
+HP:0010891,433565,Juvenile osteochondrosis of spine
+HP:0001138,380410,Nutritional optic neuropathy
+HP:0002187,438733,Profound intellectual disability
+HP:0041217,46270317,Fracture of shoulder
+HP:0002608,194992,Celiac disease
+HP:0100735,45768449,Hypertensive crisis
+HP:0002104,321689,Apnea
+HP:0012469,37109663,Infantile spasm
+HP:0001709,320744,Complete atrioventricular block
+HP:0000609,375823,Hypoplasia of the optic nerve
+HP:0025252,441333,Geographic tongue
+HP:0000505,373786,Abnormal vision
+HP:0001677,315286,Chronic ischemic heart disease
+HP:0001677,317576,Coronary arteriosclerosis
+HP:0041153,4059173,Fracture of ankle
+HP:0041246,4302740,Fracture of sternum
+HP:0000175,4272171,Cleft hard and soft palate
+HP:0000175,135923,Cleft palate
+HP:0000389,4052079,Chronic otitis media
+HP:0005681,4259507,Juvenile idiopathic arthritis
+HP:0005681,4253901,Juvenile rheumatoid arthritis
+HP:0000508,374044,Ptosis of eyelid
+HP:0003072,435511,Hypercalcemia
+HP:0012735,254761,Cough
+HP:0000458,4185711,Loss of sense of smell
+HP:0004757,4154290,Paroxysmal atrial fibrillation
+HP:0100249,40490403,Calcification of muscle
+HP:0032551,195562,Hemorrhoids
+HP:0012474,313226,Carotid artery occlusion
+HP:0012474,4288310,Carotid artery obstruction
+HP:0030080,4041800,Burkitt's lymphoma (clinical)
+HP:0100817,317895,Renovascular hypertension
+HP:0041143,440543,Fracture of tibia
+HP:0001693,40482197,Cardiac shunt
+HP:0009830,4301699,Neuropathy
+HP:0010890,4217493,Osgood Schlatter disease
+HP:0100662,4176945,Inflammatory disorder of cartilage
+HP:0001355,4023960,Macrocephaly
+HP:0001355,4319903,Macroencephaly
+HP:0010885,137651,Aseptic necrosis of medial femoral condyle
+HP:0010885,4344387,Bone necrosis
+HP:0010885,439120,Aseptic necrosis of head AND/OR neck of femur
+HP:0010885,77650,Aseptic necrosis of bone
+HP:0010885,79121,Aseptic necrosis of talus
+HP:0010885,435633,Juvenile osteochondrosis of upper extremity
+HP:0010885,141673,Aseptic necrosis of head of humerus
+HP:0001744,200527,Splenomegaly
+HP:0001818,137057,Paronychia
+HP:0002059,4150603,Cerebral atrophy
+HP:0011565,4099995,Common atrium
+HP:0000700,138181,Radicular cyst
+HP:0012193,441235,Large cell anaplastic lymphoma
+HP:0001195,4005289,Single umbilical artery
+HP:0000154,22426,Congenital macrostomia
+HP:0033073,4299408,Gouty tophus
+HP:0000366,256811,Congenital anomaly of nose
+HP:0000366,4215933,Congenital deformity of nose
+HP:0010755,437014,Asymmetry of maxilla
+HP:0030143,4111297,Bowel sounds hyperactive
+HP:0003279,45757653,Coxa magna
+HP:0002039,442165,Loss of appetite
+HP:0002384,4165417,Complex partial seizure with impairment of consciousness
+HP:0032448,193804,Achlorhydria
+HP:0100513,4203927,Vitamin E deficiency
+HP:0033821,4203096,Lung mass
+HP:0032416,432890,Microaneurysm of retinal artery
+HP:0003763,433455,Sleep related bruxism
+HP:0001636,320835,Tetralogy of Fallot
+HP:0020147,4050147,Deficiency of butyryl-CoA dehydrogenase
+HP:0033639,40479606,Septic pulmonary embolism
+HP:0031909,4028991,Uterus unicornis
+HP:0000135,4167354,Hypogonadism
+HP:0002017,27674,Nausea and vomiting
+HP:0005550,4082311,B-cell chronic lymphocytic leukemia
+HP:0005550,138379,"Chronic lymphoid leukemia, disease"
+HP:0011885,4247597,Intraocular hemorrhage
+HP:0000073,4170862,Double ureter
+HP:0007970,437093,Congenital ptosis of upper eyelid
+HP:0011034,432595,Amyloidosis
+HP:0003365,4170554,Hip pain
+HP:0032227,4081088,Sebaceous hyperplasia
+HP:0100013,81251,Neoplasm of breast
+HP:0007209,434657,Weakness of face muscles
+HP:0031737,374650,Cicatricial entropion
+HP:0500049,373766,Retinopathy of prematurity
+HP:0001133,378154,Visual field constriction
+HP:0001133,4143365,Generalized visual field constriction
+HP:0002088,257907,Disorder of lung
+HP:0001971,192298,Hypersplenism
+HP:0001631,4289309,Atrial septal defect
+HP:0004798,37396146,Gastrointestinal infection
+HP:0001513,433736,Obesity
+HP:0002326,373503,Transient cerebral ischemia
+HP:0009926,435553,Epiphora
+HP:0030442,4116241,Squamous cell carcinoma of anal margin
+HP:0011736,434000,Primary aldosteronism
+HP:0001650,313221,Rheumatic aortic stenosis
+HP:0001622,4086393,Premature delivery
+HP:0001622,4175637,Premature pregnancy delivered
+HP:0032071,4279553,Eosinophilic asthma
+HP:0430028,437912,Congenital maxillary hyperplasia
+HP:0000519,380513,Congenital cataract
+HP:0006934,373489,Congenital nystagmus
+HP:0001952,4311629,Impaired glucose tolerance
+HP:0002650,4006163,Acquired scoliosis
+HP:0002650,72418,Scoliosis deformity of spine
+HP:0002650,73302,Curvature of spine
+HP:0002974,438851,Radioulnar synostosis
+HP:0010828,4029329,Hemifacial spasm
+HP:0005541,434895,Congenital neutropenia
+HP:0030880,314962,Raynaud's disease
+HP:0030880,4143972,Raynaud's phenomenon
+HP:0007330,4102401,Frontal encephalocele
+HP:0002457,4154930,Head movements abnormal
+HP:0012191,434592,B-cell lymphoma (clinical)
+HP:0009125,134324,Lipodystrophy
+HP:0002633,4137275,Vasculitis
+HP:0001080,197917,Disorder of biliary tract
+HP:0001047,4066382,Atopic neurodermatitis
+HP:0001047,133834,Atopic dermatitis
+HP:0025272,4264234,Chloasma
+HP:0100522,40485495,Thymoma
+HP:0011967,4024266,Hypocupremia
+HP:0006579,435656,Neonatal jaundice
+HP:0005988,440814,Torticollis
+HP:0002918,4284559,Hypermagnesemia
+HP:0000540,376415,Hypermetropia
+HP:0012624,443601,Chronic kidney disease stage 2
+HP:0030041,80496,Schmorl's nodes
+HP:0012324,140666,Myeloid leukemia
+HP:0012798,4174275,Pulmonary lymphangioleiomyomatosis
+HP:0004804,28396,Hereditary hemolytic anemia
+HP:0010786,78706,Benign neoplasm of urinary system
+HP:0001915,137829,Aplastic anemia
+HP:0032018,376395,Mononeuritis multiplex
+HP:0003115,320536,Electrocardiogram abnormal
+HP:0045029,4083100,Fasciitis with eosinophilia syndrome
+HP:0009742,72711,Shoulder stiff
+HP:0400007,443431,Disorder of menstruation
+HP:0001480,4299829,Ephelis
+HP:0001678,316135,Atrioventricular block
+HP:0002367,4275889,Visual hallucinations
+HP:0000086,4040640,Ectopic kidney
+HP:0002586,196152,Peritonitis
+HP:0030707,4279620,Congenital absence of lung
+HP:0002607,197675,Incontinence of feces
+HP:0007705,372635,Corneal degeneration
+HP:0008419,80816,Degeneration of intervertebral disc
+HP:0100820,4059452,Glomerular disease
+HP:0010607,380403,External hordeolum
+HP:0000855,35622016,Insulin resistance
+HP:0001264,132617,Diplegic cerebral palsy
+HP:0001871,443723,Disorder of cellular component of blood
+HP:0031869,81939,Recurrent dislocation of joint
+HP:0001397,4059290,Steatosis of liver
