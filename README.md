@@ -43,5 +43,5 @@ password = {solr_password}
 ```
 
 ### Data Preprocessing & Model Prediction
-The customized data preprocessor and trained model can be found in the [folder](saved_model/), along with feature mapping dictionary. 
+The customized data preprocessor and trained model can be found in the [folder](analysis/saved_model/), along with feature mapping dictionary. 
 
