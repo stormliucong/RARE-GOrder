@@ -16,6 +16,7 @@ pip install -r requirements.txt
 ### Data
 - The original data is collected by the Clinical Genetic Division at Department of Pediatrics at Columbia Universtiy Irving Medical Center. Given the clinical data containing Protected Health Information (PHI) thus cannot be made readily available for public distirbution, we provided some [synthetic data](data_preprocessing/demo_data) for any reference to execute the model training pipeline.
 - Examples of training a new model based on Columbia's dataset can be found in the [folder](notebook/train.ipynb).
+  
 ### Usage
 To use `new_utils.py`, you have to create a local credential file `db.conf`. Keep it in a screte place with proper access management. Remember to fill in details in the {}.
 ```
@@ -35,5 +36,5 @@ password = {solr_password}
 ## For Prediction
 ### Data Preprocessing & Model Prediction
 - The customized data preprocessor and trained model can be found in the [folder](analysis/saved_model/), along with feature mapping dictionary.
-- Examples of how to use the model on your own dataset can be found in the [folder](notebook/prediction.ipynb).
+- Examples of how to use the model on your own dataset can be found in the [folder](analysis/saved_model/prediction.ipynb).
 
