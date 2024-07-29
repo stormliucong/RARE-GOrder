@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ## Repeat Training Pipeline
 ### Data
 - The original data is collected by the Clinical Genetic Division at Department of Pediatrics at Columbia Universtiy Irving Medical Center. Given the clinical data containing Protected Health Information (PHI) thus cannot be made readily available for public distirbution, we provided some [synthetic data](data_preprocessing/demo_data) for any reference to execute the model training pipeline.
-- Examples of training a new model based on Columbia's dataset can be found in the [folder](notebook/train.ipynb).
+- Examples of training a new model based on Columbia's dataset can be found in the [folder](model_pipeline/model_running_iterations/trained.py).
   
 ### Usage
 To use `new_utils.py`, you have to create a local credential file `db.conf`. Keep it in a screte place with proper access management. Remember to fill in details in the {}.
